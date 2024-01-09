@@ -1,0 +1,5578 @@
+﻿Participant ID;Answer Number;Word/Answer;Which section;Question;For OT: level
+3_ABK16;1;vorsätzlich;NL-3;OT;OT: Medium
+3_ABK16;2;in Kauf;NL-3;OT;OT: High
+3_ABK16;3;nach den Umständen;NL-3;OT;OT: High
+3_ABK16;4;persönlichen Verhältnissen;NL-3;OT;OT: High
+3_ABK16;1;anders;NL-3;Cloze;
+3_ABK16;2;strafbar;NL-3;Cloze;
+3_ABK16;3;Vergehen;NL-3;Cloze;
+3_ABK16;4;Verbrechen;NL-3;Cloze;
+3_ABK16;5;Tat;NL-3;Cloze;
+3_ABK16;6;begeht;NL-3;Cloze;
+3_ABK16;7;der;NL-3;Cloze;
+3_ABK16;8;möglich;NL-3;Cloze;
+3_ABK16;9;nimmt;NL-3;Cloze;
+3_ABK16;10;Vergehen;NL-3;Cloze;
+3_ABK16;11;Handelns;NL-3;Cloze;
+3_ABK16;12;bedenkt;NL-3;Cloze;
+3_ABK16;13;nimmt;NL-3;Cloze;
+3_ABK16;14;wenn;NL-3;Cloze;
+3_ABK16;15;nicht;NL-3;Cloze;
+3_ABK16;16;unter;NL-3;Cloze;
+3_ABK16;17;seinem;NL-3;Cloze;
+3_ABK16;1;2;SUS-NL;;
+3_ABK16;2;4;SUS-NL;;
+3_ABK16;3;2;SUS-NL;;
+3_ABK16;4;1;SUS-NL;;
+3_ABK16;5;4;SUS-NL;;
+3_ABK16;6;3;SUS-NL;;
+3_ABK16;7;4;SUS-NL;;
+3_ABK16;8;2;SUS-NL;;
+3_ABK16;9;3;SUS-NL;;
+3_ABK16;1;5;Distraction task;;
+3_ABK16;1;glaubt, dass eine Tat möglich;CL-3;OT;OT: High
+3_ABK16;2;Möglichkeit der Tat akzeptiert;CL-3;OT;OT: High
+3_ABK16;3;unvorsichtig;CL-3;OT;OT: High
+3_ABK16;4;verabsäumt;CL-3;OT;OT: High
+3_ABK16;5;Konsequenzen des Verhaltens einzuschätzen oder diese ignoriert;CL-3;OT;OT: High
+3_ABK16;6;Situation entsprechende Sorgfalt;CL-3;OT;OT: High
+3_ABK16;1;Verbrechen;CL-3;Cloze;
+3_ABK16;2;dieses;CL-3;Cloze;
+3_ABK16;3;kann;CL-3;Cloze;
+3_ABK16;4;werden;CL-3;Cloze;
+3_ABK16;5;Vergehen;CL-3;Cloze;
+3_ABK16;6;dieses;CL-3;Cloze;
+3_ABK16;7;kann;CL-3;Cloze;
+3_ABK16;8;werden;CL-3;Cloze;
+3_ABK16;9;beabsichtigt;CL-3;Cloze;
+3_ABK16;10;will;CL-3;Cloze;
+3_ABK16;11;bewusst;CL-3;Cloze;
+3_ABK16;12;Verbrechen;CL-3;Cloze;
+3_ABK16;13;sich;CL-3;Cloze;
+3_ABK16;14;es;CL-3;Cloze;
+3_ABK16;15;handelt;CL-3;Cloze;
+3_ABK16;16;dabei;CL-3;Cloze;
+3_ABK16;17;Person;CL-3;Cloze;
+3_ABK16;18;möglich;CL-3;Cloze;
+3_ABK16;19;der;CL-3;Cloze;
+3_ABK16;20;diese;CL-3;Cloze;
+3_ABK16;21;nachlässig;CL-3;Cloze;
+3_ABK16;22;verabsäumt;CL-3;Cloze;
+3_ABK16;23;azuschätzen;CL-3;Cloze;
+3_ABK16;24;handelt;CL-3;Cloze;
+3_ABK16;25;Tat;CL-3;Cloze;
+3_ABK16;26;ist;CL-3;Cloze;
+3_ABK16;27;mit;CL-3;Cloze;
+3_ABK16;28;Tat;CL-3;Cloze;
+3_ABK16;29;ist;CL-3;Cloze;
+3_ABK16;30;mit;CL-3;Cloze;
+3_ABK16;31;Person;CL-3;Cloze;
+3_ABK16;32;angebrachte;CL-3;Cloze;
+3_ABK16;33;einer;CL-3;Cloze;
+3_ABK16;34;dann;CL-3;Cloze;
+3_ABK16;35;Sorgfalt;CL-3;Cloze;
+3_ABK16;1;3;SUS-CL;;
+3_ABK16;2;2;SUS-CL;;
+3_ABK16;3;3;SUS-CL;;
+3_ABK16;4;2;SUS-CL;;
+3_ABK16;5;2;SUS-CL;;
+3_ABK16;6;3;SUS-CL;;
+3_ABK16;7;2;SUS-CL;;
+3_ABK16;8;2;SUS-CL;;
+3_ABK16;9;3;SUS-CL;;
+3_ABK16;1;3;Regular use of CL;;
+3_BAK16;1;explizit;CL-3;OT;OT: Low
+3_BAK16;2;bewusst;CL-3;OT;OT: Low
+3_BAK16;3;unvorsichtig;CL-3;OT;OT: High
+3_BAK16;4;Konsequenzen;CL-3;OT;OT: Medium
+3_BAK16;5;Sorgfalt;CL-3;OT;OT: High
+3_BAK16;1;Verbrechen;CL-3;Cloze;
+3_BAK16;2;Verbrechen;CL-3;Cloze;
+3_BAK16;3;muss;CL-3;Cloze;
+3_BAK16;4;werden;CL-3;Cloze;
+3_BAK16;5;Vergehen;CL-3;Cloze;
+3_BAK16;6;Vergehen;CL-3;Cloze;
+3_BAK16;7;muss;CL-3;Cloze;
+3_BAK16;8;werden;CL-3;Cloze;
+3_BAK16;9;will;CL-3;Cloze;
+3_BAK16;10;will;CL-3;Cloze;
+3_BAK16;11;bewusst;CL-3;Cloze;
+3_BAK16;12;Verbrechen;CL-3;Cloze;
+3_BAK16;13;sich;CL-3;Cloze;
+3_BAK16;14;es;CL-3;Cloze;
+3_BAK16;15;handelt;CL-3;Cloze;
+3_BAK16;16;um;CL-3;Cloze;
+3_BAK16;17;Person;CL-3;Cloze;
+3_BAK16;18;möglich;CL-3;Cloze;
+3_BAK16;19;der;CL-3;Cloze;
+3_BAK16;20;die;CL-3;Cloze;
+3_BAK16;21;nachlässig;CL-3;Cloze;
+3_BAK16;22;kennt;CL-3;Cloze;
+3_BAK16;23;in Kauf nimmt;CL-3;Cloze;
+3_BAK16;24;handelt;CL-3;Cloze;
+3_BAK16;25;Tat;CL-3;Cloze;
+3_BAK16;26;ist;CL-3;Cloze;
+3_BAK16;27;aus;CL-3;Cloze;
+3_BAK16;28;Tat;CL-3;Cloze;
+3_BAK16;29;ist;CL-3;Cloze;
+3_BAK16;30;aus;CL-3;Cloze;
+3_BAK16;31;Person;CL-3;Cloze;
+3_BAK16;32;angemesse;CL-3;Cloze;
+3_BAK16;33;andere;CL-3;Cloze;
+3_BAK16;34;-;CL-3;Cloze;
+3_BAK16;35;Nachlässigkeit;CL-3;Cloze;
+3_BAK16;1;4;SUS-CL;;
+3_BAK16;2;5;SUS-CL;;
+3_BAK16;3;1;SUS-CL;;
+3_BAK16;4;1;SUS-CL;;
+3_BAK16;5;4;SUS-CL;;
+3_BAK16;6;1;SUS-CL;;
+3_BAK16;7;5;SUS-CL;;
+3_BAK16;8;3;SUS-CL;;
+3_BAK16;9;4;SUS-CL;;
+3_BAK16;1;5;Distraction task;;
+3_BAK16;1;Willen;NL-3;OT;OT: Low
+3_BAK16;2;Verwirklichung;NL-3;OT;OT: Medium
+3_BAK16;3;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK16;4;persönlichen Verhälntnissen;NL-3;OT;OT: High
+3_BAK16;1;-;NL-3;Cloze;
+3_BAK16;2;strafbar;NL-3;Cloze;
+3_BAK16;3;Vergehen;NL-3;Cloze;
+3_BAK16;4;Verbrechen;NL-3;Cloze;
+3_BAK16;5;Tat;NL-3;Cloze;
+3_BAK16;6;begeht;NL-3;Cloze;
+3_BAK16;7;die;NL-3;Cloze;
+3_BAK16;8;möglich;NL-3;Cloze;
+3_BAK16;9;nimmt;NL-3;Cloze;
+3_BAK16;10;Vergehen;NL-3;Cloze;
+3_BAK16;11;Handelns;NL-3;Cloze;
+3_BAK16;12;beachtet;NL-3;Cloze;
+3_BAK16;13;nimmt;NL-3;Cloze;
+3_BAK16;14;wenn;NL-3;Cloze;
+3_BAK16;15;nicht;NL-3;Cloze;
+3_BAK16;16;nach;NL-3;Cloze;
+3_BAK16;17;seinen;NL-3;Cloze;
+3_BAK16;1;5;SUS-NL;;
+3_BAK16;2;2;SUS-NL;;
+3_BAK16;3;4;SUS-NL;;
+3_BAK16;4;1;SUS-NL;;
+3_BAK16;5;2;SUS-NL;;
+3_BAK16;6;3;SUS-NL;;
+3_BAK16;7;2;SUS-NL;;
+3_BAK16;8;4;SUS-NL;;
+3_BAK16;9;3;SUS-NL;;
+3_BAK16;1;3;Regular use of CL;;
+3_ABK17;1;Verbrechen;NL-3;OT;OT: Low
+3_ABK17;2;Vergehen;NL-3;OT;OT: Low
+3_ABK17;3;Verbrechen;NL-3;OT;OT: Low
+3_ABK17;4;Vergehen;NL-3;OT;OT: Low
+3_ABK17;1;-;NL-3;Cloze;
+3_ABK17;2;strafbar;NL-3;Cloze;
+3_ABK17;3;Vergehen;NL-3;Cloze;
+3_ABK17;4;Verbrechen;NL-3;Cloze;
+3_ABK17;5;Tat;NL-3;Cloze;
+3_ABK17;6;begeht;NL-3;Cloze;
+3_ABK17;7;die;NL-3;Cloze;
+3_ABK17;8;wahrscheinlich;NL-3;Cloze;
+3_ABK17;9;nimmt;NL-3;Cloze;
+3_ABK17;10;Vergehen;NL-3;Cloze;
+3_ABK17;11;Handelns;NL-3;Cloze;
+3_ABK17;12;erkennt;NL-3;Cloze;
+3_ABK17;13;nimmt;NL-3;Cloze;
+3_ABK17;14;wenn;NL-3;Cloze;
+3_ABK17;15;nicht;NL-3;Cloze;
+3_ABK17;16;nach;NL-3;Cloze;
+3_ABK17;17;seinen;NL-3;Cloze;
+3_ABK17;1;4;SUS-NL;;
+3_ABK17;2;2;SUS-NL;;
+3_ABK17;3;3;SUS-NL;;
+3_ABK17;4;2;SUS-NL;;
+3_ABK17;5;2;SUS-NL;;
+3_ABK17;6;3;SUS-NL;;
+3_ABK17;7;3;SUS-NL;;
+3_ABK17;8;3;SUS-NL;;
+3_ABK17;9;3;SUS-NL;;
+3_ABK17;1;6;Distraction task;;
+3_ABK17;1;Verbrechen;CL-3;OT;OT: Medium
+3_ABK17;2;Vergehen;CL-3;OT;OT: Medium
+3_ABK17;3;Sorgfalt;CL-3;OT;OT: Medium
+3_ABK17;4;Sorgfalt;CL-3;OT;OT: Medium
+3_ABK17;1;Verbrechen;CL-3;Cloze;
+3_ABK17;2;ist;CL-3;Cloze;
+3_ABK17;3;kann;CL-3;Cloze;
+3_ABK17;4;werden;CL-3;Cloze;
+3_ABK17;5;-;CL-3;Cloze;
+3_ABK17;6;-;CL-3;Cloze;
+3_ABK17;7;kann;CL-3;Cloze;
+3_ABK17;8;werden;CL-3;Cloze;
+3_ABK17;9;-;CL-3;Cloze;
+3_ABK17;10;-;CL-3;Cloze;
+3_ABK17;11;-;CL-3;Cloze;
+3_ABK17;12;-;CL-3;Cloze;
+3_ABK17;13;-;CL-3;Cloze;
+3_ABK17;14;-;CL-3;Cloze;
+3_ABK17;15;-;CL-3;Cloze;
+3_ABK17;16;-;CL-3;Cloze;
+3_ABK17;17;Person;CL-3;Cloze;
+3_ABK17;18;erlaubt;CL-3;Cloze;
+3_ABK17;19;der;CL-3;Cloze;
+3_ABK17;20;die;CL-3;Cloze;
+3_ABK17;21;-;CL-3;Cloze;
+3_ABK17;22;-;CL-3;Cloze;
+3_ABK17;23;-;CL-3;Cloze;
+3_ABK17;24;handelt;CL-3;Cloze;
+3_ABK17;25;Tat;CL-3;Cloze;
+3_ABK17;26;ist;CL-3;Cloze;
+3_ABK17;27;in;CL-3;Cloze;
+3_ABK17;28;Tat;CL-3;Cloze;
+3_ABK17;29;ist;CL-3;Cloze;
+3_ABK17;30;in;CL-3;Cloze;
+3_ABK17;31;Person;CL-3;Cloze;
+3_ABK17;32;angepasste;CL-3;Cloze;
+3_ABK17;33;einer anderen;CL-3;Cloze;
+3_ABK17;34;dann;CL-3;Cloze;
+3_ABK17;35;Sorgfalt;CL-3;Cloze;
+3_ABK17;1;4;SUS-CL;;
+3_ABK17;2;2;SUS-CL;;
+3_ABK17;3;3;SUS-CL;;
+3_ABK17;4;2;SUS-CL;;
+3_ABK17;5;2;SUS-CL;;
+3_ABK17;6;4;SUS-CL;;
+3_ABK17;7;2;SUS-CL;;
+3_ABK17;8;3;SUS-CL;;
+3_ABK17;9;2;SUS-CL;;
+3_ABK17;1;4;Regular use of CL;;
+3_BAK17;1;glaubt;CL-3;OT;OT: High
+3_BAK17;2;unvorsichtig;CL-3;OT;OT: Medium
+3_BAK17;3;verabsäumt;CL-3;OT;OT: Medium
+3_BAK17;4;nachlässig;CL-3;OT;OT: Medium
+3_BAK17;5;die der Situation entsprechende Sorgfalt;CL-3;OT;OT: High
+3_BAK17;6;der Person zugetraut werden kann;CL-3;OT;OT: High
+3_BAK17;1;Verbrechen;CL-3;Cloze;
+3_BAK17;2;dieses;CL-3;Cloze;
+3_BAK17;3;kann;CL-3;Cloze;
+3_BAK17;4;werden;CL-3;Cloze;
+3_BAK17;5;Vergehen;CL-3;Cloze;
+3_BAK17;6;dieses;CL-3;Cloze;
+3_BAK17;7;kann;CL-3;Cloze;
+3_BAK17;8;werden;CL-3;Cloze;
+3_BAK17;9;begeht;CL-3;Cloze;
+3_BAK17;10;will;CL-3;Cloze;
+3_BAK17;11;bewusst;CL-3;Cloze;
+3_BAK17;12;Verbrechen;CL-3;Cloze;
+3_BAK17;13;sich;CL-3;Cloze;
+3_BAK17;14;es;CL-3;Cloze;
+3_BAK17;15;handelt;CL-3;Cloze;
+3_BAK17;16;um;CL-3;Cloze;
+3_BAK17;17;Person;CL-3;Cloze;
+3_BAK17;18;möglich;CL-3;Cloze;
+3_BAK17;19;diese;CL-3;Cloze;
+3_BAK17;20;die;CL-3;Cloze;
+3_BAK17;21;bewusst;CL-3;Cloze;
+3_BAK17;22;-;CL-3;Cloze;
+3_BAK17;23;-;CL-3;Cloze;
+3_BAK17;24;handelt;CL-3;Cloze;
+3_BAK17;25;Tat;CL-3;Cloze;
+3_BAK17;26;ist;CL-3;Cloze;
+3_BAK17;27;aus;CL-3;Cloze;
+3_BAK17;28;Tat;CL-3;Cloze;
+3_BAK17;29;ist;CL-3;Cloze;
+3_BAK17;30;aus;CL-3;Cloze;
+3_BAK17;31;Person;CL-3;Cloze;
+3_BAK17;32;angepasst;CL-3;Cloze;
+3_BAK17;33;dieser;CL-3;Cloze;
+3_BAK17;34;dann;CL-3;Cloze;
+3_BAK17;35;Sorgfalt;CL-3;Cloze;
+3_BAK17;1;2;SUS-CL;;
+3_BAK17;2;2;SUS-CL;;
+3_BAK17;3;2;SUS-CL;;
+3_BAK17;4;4;SUS-CL;;
+3_BAK17;5;3;SUS-CL;;
+3_BAK17;6;4;SUS-CL;;
+3_BAK17;7;5;SUS-CL;;
+3_BAK17;8;2;SUS-CL;;
+3_BAK17;9;3;SUS-CL;;
+3_BAK17;1;5;Distraction task;;
+3_BAK17;1;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK17;1;explizit;NL-3;Cloze;
+3_BAK17;2;schuldig;NL-3;Cloze;
+3_BAK17;3;Vergehen;NL-3;Cloze;
+3_BAK17;4;Verbrechen;NL-3;Cloze;
+3_BAK17;5;Tat;NL-3;Cloze;
+3_BAK17;6;begeht;NL-3;Cloze;
+3_BAK17;7;die;NL-3;Cloze;
+3_BAK17;8;möglich;NL-3;Cloze;
+3_BAK17;9;nimmt;NL-3;Cloze;
+3_BAK17;10;Vergehen;NL-3;Cloze;
+3_BAK17;11;Tuns;NL-3;Cloze;
+3_BAK17;12;bedeutet;NL-3;Cloze;
+3_BAK17;13;nimmt;NL-3;Cloze;
+3_BAK17;14;wenn;NL-3;Cloze;
+3_BAK17;15;nicht;NL-3;Cloze;
+3_BAK17;16;unter;NL-3;Cloze;
+3_BAK17;17;seinen;NL-3;Cloze;
+3_BAK17;1;2;SUS-NL;;
+3_BAK17;2;2;SUS-NL;;
+3_BAK17;3;2;SUS-NL;;
+3_BAK17;4;3;SUS-NL;;
+3_BAK17;5;3;SUS-NL;;
+3_BAK17;6;4;SUS-NL;;
+3_BAK17;7;5;SUS-NL;;
+3_BAK17;8;2;SUS-NL;;
+3_BAK17;9;3;SUS-NL;;
+3_BAK17;1;2;Regular use of CL;;
+3_ABK18;1;möglich;NL-3;OT;OT: High
+3_ABK18;2;in Kauf nimmt;NL-3;OT;OT: High
+3_ABK18;3;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK18;4;Pflichtwidrig;NL-3;OT;OT: Medium
+3_ABK18;5;Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK18;6;persönlichen Verhältnissen;NL-3;OT;OT: Medium
+3_ABK18;1;-;NL-3;Cloze;
+3_ABK18;2;strafbar;NL-3;Cloze;
+3_ABK18;3;Vergehen;NL-3;Cloze;
+3_ABK18;4;Verbrechen;NL-3;Cloze;
+3_ABK18;5;-;NL-3;Cloze;
+3_ABK18;6;-;NL-3;Cloze;
+3_ABK18;7;die;NL-3;Cloze;
+3_ABK18;8;möglich;NL-3;Cloze;
+3_ABK18;9;nimmt;NL-3;Cloze;
+3_ABK18;10;Vergehen;NL-3;Cloze;
+3_ABK18;11;Handelns;NL-3;Cloze;
+3_ABK18;12;-;NL-3;Cloze;
+3_ABK18;13;-;NL-3;Cloze;
+3_ABK18;14;-;NL-3;Cloze;
+3_ABK18;15;-;NL-3;Cloze;
+3_ABK18;16;-;NL-3;Cloze;
+3_ABK18;17;-;NL-3;Cloze;
+3_ABK18;1;4;SUS-NL;;
+3_ABK18;2;4;SUS-NL;;
+3_ABK18;3;2;SUS-NL;;
+3_ABK18;4;2;SUS-NL;;
+3_ABK18;5;2;SUS-NL;;
+3_ABK18;6;2;SUS-NL;;
+3_ABK18;7;3;SUS-NL;;
+3_ABK18;8;2;SUS-NL;;
+3_ABK18;9;2;SUS-NL;;
+3_ABK18;1;4;Distraction task;;
+3_ABK18;1;nachlässig;CL-3;OT;OT: High
+3_ABK18;2;Person zugetraut werden;CL-3;OT;OT: High
+3_ABK18;1;Verbrechen;CL-3;Cloze;
+3_ABK18;2;es;CL-3;Cloze;
+3_ABK18;3;kann;CL-3;Cloze;
+3_ABK18;4;werden;CL-3;Cloze;
+3_ABK18;5;Vergehen;CL-3;Cloze;
+3_ABK18;6;es;CL-3;Cloze;
+3_ABK18;7;kann;CL-3;Cloze;
+3_ABK18;8;werden;CL-3;Cloze;
+3_ABK18;9;-;CL-3;Cloze;
+3_ABK18;10;will;CL-3;Cloze;
+3_ABK18;11;bewusst;CL-3;Cloze;
+3_ABK18;12;Verbrechen;CL-3;Cloze;
+3_ABK18;13;sich;CL-3;Cloze;
+3_ABK18;14;es;CL-3;Cloze;
+3_ABK18;15;handelt;CL-3;Cloze;
+3_ABK18;16;um;CL-3;Cloze;
+3_ABK18;17;Person;CL-3;Cloze;
+3_ABK18;18;möglich;CL-3;Cloze;
+3_ABK18;19;der;CL-3;Cloze;
+3_ABK18;20;die;CL-3;Cloze;
+3_ABK18;21;bewusst;CL-3;Cloze;
+3_ABK18;22;-;CL-3;Cloze;
+3_ABK18;23;-;CL-3;Cloze;
+3_ABK18;24;-;CL-3;Cloze;
+3_ABK18;25;Tat;CL-3;Cloze;
+3_ABK18;26;ist;CL-3;Cloze;
+3_ABK18;27;aus;CL-3;Cloze;
+3_ABK18;28;Tat;CL-3;Cloze;
+3_ABK18;29;ist;CL-3;Cloze;
+3_ABK18;30;aus;CL-3;Cloze;
+3_ABK18;31;Person;CL-3;Cloze;
+3_ABK18;32;nötigen;CL-3;Cloze;
+3_ABK18;33;der;CL-3;Cloze;
+3_ABK18;34;so;CL-3;Cloze;
+3_ABK18;35;Sorgfalt;CL-3;Cloze;
+3_ABK18;1;2;SUS-CL;;
+3_ABK18;2;3;SUS-CL;;
+3_ABK18;3;4;SUS-CL;;
+3_ABK18;4;2;SUS-CL;;
+3_ABK18;5;2;SUS-CL;;
+3_ABK18;6;5;SUS-CL;;
+3_ABK18;7;5;SUS-CL;;
+3_ABK18;8;2;SUS-CL;;
+3_ABK18;9;2;SUS-CL;;
+3_ABK18;1;5;Regular use of CL;;
+3_BAK18;1;Verbrechen begeht und das Gesetz dies nicht explizit erlaubt;CL-3;OT;OT: High
+3_BAK18;2;Vergehen begeht und das Gesetz dies nicht explizit erlaubt;CL-3;OT;OT: High
+3_BAK18;3;Tat ausführt und diese Tat erfüllen will;CL-3;OT;OT: Medium
+3_BAK18;4;Tat;CL-3;OT;OT: Low
+3_BAK18;5;dass eine Tat möglich ist;CL-3;OT;OT: Medium
+3_BAK18;6;verabsäumt;CL-3;OT;OT: High
+3_BAK18;7;Tat;CL-3;OT;OT: Low
+3_BAK18;8;Tat;CL-3;OT;OT: Low
+3_BAK18;1;Verbrechen;CL-3;Cloze;
+3_BAK18;2;diese Handlung;CL-3;Cloze;
+3_BAK18;3;kann;CL-3;Cloze;
+3_BAK18;4;werden;CL-3;Cloze;
+3_BAK18;5;Verbrechen;CL-3;Cloze;
+3_BAK18;6;diese Handlung;CL-3;Cloze;
+3_BAK18;7;kann;CL-3;Cloze;
+3_BAK18;8;werden;CL-3;Cloze;
+3_BAK18;9;ausübt;CL-3;Cloze;
+3_BAK18;10;-;CL-3;Cloze;
+3_BAK18;11;-;CL-3;Cloze;
+3_BAK18;12;-;CL-3;Cloze;
+3_BAK18;13;-;CL-3;Cloze;
+3_BAK18;14;-;CL-3;Cloze;
+3_BAK18;15;-;CL-3;Cloze;
+3_BAK18;16;-;CL-3;Cloze;
+3_BAK18;17;Person;CL-3;Cloze;
+3_BAK18;18;-;CL-3;Cloze;
+3_BAK18;19;-;CL-3;Cloze;
+3_BAK18;20;-;CL-3;Cloze;
+3_BAK18;21;absichtlich;CL-3;Cloze;
+3_BAK18;22;-;CL-3;Cloze;
+3_BAK18;23;-;CL-3;Cloze;
+3_BAK18;24;handelt;CL-3;Cloze;
+3_BAK18;25;-;CL-3;Cloze;
+3_BAK18;26;-;CL-3;Cloze;
+3_BAK18;27;-;CL-3;Cloze;
+3_BAK18;28;-;CL-3;Cloze;
+3_BAK18;29;-;CL-3;Cloze;
+3_BAK18;30;-;CL-3;Cloze;
+3_BAK18;31;-;CL-3;Cloze;
+3_BAK18;32;-;CL-3;Cloze;
+3_BAK18;33;-;CL-3;Cloze;
+3_BAK18;34;-;CL-3;Cloze;
+3_BAK18;35;-;CL-3;Cloze;
+3_BAK18;1;4;SUS-CL;;
+3_BAK18;2;4;SUS-CL;;
+3_BAK18;3;2;SUS-CL;;
+3_BAK18;4;3;SUS-CL;;
+3_BAK18;5;-;SUS-CL;;
+3_BAK18;6;2;SUS-CL;;
+3_BAK18;7;5;SUS-CL;;
+3_BAK18;8;1;SUS-CL;;
+3_BAK18;9;4;SUS-CL;;
+3_BAK18;1;7;Distraction task;;
+3_BAK18;1;wer die Verwirklichung der Tat für möglich hält;NL-3;OT;OT: Medium
+3_BAK18;2;aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt;NL-3;OT;OT: Medium
+3_BAK18;3;der er nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist;NL-3;OT;OT: High
+3_BAK18;1;explizit;NL-3;Cloze;
+3_BAK18;2;strafbar;NL-3;Cloze;
+3_BAK18;3;Vergehen;NL-3;Cloze;
+3_BAK18;4;Verbrechen;NL-3;Cloze;
+3_BAK18;5;Tat;NL-3;Cloze;
+3_BAK18;6;ausübt;NL-3;Cloze;
+3_BAK18;7;-;NL-3;Cloze;
+3_BAK18;8;möglich;NL-3;Cloze;
+3_BAK18;9;nimmt;NL-3;Cloze;
+3_BAK18;10;Vergehen;NL-3;Cloze;
+3_BAK18;11;Handelns;NL-3;Cloze;
+3_BAK18;12;bedenkt;NL-3;Cloze;
+3_BAK18;13;nimmt;NL-3;Cloze;
+3_BAK18;14;-;NL-3;Cloze;
+3_BAK18;15;-;NL-3;Cloze;
+3_BAK18;16;-;NL-3;Cloze;
+3_BAK18;17;-;NL-3;Cloze;
+3_BAK18;1;4;SUS-NL;;
+3_BAK18;2;4;SUS-NL;;
+3_BAK18;3;2;SUS-NL;;
+3_BAK18;4;3;SUS-NL;;
+3_BAK18;5;4;SUS-NL;;
+3_BAK18;6;2;SUS-NL;;
+3_BAK18;7;4;SUS-NL;;
+3_BAK18;8;1;SUS-NL;;
+3_BAK18;9;4;SUS-NL;;
+3_BAK18;1;4;Regular use of CL;;
+3_ABK21;1;vorsätzlich;NL-3;OT;OT: Low
+3_ABK21;2;Vorsätzlich begeht;NL-3;OT;OT: Low
+3_ABK21;3;Vorsätzlich handelt;NL-3;OT;OT: Low
+3_ABK21;4;Fahrlässig;NL-3;OT;OT: Low
+3_ABK21;5;die Vorsicht nicht;NL-3;OT;OT: High
+3_ABK21;6;den Umständen;NL-3;OT;OT: High
+3_ABK21;7;persönlichen Verhältnissen;NL-3;OT;OT: High
+3_ABK21;1;ausdrücklich;NL-3;Cloze;
+3_ABK21;2;strafbar;NL-3;Cloze;
+3_ABK21;3;Vergehen;NL-3;Cloze;
+3_ABK21;4;Verbrechen;NL-3;Cloze;
+3_ABK21;5;Tat;NL-3;Cloze;
+3_ABK21;6;begeht;NL-3;Cloze;
+3_ABK21;7;die Vorsicht nicht;NL-3;Cloze;
+3_ABK21;8;möglich;NL-3;Cloze;
+3_ABK21;9;nimmt;NL-3;Cloze;
+3_ABK21;10;Vergehen;NL-3;Cloze;
+3_ABK21;11;Handelns;NL-3;Cloze;
+3_ABK21;12;bedenkt;NL-3;Cloze;
+3_ABK21;13;nimmt;NL-3;Cloze;
+3_ABK21;14;wenn;NL-3;Cloze;
+3_ABK21;15;nicht;NL-3;Cloze;
+3_ABK21;16;nach;NL-3;Cloze;
+3_ABK21;17;den;NL-3;Cloze;
+3_ABK21;1;5;SUS-NL;;
+3_ABK21;2;3;SUS-NL;;
+3_ABK21;3;4;SUS-NL;;
+3_ABK21;4;1;SUS-NL;;
+3_ABK21;5;1;SUS-NL;;
+3_ABK21;6;4;SUS-NL;;
+3_ABK21;7;1;SUS-NL;;
+3_ABK21;8;5;SUS-NL;;
+3_ABK21;9;1;SUS-NL;;
+3_ABK21;1;6;Distraction task;;
+3_ABK21;1;verfolgt;CL-3;OT;OT: Medium
+3_ABK21;2;bewusst;CL-3;OT;OT: High
+3_ABK21;3;verfolgt werden;CL-3;OT;OT: Medium
+3_ABK21;4;ausführt;CL-3;OT;OT: High
+3_ABK21;5;erfüllen;CL-3;OT;OT: High
+3_ABK21;6;bewusst;CL-3;OT;OT: High
+3_ABK21;7;bewusstes;CL-3;OT;OT: High
+3_ABK21;8;bewusstes;CL-3;OT;OT: High
+3_ABK21;9;Möglichkeit der Tat;CL-3;OT;OT: Medium
+3_ABK21;10;bewusst;CL-3;OT;OT: High
+3_ABK21;11;unvorsichtig;CL-3;OT;OT: Medium
+3_ABK21;12;einzuschätzen;CL-3;OT;OT: Medium
+3_ABK21;13;nachlässig;CL-3;OT;OT: High
+3_ABK21;14;Nachlässigkeit;CL-3;OT;OT: High
+3_ABK21;15;Nachlässigkeit;CL-3;OT;OT: High
+3_ABK21;16;der Situation entsprechende;CL-3;OT;OT: High
+3_ABK21;17;Sorgfalt ausübt;CL-3;OT;OT: Medium
+3_ABK21;18;zugetraut;CL-3;OT;OT: High
+3_ABK21;19;diese Verletzung;CL-3;OT;OT: High
+3_ABK21;1;Verbrechen;CL-3;Cloze;
+3_ABK21;2;es;CL-3;Cloze;
+3_ABK21;3;kann;CL-3;Cloze;
+3_ABK21;4;werden;CL-3;Cloze;
+3_ABK21;5;Vergehen;CL-3;Cloze;
+3_ABK21;6;es;CL-3;Cloze;
+3_ABK21;7;kann;CL-3;Cloze;
+3_ABK21;8;werden;CL-3;Cloze;
+3_ABK21;9;begeht;CL-3;Cloze;
+3_ABK21;10;will;CL-3;Cloze;
+3_ABK21;11;bewusst;CL-3;Cloze;
+3_ABK21;12;Verbrechen;CL-3;Cloze;
+3_ABK21;13;sich;CL-3;Cloze;
+3_ABK21;14;es;CL-3;Cloze;
+3_ABK21;15;handelt;CL-3;Cloze;
+3_ABK21;16;um;CL-3;Cloze;
+3_ABK21;17;Person;CL-3;Cloze;
+3_ABK21;18;ein Verbrechen;CL-3;Cloze;
+3_ABK21;19;bewusst;CL-3;Cloze;
+3_ABK21;20;die;CL-3;Cloze;
+3_ABK21;21;-;CL-3;Cloze;
+3_ABK21;22;-;CL-3;Cloze;
+3_ABK21;23;nicht kennt;CL-3;Cloze;
+3_ABK21;24;handelt;CL-3;Cloze;
+3_ABK21;25;Tat;CL-3;Cloze;
+3_ABK21;26;ist;CL-3;Cloze;
+3_ABK21;27;mit;CL-3;Cloze;
+3_ABK21;28;Tat;CL-3;Cloze;
+3_ABK21;29;ist;CL-3;Cloze;
+3_ABK21;30;mit;CL-3;Cloze;
+3_ABK21;31;Person;CL-3;Cloze;
+3_ABK21;32;entsprechende;CL-3;Cloze;
+3_ABK21;33;der;CL-3;Cloze;
+3_ABK21;34;so;CL-3;Cloze;
+3_ABK21;35;Sorgfalt;CL-3;Cloze;
+3_ABK21;1;1;SUS-CL;;
+3_ABK21;2;5;SUS-CL;;
+3_ABK21;3;2;SUS-CL;;
+3_ABK21;4;1;SUS-CL;;
+3_ABK21;5;5;SUS-CL;;
+3_ABK21;6;2;SUS-CL;;
+3_ABK21;7;5;SUS-CL;;
+3_ABK21;8;3;SUS-CL;;
+3_ABK21;9;1;SUS-CL;;
+3_ABK21;1;2;Regular use of CL;;
+3_ABK19;1;ausdrücklich;NL-3;;
+3_ABK19;2;strafbar;NL-3;Cloze;
+3_ABK19;3;Vergehen;NL-3;Cloze;
+3_ABK19;4;Verbrechen;NL-3;Cloze;
+3_ABK19;5;Tat;NL-3;Cloze;
+3_ABK19;6;begeht;NL-3;Cloze;
+3_ABK19;7;die;NL-3;Cloze;
+3_ABK19;8;möglich;NL-3;Cloze;
+3_ABK19;9;nimmt;NL-3;Cloze;
+3_ABK19;10;Vergehen;NL-3;Cloze;
+3_ABK19;11;Handelns;NL-3;Cloze;
+3_ABK19;12;abschätzt;NL-3;Cloze;
+3_ABK19;13;nimmt;NL-3;Cloze;
+3_ABK19;14;wenn;NL-3;Cloze;
+3_ABK19;15;nicht;NL-3;Cloze;
+3_ABK19;16;gemäss;NL-3;Cloze;
+3_ABK19;17;seinen;NL-3;Cloze;
+3_ABK19;1;5;SUS-NL;;
+3_ABK19;2;5;SUS-NL;;
+3_ABK19;3;1;SUS-NL;;
+3_ABK19;4;1;SUS-NL;;
+3_ABK19;5;5;SUS-NL;;
+3_ABK19;6;1;SUS-NL;;
+3_ABK19;7;5;SUS-NL;;
+3_ABK19;8;5;SUS-NL;;
+3_ABK19;9;5;SUS-NL;;
+3_ABK19;1;5;Distraction task;;
+3_ABK19;1;Verbrechen;CL-3;OT;OT: Medium
+3_ABK19;2;das Gesetz dies nicht explizit erlaubt;CL-3;OT;OT: Medium
+3_ABK19;3;verabsäumt;CL-3;OT;OT: High
+3_ABK19;4;die der Situation entsprechende Sorgfalt;CL-3;OT;OT: Medium
+3_ABK19;1;Verbrechen;CL-3;Cloze;
+3_ABK19;2;das;CL-3;Cloze;
+3_ABK19;3;wird;CL-3;Cloze;
+3_ABK19;4;-;CL-3;Cloze;
+3_ABK19;5;Vergehen;CL-3;Cloze;
+3_ABK19;6;das;CL-3;Cloze;
+3_ABK19;7;wird;CL-3;Cloze;
+3_ABK19;8;-;CL-3;Cloze;
+3_ABK19;9;bewusst begeht;CL-3;Cloze;
+3_ABK19;10;Verbrechen;CL-3;Cloze;
+3_ABK19;11;vorsätzlich;CL-3;Cloze;
+3_ABK19;12;Verbrechen;CL-3;Cloze;
+3_ABK19;13;sich;CL-3;Cloze;
+3_ABK19;14;es;CL-3;Cloze;
+3_ABK19;15;handelt;CL-3;Cloze;
+3_ABK19;16;um;CL-3;Cloze;
+3_ABK19;17;Person;CL-3;Cloze;
+3_ABK19;18;möglich;CL-3;Cloze;
+3_ABK19;19;der;CL-3;Cloze;
+3_ABK19;20;sie;CL-3;Cloze;
+3_ABK19;21;bewusst;CL-3;Cloze;
+3_ABK19;22;bewusst;CL-3;Cloze;
+3_ABK19;23;in Kauf nimmt;CL-3;Cloze;
+3_ABK19;24;handelt;CL-3;Cloze;
+3_ABK19;25;Tat;CL-3;Cloze;
+3_ABK19;26;ist;CL-3;Cloze;
+3_ABK19;27;aus;CL-3;Cloze;
+3_ABK19;28;Tat;CL-3;Cloze;
+3_ABK19;29;ist;CL-3;Cloze;
+3_ABK19;30;aus;CL-3;Cloze;
+3_ABK19;31;Person;CL-3;Cloze;
+3_ABK19;32;angepasste;CL-3;Cloze;
+3_ABK19;33;dieser;CL-3;Cloze;
+3_ABK19;34;dann;CL-3;Cloze;
+3_ABK19;35;Sorgfalt;CL-3;Cloze;
+3_ABK19;1;1;SUS-CL;;
+3_ABK19;2;5;SUS-CL;;
+3_ABK19;3;1;SUS-CL;;
+3_ABK19;4;5;SUS-CL;;
+3_ABK19;5;5;SUS-CL;;
+3_ABK19;6;1;SUS-CL;;
+3_ABK19;7;5;SUS-CL;;
+3_ABK19;8;1;SUS-CL;;
+3_ABK19;9;5;SUS-CL;;
+3_ABK19;1;1;Regular use of CL;;
+3_ABK22;1;vorsätzlich;NL-3;OT;OT: Medium
+3_ABK22;2;Verwirklichung;NL-3;OT;OT: Medium
+3_ABK22;3;möglich hält;NL-3;OT;OT: High
+3_ABK22;4;in Kauf nimmt;NL-3;OT;OT: High
+3_ABK22;5;pflichtwiedriger;NL-3;OT;OT: High
+3_ABK22;6;bedenkt;NL-3;OT;OT: Low
+3_ABK22;7;nicht beachtet;NL-3;OT;OT: Medium
+3_ABK22;8;seinen persönlichen Verhältnissen verpflichtet;NL-3;OT;OT: Low
+3_ABK22;1;ausdrücklich;NL-3;Cloze;
+3_ABK22;2;schuldig;NL-3;Cloze;
+3_ABK22;3;Vergehen;NL-3;Cloze;
+3_ABK22;4;Verbrechen;NL-3;Cloze;
+3_ABK22;5;-;NL-3;Cloze;
+3_ABK22;6;-;NL-3;Cloze;
+3_ABK22;7;-;NL-3;Cloze;
+3_ABK22;8;möglich;NL-3;Cloze;
+3_ABK22;9;nimmt;NL-3;Cloze;
+3_ABK22;10;Vergehen;NL-3;Cloze;
+3_ABK22;11;Handelns;NL-3;Cloze;
+3_ABK22;12;beachtet;NL-3;Cloze;
+3_ABK22;13;nimmt;NL-3;Cloze;
+3_ABK22;14;in welcher;NL-3;Cloze;
+3_ABK22;15;nicht;NL-3;Cloze;
+3_ABK22;16;-;NL-3;Cloze;
+3_ABK22;17;Berücksichtigt;NL-3;Cloze;
+3_ABK22;1;4;SUS-NL;;
+3_ABK22;2;1;SUS-NL;;
+3_ABK22;3;3;SUS-NL;;
+3_ABK22;4;4;SUS-NL;;
+3_ABK22;5;2;SUS-NL;;
+3_ABK22;6;1;SUS-NL;;
+3_ABK22;7;4;SUS-NL;;
+3_ABK22;8;1;SUS-NL;;
+3_ABK22;9;4;SUS-NL;;
+3_ABK22;1;5;Distraction task;;
+3_ABK22;1;kann;CL-3;OT;OT: High
+3_ABK22;2;kann;CL-3;OT;OT: High
+3_ABK22;3;bewusstes;CL-3;OT;OT: Medium
+3_ABK22;4;bewusstes;CL-3;OT;OT: Medium
+3_ABK22;5;glaubt;CL-3;OT;OT: High
+3_ABK22;6;handelt;CL-3;OT;OT: Medium
+3_ABK22;7;Nachlässigkeit;CL-3;OT;OT: High
+3_ABK22;1;Verbrechen;CL-3;Cloze;
+3_ABK22;2;-;CL-3;Cloze;
+3_ABK22;3;kann;CL-3;Cloze;
+3_ABK22;4;werden;CL-3;Cloze;
+3_ABK22;5;Verbrechen;CL-3;Cloze;
+3_ABK22;6;-;CL-3;Cloze;
+3_ABK22;7;kann;CL-3;Cloze;
+3_ABK22;8;verfolgt;CL-3;Cloze;
+3_ABK22;9;-;CL-3;Cloze;
+3_ABK22;10;-;CL-3;Cloze;
+3_ABK22;11;-;CL-3;Cloze;
+3_ABK22;12;Verbrechen;CL-3;Cloze;
+3_ABK22;13;sich;CL-3;Cloze;
+3_ABK22;14;es;CL-3;Cloze;
+3_ABK22;15;handelt;CL-3;Cloze;
+3_ABK22;16;um;CL-3;Cloze;
+3_ABK22;17;Person;CL-3;Cloze;
+3_ABK22;18;-;CL-3;Cloze;
+3_ABK22;19;der;CL-3;Cloze;
+3_ABK22;20;die;CL-3;Cloze;
+3_ABK22;21;-;CL-3;Cloze;
+3_ABK22;22;-;CL-3;Cloze;
+3_ABK22;23;-;CL-3;Cloze;
+3_ABK22;24;handelt;CL-3;Cloze;
+3_ABK22;25;Tat;CL-3;Cloze;
+3_ABK22;26;ist;CL-3;Cloze;
+3_ABK22;27;aus;CL-3;Cloze;
+3_ABK22;28;Tat;CL-3;Cloze;
+3_ABK22;29;ist;CL-3;Cloze;
+3_ABK22;30;aus;CL-3;Cloze;
+3_ABK22;31;Person;CL-3;Cloze;
+3_ABK22;32;aus;CL-3;Cloze;
+3_ABK22;33;der;CL-3;Cloze;
+3_ABK22;34;dann;CL-3;Cloze;
+3_ABK22;35;Tat;CL-3;Cloze;
+3_ABK22;1;1;SUS-CL;;
+3_ABK22;2;3;SUS-CL;;
+3_ABK22;3;1;SUS-CL;;
+3_ABK22;4;4;SUS-CL;;
+3_ABK22;5;3;SUS-CL;;
+3_ABK22;6;1;SUS-CL;;
+3_ABK22;7;5;SUS-CL;;
+3_ABK22;8;1;SUS-CL;;
+3_ABK22;9;4;SUS-CL;;
+3_ABK22;1;2;Regular use of CL;;
+3_BAK20;1;bewusstes;CL-3;OT;OT: Low
+3_BAK20;2;bewusstes;CL-3;OT;OT: Low
+3_BAK20;3;möglich;CL-3;OT;OT: Medium
+3_BAK20;4;bewusst;CL-3;OT;OT: Low
+3_BAK20;5;unvorsichtig;CL-3;OT;OT: Medium
+3_BAK20;6;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK20;7;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK20;8;der Situation entsprechende Sorgfalt;CL-3;OT;OT: High
+3_BAK20;1;Verbrechen;CL-3;Cloze;
+3_BAK20;2;dies;CL-3;Cloze;
+3_BAK20;3;kann;CL-3;Cloze;
+3_BAK20;4;werden;CL-3;Cloze;
+3_BAK20;5;Verbrechen;CL-3;Cloze;
+3_BAK20;6;dies;CL-3;Cloze;
+3_BAK20;7;kann;CL-3;Cloze;
+3_BAK20;8;werden;CL-3;Cloze;
+3_BAK20;9;begeht;CL-3;Cloze;
+3_BAK20;10;Kriterien;CL-3;Cloze;
+3_BAK20;11;fahrlässig;CL-3;Cloze;
+3_BAK20;12;Verbrechen;CL-3;Cloze;
+3_BAK20;13;sich;CL-3;Cloze;
+3_BAK20;14;es;CL-3;Cloze;
+3_BAK20;15;handelt;CL-3;Cloze;
+3_BAK20;16;um;CL-3;Cloze;
+3_BAK20;17;Person;CL-3;Cloze;
+3_BAK20;18;delinquent;CL-3;Cloze;
+3_BAK20;19;der;CL-3;Cloze;
+3_BAK20;20;diese;CL-3;Cloze;
+3_BAK20;21;bewusst;CL-3;Cloze;
+3_BAK20;22;bewusst;CL-3;Cloze;
+3_BAK20;23;kennt;CL-3;Cloze;
+3_BAK20;24;handelt;CL-3;Cloze;
+3_BAK20;25;Tat;CL-3;Cloze;
+3_BAK20;26;handelt;CL-3;Cloze;
+3_BAK20;27;durch;CL-3;Cloze;
+3_BAK20;28;Tat;CL-3;Cloze;
+3_BAK20;29;gibt;CL-3;Cloze;
+3_BAK20;30;durch;CL-3;Cloze;
+3_BAK20;31;Tat;CL-3;Cloze;
+3_BAK20;32;angemessene;CL-3;Cloze;
+3_BAK20;33;einer;CL-3;Cloze;
+3_BAK20;34;dann;CL-3;Cloze;
+3_BAK20;35;Person;CL-3;Cloze;
+3_BAK20;1;2;SUS-CL;;
+3_BAK20;2;4;SUS-CL;;
+3_BAK20;3;2;SUS-CL;;
+3_BAK20;4;1;SUS-CL;;
+3_BAK20;5;4;SUS-CL;;
+3_BAK20;6;2;SUS-CL;;
+3_BAK20;7;4;SUS-CL;;
+3_BAK20;8;2;SUS-CL;;
+3_BAK20;9;1;SUS-CL;;
+3_BAK20;1;5;Distraction task;;
+3_BAK20;1;ausdrücklich;NL-3;OT;OT: Medium
+3_BAK20;2;vorsätzlich;NL-3;OT;OT: Medium
+3_BAK20;3;Wissen und Willen;NL-3;OT;OT: Medium
+3_BAK20;4;möglich;NL-3;OT;OT: High
+3_BAK20;5;in Kauf nimmt;NL-3;OT;OT: Low
+3_BAK20;6;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_BAK20;7;nicht Rücksicht nimmt;NL-3;OT;OT: Medium
+3_BAK20;8;nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist;NL-3;OT;OT: High
+3_BAK20;1;dahingehend;NL-3;Cloze;
+3_BAK20;2;-;NL-3;Cloze;
+3_BAK20;3;Vergehen;NL-3;Cloze;
+3_BAK20;4;Verbrechen;NL-3;Cloze;
+3_BAK20;5;Verfehlung;NL-3;Cloze;
+3_BAK20;6;begeht;NL-3;Cloze;
+3_BAK20;7;bei;NL-3;Cloze;
+3_BAK20;8;vorsätzlich;NL-3;Cloze;
+3_BAK20;9;nimmt;NL-3;Cloze;
+3_BAK20;10;Vergehen;NL-3;Cloze;
+3_BAK20;11;Handelns;NL-3;Cloze;
+3_BAK20;12;wahrnimmt;NL-3;Cloze;
+3_BAK20;13;nimmt;NL-3;Cloze;
+3_BAK20;14;wenn;NL-3;Cloze;
+3_BAK20;15;nicht;NL-3;Cloze;
+3_BAK20;16;unter;NL-3;Cloze;
+3_BAK20;17;seinen;NL-3;Cloze;
+3_BAK20;1;2;SUS-NL;;
+3_BAK20;2;4;SUS-NL;;
+3_BAK20;3;2;SUS-NL;;
+3_BAK20;4;1;SUS-NL;;
+3_BAK20;5;4;SUS-NL;;
+3_BAK20;6;1;SUS-NL;;
+3_BAK20;7;4;SUS-NL;;
+3_BAK20;8;2;SUS-NL;;
+3_BAK20;9;1;SUS-NL;;
+3_BAK20;1;3;Regular use of CL;;
+3_BAK19;1;bewusst;CL-3;OT;OT: High
+3_BAK19;2;Verbrechen;CL-3;OT;OT: Low
+3_BAK19;3;explizit;CL-3;OT;OT: Medium
+3_BAK19;4;strafrechtlich;CL-3;OT;OT: Low
+3_BAK19;5;bewusst;CL-3;OT;OT: High
+3_BAK19;6;Vergehen;CL-3;OT;OT: Low
+3_BAK19;7;Tat;CL-3;OT;OT: Low
+3_BAK19;8;Tat;CL-3;OT;OT: Low
+3_BAK19;9;bewusst;CL-3;OT;OT: High
+3_BAK19;10;Verbrechen;CL-3;OT;OT: Medium
+3_BAK19;11;bewusstes;CL-3;OT;OT: High
+3_BAK19;12;Verbrechen;CL-3;OT;OT: Medium
+3_BAK19;13;Vergehen;CL-3;OT;OT: High
+3_BAK19;14;bewusstes;CL-3;OT;OT: High
+3_BAK19;15;Vergehen;CL-3;OT;OT: High
+3_BAK19;16;akzeptiert;CL-3;OT;OT: High
+3_BAK19;17;unvorsichtig;CL-3;OT;OT: High
+3_BAK19;18;verabsäumt;CL-3;OT;OT: High
+3_BAK19;19;Verbrechen;CL-3;OT;OT: High
+3_BAK19;20;Verbrechen;CL-3;OT;OT: High
+3_BAK19;21;Nachlässigkeit;CL-3;OT;OT: High
+3_BAK19;22;Vergehen;CL-3;OT;OT: High
+3_BAK19;23;Vergehen;CL-3;OT;OT: High
+3_BAK19;24;Nachlässigkeit;CL-3;OT;OT: High
+3_BAK19;25;Sorgfalt;CL-3;OT;OT: Low
+3_BAK19;26;Verletzung;CL-3;OT;OT: Medium
+3_BAK19;27;Sorgfalt;CL-3;OT;OT: Low
+3_BAK19;1;Verbrechen;CL-3;Cloze;
+3_BAK19;2;dies;CL-3;Cloze;
+3_BAK19;3;kann;CL-3;Cloze;
+3_BAK19;4;werden;CL-3;Cloze;
+3_BAK19;5;Vergehen;CL-3;Cloze;
+3_BAK19;6;dies;CL-3;Cloze;
+3_BAK19;7;wird;CL-3;Cloze;
+3_BAK19;8;-;CL-3;Cloze;
+3_BAK19;9;-;CL-3;Cloze;
+3_BAK19;10;-;CL-3;Cloze;
+3_BAK19;11;-;CL-3;Cloze;
+3_BAK19;12;-;CL-3;Cloze;
+3_BAK19;13;-;CL-3;Cloze;
+3_BAK19;14;es;CL-3;Cloze;
+3_BAK19;15;-;CL-3;Cloze;
+3_BAK19;16;-;CL-3;Cloze;
+3_BAK19;17;-;CL-3;Cloze;
+3_BAK19;18;-;CL-3;Cloze;
+3_BAK19;19;-;CL-3;Cloze;
+3_BAK19;20;-;CL-3;Cloze;
+3_BAK19;21;-;CL-3;Cloze;
+3_BAK19;22;-;CL-3;Cloze;
+3_BAK19;23;-;CL-3;Cloze;
+3_BAK19;24;-;CL-3;Cloze;
+3_BAK19;25;-;CL-3;Cloze;
+3_BAK19;26;-;CL-3;Cloze;
+3_BAK19;27;-;CL-3;Cloze;
+3_BAK19;28;-;CL-3;Cloze;
+3_BAK19;29;-;CL-3;Cloze;
+3_BAK19;30;-;CL-3;Cloze;
+3_BAK19;31;-;CL-3;Cloze;
+3_BAK19;32;-;CL-3;Cloze;
+3_BAK19;33;-;CL-3;Cloze;
+3_BAK19;34;-;CL-3;Cloze;
+3_BAK19;35;-;CL-3;Cloze;
+3_BAK19;1;1;SUS-CL;;
+3_BAK19;2;2;SUS-CL;;
+3_BAK19;3;1;SUS-CL;;
+3_BAK19;4;4;SUS-CL;;
+3_BAK19;5;5;SUS-CL;;
+3_BAK19;6;1;SUS-CL;;
+3_BAK19;7;5;SUS-CL;;
+3_BAK19;8;1;SUS-CL;;
+3_BAK19;9;5;SUS-CL;;
+3_BAK19;1;8;Distraction task;;
+3_BAK19;1;ausdrücklich;NL-3;OT;OT: Medium
+3_BAK19;2;strafbar;NL-3;OT;OT: Medium
+3_BAK19;3;Verwirklichung;NL-3;OT;OT: High
+3_BAK19;4;pflichtwidriger;NL-3;OT;OT: High
+3_BAK19;5;Rücksicht;NL-3;OT;OT: Low
+3_BAK19;6;Pflichtwidrig;NL-3;OT;OT: High
+3_BAK19;7;Unvorsichtigkeit;NL-3;OT;OT: Low
+3_BAK19;8;Umständen;NL-3;OT;OT: Medium
+3_BAK19;9;persönlichen Verhältnissen;NL-3;OT;OT: Medium
+3_BAK19;1;ausdrücklich;NL-3;Cloze;
+3_BAK19;2;strafbar;NL-3;Cloze;
+3_BAK19;3;Vergehen;NL-3;Cloze;
+3_BAK19;4;Verbrechen;NL-3;Cloze;
+3_BAK19;5;Tat;NL-3;Cloze;
+3_BAK19;6;ausführt;NL-3;Cloze;
+3_BAK19;7;die;NL-3;Cloze;
+3_BAK19;8;möglich;NL-3;Cloze;
+3_BAK19;9;nimmt;NL-3;Cloze;
+3_BAK19;10;Vergehen;NL-3;Cloze;
+3_BAK19;11;Verhaltens;NL-3;Cloze;
+3_BAK19;12;-;NL-3;Cloze;
+3_BAK19;13;nimmt;NL-3;Cloze;
+3_BAK19;14;-;NL-3;Cloze;
+3_BAK19;15;-;NL-3;Cloze;
+3_BAK19;16;-;NL-3;Cloze;
+3_BAK19;17;-;NL-3;Cloze;
+3_BAK19;1;1;SUS-NL;;
+3_BAK19;2;4;SUS-NL;;
+3_BAK19;3;4;SUS-NL;;
+3_BAK19;4;1;SUS-NL;;
+3_BAK19;5;4;SUS-NL;;
+3_BAK19;6;1;SUS-NL;;
+3_BAK19;7;4;SUS-NL;;
+3_BAK19;8;1;SUS-NL;;
+3_BAK19;9;4;SUS-NL;;
+3_BAK19;1;1;Regular use of CL;;
+3_BAK6;1;Verbrechen;CL-3;OT;OT: Low
+3_BAK6;2;Vergehen;CL-3;OT;OT: Low
+3_BAK6;3;Tat;CL-3;OT;OT: Medium
+3_BAK6;4;Verbrechen;CL-3;OT;OT: Medium
+3_BAK6;5;unvorsichtig;CL-3;OT;OT: Medium
+3_BAK6;6;nachlässig;CL-3;OT;OT: Medium
+3_BAK6;7;Verbrechen;CL-3;OT;OT: Low
+3_BAK6;8;Verbrechen;CL-3;OT;OT: Medium
+3_BAK6;9;Vergehen;CL-3;OT;OT: Low
+3_BAK6;10;Vergehen;CL-3;OT;OT: Medium
+3_BAK6;1;Verbrechen;CL-3;Cloze;
+3_BAK6;2;dies;CL-3;Cloze;
+3_BAK6;3;kann;CL-3;Cloze;
+3_BAK6;4;werden;CL-3;Cloze;
+3_BAK6;5;Vergehen;CL-3;Cloze;
+3_BAK6;6;dies;CL-3;Cloze;
+3_BAK6;7;kann;CL-3;Cloze;
+3_BAK6;8;werden;CL-3;Cloze;
+3_BAK6;9;begeht;CL-3;Cloze;
+3_BAK6;10;kann;CL-3;Cloze;
+3_BAK6;11;bewusst;CL-3;Cloze;
+3_BAK6;12;Vergehen;CL-3;Cloze;
+3_BAK6;13;sich;CL-3;Cloze;
+3_BAK6;14;es;CL-3;Cloze;
+3_BAK6;15;handelt;CL-3;Cloze;
+3_BAK6;16;um;CL-3;Cloze;
+3_BAK6;17;Person;CL-3;Cloze;
+3_BAK6;18;strafbar;CL-3;Cloze;
+3_BAK6;19;der;CL-3;Cloze;
+3_BAK6;20;die;CL-3;Cloze;
+3_BAK6;21;bewusst;CL-3;Cloze;
+3_BAK6;22;-;CL-3;Cloze;
+3_BAK6;23;vernachlässigt;CL-3;Cloze;
+3_BAK6;24;handelt;CL-3;Cloze;
+3_BAK6;25;Tat;CL-3;Cloze;
+3_BAK6;26;ist;CL-3;Cloze;
+3_BAK6;27;-;CL-3;Cloze;
+3_BAK6;28;Tat;CL-3;Cloze;
+3_BAK6;29;ist;CL-3;Cloze;
+3_BAK6;30;mit;CL-3;Cloze;
+3_BAK6;31;Tat;CL-3;Cloze;
+3_BAK6;32;-;CL-3;Cloze;
+3_BAK6;33;diese;CL-3;Cloze;
+3_BAK6;34;dann;CL-3;Cloze;
+3_BAK6;35;Tat;CL-3;Cloze;
+3_BAK6;1;2;SUS-CL;;
+3_BAK6;2;4;SUS-CL;;
+3_BAK6;3;2;SUS-CL;;
+3_BAK6;4;3;SUS-CL;;
+3_BAK6;5;4;SUS-CL;;
+3_BAK6;6;2;SUS-CL;;
+3_BAK6;7;4;SUS-CL;;
+3_BAK6;8;2;SUS-CL;;
+3_BAK6;9;3;SUS-CL;;
+3_BAK6;1;5;Distraction task;;
+3_BAK6;1;Verbrechen;NL-3;OT;OT: Medium
+3_BAK6;2;Vergehen;NL-3;OT;OT: Medium
+3_BAK6;3;Verbrechen;NL-3;OT;OT: High
+3_BAK6;4;Vergehen;NL-3;OT;OT: High
+3_BAK6;5;Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_BAK6;6;nicht Rücksicht;NL-3;OT;OT: Medium
+3_BAK6;1;-;NL-3;Cloze;
+3_BAK6;2;Verbrechen;NL-3;Cloze;
+3_BAK6;3;Pflichtniderlichkeit;NL-3;Cloze;
+3_BAK6;4;Verbrechen;NL-3;Cloze;
+3_BAK6;5;Tat;NL-3;Cloze;
+3_BAK6;6;durchführt;NL-3;Cloze;
+3_BAK6;7;die;NL-3;Cloze;
+3_BAK6;8;erreichbar;NL-3;Cloze;
+3_BAK6;9;nimmt;NL-3;Cloze;
+3_BAK6;10;Vergehen;NL-3;Cloze;
+3_BAK6;11;Handels;NL-3;Cloze;
+3_BAK6;12;beachtet;NL-3;Cloze;
+3_BAK6;13;nimmt;NL-3;Cloze;
+3_BAK6;14;wenn;NL-3;Cloze;
+3_BAK6;15;nicht;NL-3;Cloze;
+3_BAK6;16;nach;NL-3;Cloze;
+3_BAK6;17;dem;NL-3;Cloze;
+3_BAK6;1;2;SUS-NL;;
+3_BAK6;2;4;SUS-NL;;
+3_BAK6;3;2;SUS-NL;;
+3_BAK6;4;4;SUS-NL;;
+3_BAK6;5;2;SUS-NL;;
+3_BAK6;6;4;SUS-NL;;
+3_BAK6;7;2;SUS-NL;;
+3_BAK6;8;2;SUS-NL;;
+3_BAK6;9;4;SUS-NL;;
+3_BAK6;1;2;Regular use of CL;;
+2_ABK5;1;angemessen;NL-2;OT;OT: Medium
+2_ABK5;2;die erforderlich sind;NL-2;OT;OT: Low
+2_ABK5;3;eine transparente Datenbearbeitung gewährleistet ist;NL-2;OT;OT: Medium
+2_ABK5;1;Person;NL-2;Cloze;
+2_ABK5;2;ihrer;NL-2;Cloze;
+2_ABK5;3;auch;NL-2;Cloze;
+2_ABK5;4;von;NL-2;Cloze;
+2_ABK5;5;wurden;NL-2;Cloze;
+2_ABK5;6;Datenverarbeiten;NL-2;Cloze;
+2_ABK5;7;-;NL-2;Cloze;
+2_ABK5;8;mit;NL-2;Cloze;
+2_ABK5;9;sie;NL-2;Cloze;
+2_ABK5;10;Gesetz;NL-2;Cloze;
+2_ABK5;11;eine;NL-2;Cloze;
+2_ABK5;12;Datenverarbeiter;NL-2;Cloze;
+2_ABK5;13;Daten;NL-2;Cloze;
+2_ABK5;14;Datenverarbeiters;NL-2;Cloze;
+2_ABK5;15;Empfänger;NL-2;Cloze;
+2_ABK5;16;Daten;NL-2;Cloze;
+2_ABK5;17;mitgeteilt;NL-2;Cloze;
+2_ABK5;18;von;NL-2;Cloze;
+2_ABK5;19;-;NL-2;Cloze;
+2_ABK5;20;die;NL-2;Cloze;
+2_ABK5;21;mit;NL-2;Cloze;
+2_ABK5;1;2;SUS-NL;;
+2_ABK5;2;3;SUS-NL;;
+2_ABK5;3;2;SUS-NL;;
+2_ABK5;4;1;SUS-NL;;
+2_ABK5;5;2;SUS-NL;;
+2_ABK5;6;2;SUS-NL;;
+2_ABK5;7;3;SUS-NL;;
+2_ABK5;8;2;SUS-NL;;
+2_ABK5;9;2;SUS-NL;;
+2_ABK5;1;5;Distraction task;;
+2_ABK5;1;oder;CL-2;OT;OT: Low
+2_ABK5;1;und;CL-2;Cloze;
+2_ABK5;2;sind;CL-2;Cloze;
+2_ABK5;3;bettofene;CL-2;Cloze;
+2_ABK5;4;dieser;CL-2;Cloze;
+2_ABK5;5;die;CL-2;Cloze;
+2_ABK5;6;von;CL-2;Cloze;
+2_ABK5;7;muss;CL-2;Cloze;
+2_ABK5;8;Person;CL-2;Cloze;
+2_ABK5;9;dem;CL-2;Cloze;
+2_ABK5;10;hat;CL-2;Cloze;
+2_ABK5;11;Person;CL-2;Cloze;
+2_ABK5;12;Kontaktdaten;CL-2;Cloze;
+2_ABK5;13;müssen;CL-2;Cloze;
+2_ABK5;14;beinhalten;CL-2;Cloze;
+2_ABK5;15;sämtliche;CL-2;Cloze;
+2_ABK5;16;sie;CL-2;Cloze;
+2_ABK5;17;Datensammler;CL-2;Cloze;
+2_ABK5;18;Sammeln;CL-2;Cloze;
+2_ABK5;19;Person;CL-2;Cloze;
+2_ABK5;20;Datenschutzgesetz;CL-2;Cloze;
+2_ABK5;21;Informationen;CL-2;Cloze;
+2_ABK5;22;persönlicher;CL-2;Cloze;
+2_ABK5;23;gesammlten;CL-2;Cloze;
+2_ABK5;24;von;CL-2;Cloze;
+2_ABK5;25;dann;CL-2;Cloze;
+2_ABK5;26;-;CL-2;Cloze;
+2_ABK5;27;der;CL-2;Cloze;
+2_ABK5;1;5;SUS-CL;;
+2_ABK5;2;1;SUS-CL;;
+2_ABK5;3;4;SUS-CL;;
+2_ABK5;4;1;SUS-CL;;
+2_ABK5;5;1;SUS-CL;;
+2_ABK5;6;5;SUS-CL;;
+2_ABK5;7;1;SUS-CL;;
+2_ABK5;8;5;SUS-CL;;
+2_ABK5;9;1;SUS-CL;;
+2_ABK5;1;4;Regular use of CL;;
+2_BAK10;1;Verantworliche;CL-2;OT;OT: Low
+2_BAK10;1;und;CL-2;Cloze;
+2_BAK10;2;Daten;CL-2;Cloze;
+2_BAK10;3;betrofeene;CL-2;Cloze;
+2_BAK10;4;der;CL-2;Cloze;
+2_BAK10;5;personbezogene;CL-2;Cloze;
+2_BAK10;6;von;CL-2;Cloze;
+2_BAK10;7;muss;CL-2;Cloze;
+2_BAK10;8;Person;CL-2;Cloze;
+2_BAK10;9;dem;CL-2;Cloze;
+2_BAK10;10;muss;CL-2;Cloze;
+2_BAK10;11;folgenden;CL-2;Cloze;
+2_BAK10;12;Identität;CL-2;Cloze;
+2_BAK10;13;über;CL-2;Cloze;
+2_BAK10;14;-;CL-2;Cloze;
+2_BAK10;15;der;CL-2;Cloze;
+2_BAK10;16;sie;CL-2;Cloze;
+2_BAK10;17;Daten;CL-2;Cloze;
+2_BAK10;18;Mitteilen;CL-2;Cloze;
+2_BAK10;19;Person;CL-2;Cloze;
+2_BAK10;20;Datenschutz;CL-2;Cloze;
+2_BAK10;21;Informationen;CL-2;Cloze;
+2_BAK10;22;personbezogener;CL-2;Cloze;
+2_BAK10;23;personbezogener;CL-2;Cloze;
+2_BAK10;24;von;CL-2;Cloze;
+2_BAK10;25;dann;CL-2;Cloze;
+2_BAK10;26;Person;CL-2;Cloze;
+2_BAK10;27;der;CL-2;Cloze;
+2_BAK10;1;3;SUS-NL;;
+2_BAK10;2;2;SUS-NL;;
+2_BAK10;3;4;SUS-NL;;
+2_BAK10;4;1;SUS-NL;;
+2_BAK10;5;2;SUS-NL;;
+2_BAK10;6;5;SUS-NL;;
+2_BAK10;7;1;SUS-NL;;
+2_BAK10;8;4;SUS-NL;;
+2_BAK10;9;1;SUS-NL;;
+2_BAK10;1;5;Distraction task;;
+2_BAK10;1;Person;NL-2;Cloze;
+2_BAK10;2;der;NL-2;Cloze;
+2_BAK10;3;auch;NL-2;Cloze;
+2_BAK10;4;von;NL-2;Cloze;
+2_BAK10;5;werden;NL-2;Cloze;
+2_BAK10;6;Man;NL-2;Cloze;
+2_BAK10;7;-;NL-2;Cloze;
+2_BAK10;8;mit;NL-2;Cloze;
+2_BAK10;9;sie;NL-2;Cloze;
+2_BAK10;10;Datenschutzgesetz;NL-2;Cloze;
+2_BAK10;11;-;NL-2;Cloze;
+2_BAK10;12;Man;NL-2;Cloze;
+2_BAK10;13;Identität;NL-2;Cloze;
+2_BAK10;14;Empfängers;NL-2;Cloze;
+2_BAK10;15;Empfänger;NL-2;Cloze;
+2_BAK10;16;Daten;NL-2;Cloze;
+2_BAK10;17;mitgeteilt;NL-2;Cloze;
+2_BAK10;18;von;NL-2;Cloze;
+2_BAK10;19;so;NL-2;Cloze;
+2_BAK10;20;die;NL-2;Cloze;
+2_BAK10;21;mit;NL-2;Cloze;
+2_BAK10;1;5;SUS-CL;;
+2_BAK10;2;2;SUS-CL;;
+2_BAK10;3;4;SUS-CL;;
+2_BAK10;4;1;SUS-CL;;
+2_BAK10;5;1;SUS-CL;;
+2_BAK10;6;4;SUS-CL;;
+2_BAK10;7;1;SUS-CL;;
+2_BAK10;8;5;SUS-CL;;
+2_BAK10;9;1;SUS-CL;;
+2_BAK10;1;1;Regular use of CL;;
+2_ABK10;1;Rechte;NL-2;OT;OT: High
+2_ABK10;2;Datenbearbeitung;NL-2;OT;OT: Low
+2_ABK10;3;Kategorien;NL-2;OT;OT: High
+2_ABK10;4;Kategorien;NL-2;OT;OT: High
+2_ABK10;5;Personendaten;NL-2;OT;OT: Medium
+2_ABK10;1;Person;NL-2;Cloze;
+2_ABK10;2;der;NL-2;Cloze;
+2_ABK10;3;auch;NL-2;Cloze;
+2_ABK10;4;von;NL-2;Cloze;
+2_ABK10;5;werden;NL-2;Cloze;
+2_ABK10;6;Verantwortliche;NL-2;Cloze;
+2_ABK10;7;-;NL-2;Cloze;
+2_ABK10;8;mit;NL-2;Cloze;
+2_ABK10;9;sie;NL-2;Cloze;
+2_ABK10;10;Gesetz;NL-2;Cloze;
+2_ABK10;11;eine;NL-2;Cloze;
+2_ABK10;12;er;NL-2;Cloze;
+2_ABK10;13;Informationen;NL-2;Cloze;
+2_ABK10;14;Verantwortlichen;NL-2;Cloze;
+2_ABK10;15;Empfänger;NL-2;Cloze;
+2_ABK10;16;Empfängerinnen;NL-2;Cloze;
+2_ABK10;17;verarbeitet;NL-2;Cloze;
+2_ABK10;18;von;NL-2;Cloze;
+2_ABK10;19;so;NL-2;Cloze;
+2_ABK10;20;die;NL-2;Cloze;
+2_ABK10;21;mit;NL-2;Cloze;
+2_ABK10;1;3;SUS-NL;;
+2_ABK10;2;3;SUS-NL;;
+2_ABK10;3;2;SUS-NL;;
+2_ABK10;4;3;SUS-NL;;
+2_ABK10;5;3;SUS-NL;;
+2_ABK10;6;2;SUS-NL;;
+2_ABK10;7;4;SUS-NL;;
+2_ABK10;8;2;SUS-NL;;
+2_ABK10;9;2;SUS-NL;;
+2_ABK10;1;5;Distraction task;;
+2_ABK10;1;Kategorien;CL-2;OT;OT: High
+2_ABK10;2;Rechte;CL-2;OT;OT: Medium
+2_ABK10;3;Kategorien;CL-2;OT;OT: High
+2_ABK10;1;und;CL-2;Cloze;
+2_ABK10;2;Informationen;CL-2;Cloze;
+2_ABK10;3;betroffene;CL-2;Cloze;
+2_ABK10;4;von;CL-2;Cloze;
+2_ABK10;5;die;CL-2;Cloze;
+2_ABK10;6;über;CL-2;Cloze;
+2_ABK10;7;muss;CL-2;Cloze;
+2_ABK10;8;Person;CL-2;Cloze;
+2_ABK10;9;dem;CL-2;Cloze;
+2_ABK10;10;muss;CL-2;Cloze;
+2_ABK10;11;fogenden;CL-2;Cloze;
+2_ABK10;12;Indentität;CL-2;Cloze;
+2_ABK10;13;müssen;CL-2;Cloze;
+2_ABK10;14;beinhalten;CL-2;Cloze;
+2_ABK10;15;betreffenden;CL-2;Cloze;
+2_ABK10;16;sie;CL-2;Cloze;
+2_ABK10;17;Empfängern;CL-2;Cloze;
+2_ABK10;18;Mitteilen;CL-2;Cloze;
+2_ABK10;19;Person;CL-2;Cloze;
+2_ABK10;20;Datenschutzgesetz;CL-2;Cloze;
+2_ABK10;21;Informationen;CL-2;Cloze;
+2_ABK10;22;der;CL-2;Cloze;
+2_ABK10;23;gesammellten;CL-2;Cloze;
+2_ABK10;24;von;CL-2;Cloze;
+2_ABK10;25;so;CL-2;Cloze;
+2_ABK10;26;Person;CL-2;Cloze;
+2_ABK10;27;der;CL-2;Cloze;
+2_ABK10;1;3;SUS-CL;;
+2_ABK10;2;3;SUS-CL;;
+2_ABK10;3;2;SUS-CL;;
+2_ABK10;4;3;SUS-CL;;
+2_ABK10;5;3;SUS-CL;;
+2_ABK10;6;2;SUS-CL;;
+2_ABK10;7;4;SUS-CL;;
+2_ABK10;8;2;SUS-CL;;
+2_ABK10;9;3;SUS-CL;;
+2_ABK10;1;3;Regular use of CL;;
+3_BAK11;1;nicht explizit erlaubt;CL-3;OT;OT: Low
+3_BAK11;2;nicht explizit erlaubt;CL-3;OT;OT: Low
+3_BAK11;3;Tat erfüllen will;CL-3;OT;OT: Low
+3_BAK11;4;Verbrechen;CL-3;OT;OT: Medium
+3_BAK11;5;ein bewusstes Verbrechen;CL-3;OT;OT: Medium
+3_BAK11;6;eine Tat möglich ist und die Möglichkeit der Tat akzeptiert;CL-3;OT;OT: High
+3_BAK11;7;die Person verabsäumt, die Konsequenzen des Verhaltens einzuschätzen ;CL-3;OT;OT: Medium
+3_BAK11;8;Tat ein Verbrechen ist, dann ist es ein Verbrechen, das aus Nachlässigkeit ;CL-3;OT;OT: High
+3_BAK11;9;Tat ein Vergehen ist, dann ist es ein Vergehen, das aus Nachlässigkeit;CL-3;OT;OT: High
+3_BAK11;10;dann ist diese Verletzung der Sorgfalt strafbar;CL-3;OT;OT: High
+3_BAK11;1;Verbrechen;CL-3;Cloze;
+3_BAK11;2;dies;CL-3;Cloze;
+3_BAK11;3;kann;CL-3;Cloze;
+3_BAK11;4;werden;CL-3;Cloze;
+3_BAK11;5;Verbrechen;CL-3;Cloze;
+3_BAK11;6;dies;CL-3;Cloze;
+3_BAK11;7;kann;CL-3;Cloze;
+3_BAK11;8;werden;CL-3;Cloze;
+3_BAK11;9;begeht;CL-3;Cloze;
+3_BAK11;10;strafrechte;CL-3;Cloze;
+3_BAK11;11;bewusst;CL-3;Cloze;
+3_BAK11;12;Verbrechen;CL-3;Cloze;
+3_BAK11;13;sich;CL-3;Cloze;
+3_BAK11;14;es;CL-3;Cloze;
+3_BAK11;15;handelt;CL-3;Cloze;
+3_BAK11;16;um;CL-3;Cloze;
+3_BAK11;17;Person;CL-3;Cloze;
+3_BAK11;18;unsorgfällig;CL-3;Cloze;
+3_BAK11;19;der;CL-3;Cloze;
+3_BAK11;20;die;CL-3;Cloze;
+3_BAK11;21;bewusst;CL-3;Cloze;
+3_BAK11;22;bewusst;CL-3;Cloze;
+3_BAK11;23;versaümt;CL-3;Cloze;
+3_BAK11;24;handelt;CL-3;Cloze;
+3_BAK11;25;Tat;CL-3;Cloze;
+3_BAK11;26;ist;CL-3;Cloze;
+3_BAK11;27;mit;CL-3;Cloze;
+3_BAK11;28;Tat;CL-3;Cloze;
+3_BAK11;29;ist;CL-3;Cloze;
+3_BAK11;30;mit;CL-3;Cloze;
+3_BAK11;31;Tat;CL-3;Cloze;
+3_BAK11;32;angepassten;CL-3;Cloze;
+3_BAK11;33;der;CL-3;Cloze;
+3_BAK11;34;dann;CL-3;Cloze;
+3_BAK11;35;Sorgfalt;CL-3;Cloze;
+3_BAK11;1;1;SUS-CL;;
+3_BAK11;2;5;SUS-CL;;
+3_BAK11;3;1;SUS-CL;;
+3_BAK11;4;2;SUS-CL;;
+3_BAK11;5;4;SUS-CL;;
+3_BAK11;6;2;SUS-CL;;
+3_BAK11;7;5;SUS-CL;;
+3_BAK11;8;1;SUS-CL;;
+3_BAK11;9;3;SUS-CL;;
+3_BAK11;1;5;Distraction task;;
+3_BAK11;1;wer ein Verbrechen oder Vergehen vorsätzlich begeht;NL-3;OT;OT: Medium
+3_BAK11;2;Vorsätzlich handelt bereits, wer die Verwirklichung der Tat für möglich hält und in Kauf nimmt.;NL-3;OT;OT: Low
+3_BAK11;3;Fahrlässig begeht ein Verbrechen oder Vergehen, wer die Folge seines Verhaltens aus pflichtwidriger Unvorsichtigkeit nicht bedenkt oder darauf nicht Rücksicht nimmt. Pflichtwidrig ist die Unvorsichtigkeit, wenn der Täter die Vorsicht nicht beachtet, zu der er nach den Umständen und nach seinen persönlichen Verhältnissen verpflichtet ist.;NL-3;OT;OT: High
+3_BAK11;1;ausdrücklich;NL-3;Cloze;
+3_BAK11;2;strafbar;NL-3;Cloze;
+3_BAK11;3;Vergehen;NL-3;Cloze;
+3_BAK11;4;Verbrechen;NL-3;Cloze;
+3_BAK11;5;Tat;NL-3;Cloze;
+3_BAK11;6;ausführt;NL-3;Cloze;
+3_BAK11;7;die;NL-3;Cloze;
+3_BAK11;8;möglich;NL-3;Cloze;
+3_BAK11;9;nimmt;NL-3;Cloze;
+3_BAK11;10;Vergehen;NL-3;Cloze;
+3_BAK11;11;Verbrechens;NL-3;Cloze;
+3_BAK11;12;anerkennt;NL-3;Cloze;
+3_BAK11;13;nimmt;NL-3;Cloze;
+3_BAK11;14;mit;NL-3;Cloze;
+3_BAK11;15;nicht;NL-3;Cloze;
+3_BAK11;16;nach;NL-3;Cloze;
+3_BAK11;17;den;NL-3;Cloze;
+3_BAK11;1;1;SUS-NL;;
+3_BAK11;2;5;SUS-NL;;
+3_BAK11;3;1;SUS-NL;;
+3_BAK11;4;3;SUS-NL;;
+3_BAK11;5;5;SUS-NL;;
+3_BAK11;6;2;SUS-NL;;
+3_BAK11;7;5;SUS-NL;;
+3_BAK11;8;2;SUS-NL;;
+3_BAK11;9;3;SUS-NL;;
+3_BAK11;1;2;Regular use of CL;;
+1_BAK10;1;Schweizer Mutter;CL-1;OT;OT: Low
+1_BAK10;2;nicht;CL-1;OT;OT: Medium
+1_BAK10;3;bestätigt;CL-1;OT;OT: Medium
+1_BAK10;1;Verheiratet;CL-1;Cloze;
+1_BAK10;1;Schweizer;CL-1;Cloze;
+1_BAK10;2;Kind;CL-1;Cloze;
+1_BAK10;3;Kindes;CL-1;Cloze;
+1_BAK10;4;Mutter;CL-1;Cloze;
+1_BAK10;5;das;CL-1;Cloze;
+1_BAK10;6;Mutter;CL-1;Cloze;
+1_BAK10;7;dem;CL-1;Cloze;
+1_BAK10;8;ist;CL-1;Cloze;
+1_BAK10;9;Kind;CL-1;Cloze;
+1_BAK10;10;und;CL-1;Cloze;
+1_BAK10;11;Kindes;CL-1;Cloze;
+1_BAK10;12;verheiratet;CL-1;Cloze;
+1_BAK10;13;vom;CL-1;Cloze;
+1_BAK10;14;ist;CL-1;Cloze;
+1_BAK10;15;minderjährige;CL-1;Cloze;
+1_BAK10;16;ein;CL-1;Cloze;
+1_BAK10;17;das;CL-1;Cloze;
+1_BAK10;1;3;SUS-CL;;
+1_BAK10;2;4;SUS-CL;;
+1_BAK10;3;3;SUS-CL;;
+1_BAK10;4;1;SUS-CL;;
+1_BAK10;5;5;SUS-CL;;
+1_BAK10;6;3;SUS-CL;;
+1_BAK10;7;5;SUS-CL;;
+1_BAK10;8;2;SUS-CL;;
+1_BAK10;9;2;SUS-CL;;
+1_BAK10;1;5;Distraction task;;
+1_BAK10;1;dessen;NL-1;OT;OT: Low
+1_BAK10;2;Eltern;NL-1;OT;OT: Medium
+1_BAK10;3;dessen;NL-1;OT;OT: Low
+1_BAK10;4;Bürgerin;NL-1;OT;OT: Low
+1_BAK10;5;Bürger;NL-1;OT;OT: Low
+1_BAK10;6;nicht;NL-1;OT;OT: High
+1_BAK10;7;ausländische;NL-1;OT;OT: Medium
+1_BAK10;8;Kindesverhältnisses;NL-1;OT;OT: High
+1_BAK10;9;erwerben;NL-1;OT;OT: Medium
+1_BAK10;1;von;NL-1;Cloze;
+1_BAK10;2;Eltern;NL-1;Cloze;
+1_BAK10;3;dessen;NL-1;Cloze;
+1_BAK10;4;ist;NL-1;Cloze;
+1_BAK10;5;einer;NL-1;Cloze;
+1_BAK10;6;dem;NL-1;Cloze;
+1_BAK10;7;minderjährige;NL-1;Cloze;
+1_BAK10;8;Vaters;NL-1;Cloze;
+1_BAK10;9;nicht;NL-1;Cloze;
+1_BAK10;10;die;NL-1;Cloze;
+1_BAK10;11;Vater;NL-1;Cloze;
+1_BAK10;12;wenn;NL-1;Cloze;
+1_BAK10;13;Geburt;NL-1;Cloze;
+1_BAK10;14;Kind;NL-1;Cloze;
+1_BAK10;15;das;NL-1;Cloze;
+1_BAK10;16;Kinder;NL-1;Cloze;
+1_BAK10;17;das;NL-1;Cloze;
+1_BAK10;1;3;SUS-NL;;
+1_BAK10;2;4;SUS-NL;;
+1_BAK10;3;3;SUS-NL;;
+1_BAK10;4;1;SUS-NL;;
+1_BAK10;5;5;SUS-NL;;
+1_BAK10;6;3;SUS-NL;;
+1_BAK10;7;5;SUS-NL;;
+1_BAK10;8;2;SUS-NL;;
+1_BAK10;9;3;SUS-NL;;
+1_BAK10;1;2;Regular use of CL;;
+3_BAK10;1;bewusstes Verbrechen;CL-3;OT;OT: High
+3_BAK10;2;Vergehen;CL-3;OT;OT: Medium
+3_BAK10;3;Verletzung der Sorgfalt;CL-3;OT;OT: Medium
+3_BAK10;1;Vergehen;CL-3;Cloze;
+3_BAK10;2;es;CL-3;Cloze;
+3_BAK10;3;wird;CL-3;Cloze;
+3_BAK10;4;werden;CL-3;Cloze;
+3_BAK10;5;Verbrechen;CL-3;Cloze;
+3_BAK10;6;es;CL-3;Cloze;
+3_BAK10;7;wird;CL-3;Cloze;
+3_BAK10;8;werden;CL-3;Cloze;
+3_BAK10;9;begeht;CL-3;Cloze;
+3_BAK10;10;wird;CL-3;Cloze;
+3_BAK10;11;bewusst;CL-3;Cloze;
+3_BAK10;12;Verbrechen;CL-3;Cloze;
+3_BAK10;13;sich;CL-3;Cloze;
+3_BAK10;14;es;CL-3;Cloze;
+3_BAK10;15;handelt;CL-3;Cloze;
+3_BAK10;16;um;CL-3;Cloze;
+3_BAK10;17;Person;CL-3;Cloze;
+3_BAK10;18;der;CL-3;Cloze;
+3_BAK10;19;die;CL-3;Cloze;
+3_BAK10;20;fahrlässig;CL-3;Cloze;
+3_BAK10;21;-;CL-3;Cloze;
+3_BAK10;22;kennt;CL-3;Cloze;
+3_BAK10;23;handelt;CL-3;Cloze;
+3_BAK10;24;Tat;CL-3;Cloze;
+3_BAK10;25;ist;CL-3;Cloze;
+3_BAK10;26;aus;CL-3;Cloze;
+3_BAK10;27;Tat;CL-3;Cloze;
+3_BAK10;28;ist;CL-3;Cloze;
+3_BAK10;29;aus;CL-3;Cloze;
+3_BAK10;30;Tat;CL-3;Cloze;
+3_BAK10;31;und;CL-3;Cloze;
+3_BAK10;32;der;CL-3;Cloze;
+3_BAK10;33;dann;CL-3;Cloze;
+3_BAK10;34;Tat;CL-3;Cloze;
+3_BAK10;1;2;SUS-CL;;
+3_BAK10;2;5;SUS-CL;;
+3_BAK10;3;1;SUS-CL;;
+3_BAK10;4;4;SUS-CL;;
+3_BAK10;5;3;SUS-CL;;
+3_BAK10;6;2;SUS-CL;;
+3_BAK10;7;5;SUS-CL;;
+3_BAK10;8;5;SUS-CL;;
+3_BAK10;9;1;SUS-CL;;
+3_BAK10;1;5;Distraction task;;
+3_BAK10;1;ausdrücklich;NL-3;Cloze;
+3_BAK10;2;den;NL-3;Cloze;
+3_BAK10;3;Vergehen;NL-3;Cloze;
+3_BAK10;4;Verbrechen;NL-3;Cloze;
+3_BAK10;5;Tat;NL-3;Cloze;
+3_BAK10;6;begeht;NL-3;Cloze;
+3_BAK10;7;die;NL-3;Cloze;
+3_BAK10;8;möglich;NL-3;Cloze;
+3_BAK10;9;nimmt;NL-3;Cloze;
+3_BAK10;10;Vergehen;NL-3;Cloze;
+3_BAK10;11;-;NL-3;Cloze;
+3_BAK10;12;bedenkt;NL-3;Cloze;
+3_BAK10;13;nimmt;NL-3;Cloze;
+3_BAK10;14;wenn;NL-3;Cloze;
+3_BAK10;15;nicht;NL-3;Cloze;
+3_BAK10;16;eigentlich;NL-3;Cloze;
+3_BAK10;17;den;NL-3;Cloze;
+3_BAK10;1;3;;;
+3_BAK10;2;3;;;
+3_BAK10;3;2;;;
+3_BAK10;4;2;;;
+3_BAK10;5;2;;;
+3_BAK10;6;4;;;
+3_BAK10;7;3;;;
+3_BAK10;8;3;;;
+3_BAK10;9;2;;;
+3_BAK10;1;2;Regular use of CL;;
+3_ABK11;1;vorsätzlich;NL-3;OT;OT: Medium
+3_ABK11;2;Vorsätzlich;NL-3;OT;OT: High
+3_ABK11;3;Vorsätzlich;NL-3;OT;OT: High
+3_ABK11;4;Fahrlässig;NL-3;OT;OT: Medium
+3_ABK11;5;pflichtwidriger Unvorischtigkeit;NL-3;OT;OT: Medium
+3_ABK11;1;ausdrücklich;NL-3;Cloze;
+3_ABK11;2;schuldig;NL-3;Cloze;
+3_ABK11;3;Vergehen;NL-3;Cloze;
+3_ABK11;4;Verbrechen;NL-3;Cloze;
+3_ABK11;5;Tat;NL-3;Cloze;
+3_ABK11;6;begeht;NL-3;Cloze;
+3_ABK11;7;absichtliche;NL-3;Cloze;
+3_ABK11;8;angemessen;NL-3;Cloze;
+3_ABK11;9;nimmt;NL-3;Cloze;
+3_ABK11;10;Vergehen;NL-3;Cloze;
+3_ABK11;11;Handels;NL-3;Cloze;
+3_ABK11;12;wahrnimmt;NL-3;Cloze;
+3_ABK11;13;nimmt;NL-3;Cloze;
+3_ABK11;14;Handeln;NL-3;Cloze;
+3_ABK11;15;-;NL-3;Cloze;
+3_ABK11;16;-;NL-3;Cloze;
+3_ABK11;17;-;NL-3;Cloze;
+3_ABK11;1;1;SUS-NL;;
+3_ABK11;2;5;SUS-NL;;
+3_ABK11;3;2;SUS-NL;;
+3_ABK11;4;1;SUS-NL;;
+3_ABK11;5;3;SUS-NL;;
+3_ABK11;6;2;SUS-NL;;
+3_ABK11;7;4;SUS-NL;;
+3_ABK11;8;3;SUS-NL;;
+3_ABK11;9;2;SUS-NL;;
+3_ABK11;1;5;Distraction task;;
+3_ABK11;1;bewusst;CL-3;OT;OT: Low
+3_ABK11;2;Verbrechen;CL-3;OT;OT: Low
+3_ABK11;3;bewusst;CL-3;OT;OT: Low
+3_ABK11;4;Verbrechen;CL-3;OT;OT: Medium
+3_ABK11;5;Vergehen;CL-3;OT;OT: Medium
+3_ABK11;6;bewusst;CL-3;OT;OT: Low
+3_ABK11;7;nachlässig;CL-3;OT;OT: Low
+3_ABK11;8;Verbrechen;CL-3;OT;OT: Medium
+3_ABK11;9;Vergehen;CL-3;OT;OT: Medium
+3_ABK11;10;Sorgfalt;CL-3;OT;OT: Low
+3_ABK11;1;Verbrechen;CL-3;Cloze;
+3_ABK11;2;dies;CL-3;Cloze;
+3_ABK11;3;kann;CL-3;Cloze;
+3_ABK11;4;werden;CL-3;Cloze;
+3_ABK11;5;Vergehen;CL-3;Cloze;
+3_ABK11;6;dies;CL-3;Cloze;
+3_ABK11;7;kann;CL-3;Cloze;
+3_ABK11;8;werden;CL-3;Cloze;
+3_ABK11;9;ausführt;CL-3;Cloze;
+3_ABK11;10;will;CL-3;Cloze;
+3_ABK11;11;bewusst;CL-3;Cloze;
+3_ABK11;12;Verbrechen;CL-3;Cloze;
+3_ABK11;13;sich;CL-3;Cloze;
+3_ABK11;14;die Tat;CL-3;Cloze;
+3_ABK11;15;handelt;CL-3;Cloze;
+3_ABK11;16;um;CL-3;Cloze;
+3_ABK11;17;Person;CL-3;Cloze;
+3_ABK11;18;möglich;CL-3;Cloze;
+3_ABK11;19;dieser;CL-3;Cloze;
+3_ABK11;20;die;CL-3;Cloze;
+3_ABK11;21;unbewusst;CL-3;Cloze;
+3_ABK11;22;weiss;CL-3;Cloze;
+3_ABK11;23;vernachlässigt;CL-3;Cloze;
+3_ABK11;24;handelt;CL-3;Cloze;
+3_ABK11;25;Tat;CL-3;Cloze;
+3_ABK11;26;ist;CL-3;Cloze;
+3_ABK11;27;durch;CL-3;Cloze;
+3_ABK11;28;Tat;CL-3;Cloze;
+3_ABK11;29;ist;CL-3;Cloze;
+3_ABK11;30;durch;CL-3;Cloze;
+3_ABK11;31;Tat;CL-3;Cloze;
+3_ABK11;32;entsprechende;CL-3;Cloze;
+3_ABK11;33;einer;CL-3;Cloze;
+3_ABK11;34;dann;CL-3;Cloze;
+3_ABK11;35;Tat;CL-3;Cloze;
+3_ABK11;1;4;SUS-CL;;
+3_ABK11;2;2;SUS-CL;;
+3_ABK11;3;4;SUS-CL;;
+3_ABK11;4;1;SUS-CL;;
+3_ABK11;5;2;SUS-CL;;
+3_ABK11;6;5;SUS-CL;;
+3_ABK11;7;2;SUS-CL;;
+3_ABK11;8;4;SUS-CL;;
+3_ABK11;9;1;SUS-CL;;
+3_ABK11;1;4;Regular use of CL;;
+3_ABK9;1;Umständen;NL-3;OT;OT: Low
+3_ABK9;2;persönlichen Verhältnissen;NL-3;OT;OT: Low
+3_ABK9;1;-;NL-3;Cloze;
+3_ABK9;2;ahndbar;NL-3;Cloze;
+3_ABK9;3;Vergehen;NL-3;Cloze;
+3_ABK9;4;Verbrechen;NL-3;Cloze;
+3_ABK9;5;Tat;NL-3;Cloze;
+3_ABK9;6;ausübt;NL-3;Cloze;
+3_ABK9;7;die;NL-3;Cloze;
+3_ABK9;8;möglich;NL-3;Cloze;
+3_ABK9;9;nimmt;NL-3;Cloze;
+3_ABK9;10;Vergehen;NL-3;Cloze;
+3_ABK9;11;Handelns;NL-3;Cloze;
+3_ABK9;12;-;NL-3;Cloze;
+3_ABK9;13;nimmt;NL-3;Cloze;
+3_ABK9;14;-;NL-3;Cloze;
+3_ABK9;15;-;NL-3;Cloze;
+3_ABK9;16;-;NL-3;Cloze;
+3_ABK9;17;seinen;NL-3;Cloze;
+3_ABK9;1;Tat;CL-3;Cloze;
+3_ABK9;2;diese;CL-3;Cloze;
+3_ABK9;3;kann;CL-3;Cloze;
+3_ABK9;4;werden;CL-3;Cloze;
+3_ABK9;5;Tat;CL-3;Cloze;
+3_ABK9;6;diese;CL-3;Cloze;
+3_ABK9;7;kann;CL-3;Cloze;
+3_ABK9;8;werden;CL-3;Cloze;
+3_ABK9;9;begeht;CL-3;Cloze;
+3_ABK9;10;-;CL-3;Cloze;
+3_ABK9;11;bewusst;CL-3;Cloze;
+3_ABK9;12;Verbrechen;CL-3;Cloze;
+3_ABK9;13;sich;CL-3;Cloze;
+3_ABK9;14;es;CL-3;Cloze;
+3_ABK9;15;handelt;CL-3;Cloze;
+3_ABK9;16;um;CL-3;Cloze;
+3_ABK9;17;Person;CL-3;Cloze;
+3_ABK9;18;möglich;CL-3;Cloze;
+3_ABK9;19;der;CL-3;Cloze;
+3_ABK9;20;die;CL-3;Cloze;
+3_ABK9;21;nachlässig;CL-3;Cloze;
+3_ABK9;22;kennt;CL-3;Cloze;
+3_ABK9;23;bewusst;CL-3;Cloze;
+3_ABK9;24;handelt;CL-3;Cloze;
+3_ABK9;25;Tat;CL-3;Cloze;
+3_ABK9;26;ist;CL-3;Cloze;
+3_ABK9;27;aus;CL-3;Cloze;
+3_ABK9;28;Tat;CL-3;Cloze;
+3_ABK9;29;ist;CL-3;Cloze;
+3_ABK9;30;aus;CL-3;Cloze;
+3_ABK9;31;Person;CL-3;Cloze;
+3_ABK9;32;-;CL-3;Cloze;
+3_ABK9;33;der;CL-3;Cloze;
+3_ABK9;34;-;CL-3;Cloze;
+3_ABK9;35;-;CL-3;Cloze;
+3_ABK9;1;4;SUS-CL;;
+3_ABK9;2;3;SUS-CL;;
+3_ABK9;3;4;SUS-CL;;
+3_ABK9;4;1;SUS-CL;;
+3_ABK9;5;3;SUS-CL;;
+3_ABK9;6;5;SUS-CL;;
+3_ABK9;7;2;SUS-CL;;
+3_ABK9;8;3;SUS-CL;;
+3_ABK9;9;2;SUS-CL;;
+2_BAK9;1;personenbezogene;CL-2;OT;OT: Low
+2_BAK9;2;personenbezogene;CL-2;OT;OT: Low
+2_BAK9;3;personenbezogenen;CL-2;OT;OT: Low
+2_BAK9;4;personenbezogenen;CL-2;OT;OT: Low
+2_BAK9;1;und;CL-2;Cloze;
+2_BAK9;2;Daten;CL-2;Cloze;
+2_BAK9;3;betroffene;CL-2;Cloze;
+2_BAK9;4;personbezogenen;CL-2;Cloze;
+2_BAK9;5;personbezogene;CL-2;Cloze;
+2_BAK9;6;von;CL-2;Cloze;
+2_BAK9;7;muss;CL-2;Cloze;
+2_BAK9;8;Person;CL-2;Cloze;
+2_BAK9;9;dem;CL-2;Cloze;
+2_BAK9;10;muss;CL-2;Cloze;
+2_BAK9;11;folgenden;CL-2;Cloze;
+2_BAK9;12;Identität;CL-2;Cloze;
+2_BAK9;13;müssen;CL-2;Cloze;
+2_BAK9;14;beinhalten;CL-2;Cloze;
+2_BAK9;15;der;CL-2;Cloze;
+2_BAK9;16;sie;CL-2;Cloze;
+2_BAK9;17;Empfänger;CL-2;Cloze;
+2_BAK9;18;Teilen;CL-2;Cloze;
+2_BAK9;19;Person;CL-2;Cloze;
+2_BAK9;20;Reglement;CL-2;Cloze;
+2_BAK9;21;Informationen;CL-2;Cloze;
+2_BAK9;22;personbezogener;CL-2;Cloze;
+2_BAK9;23;personbezogenen;CL-2;Cloze;
+2_BAK9;24;von;CL-2;Cloze;
+2_BAK9;25;dann;CL-2;Cloze;
+2_BAK9;26;Person;CL-2;Cloze;
+2_BAK9;27;der;CL-2;Cloze;
+2_BAK9;1;4;SUS-CL;;
+2_BAK9;2;2;SUS-CL;;
+2_BAK9;3;4;SUS-CL;;
+2_BAK9;4;1;SUS-CL;;
+2_BAK9;5;1;SUS-CL;;
+2_BAK9;6;4;SUS-CL;;
+2_BAK9;7;3;SUS-CL;;
+2_BAK9;8;5;SUS-CL;;
+2_BAK9;9;1;SUS-CL;;
+2_BAK9;1;5;Distraction task;;
+2_BAK9;1;angemessen;NL-2;OT;OT: High
+2_BAK9;2;erforderlich;NL-2;OT;OT: High
+2_BAK9;3;transparente Datenbearbeitung;NL-2;OT;OT: Low
+2_BAK9;1;Person;NL-2;Cloze;
+2_BAK9;2;von;NL-2;Cloze;
+2_BAK9;3;auch;NL-2;Cloze;
+2_BAK9;4;von;NL-2;Cloze;
+2_BAK9;5;wird;NL-2;Cloze;
+2_BAK9;6;Man;NL-2;Cloze;
+2_BAK9;7;von;NL-2;Cloze;
+2_BAK9;8;mit;NL-2;Cloze;
+2_BAK9;9;sie;NL-2;Cloze;
+2_BAK9;10;Reglement;NL-2;Cloze;
+2_BAK9;11;eine;NL-2;Cloze;
+2_BAK9;12;man;NL-2;Cloze;
+2_BAK9;13;Identität;NL-2;Cloze;
+2_BAK9;14;Verantwortliche;NL-2;Cloze;
+2_BAK9;15;Empfänger;NL-2;Cloze;
+2_BAK9;16;Empfängerinnen;NL-2;Cloze;
+2_BAK9;17;gesammelt;NL-2;Cloze;
+2_BAK9;18;von;NL-2;Cloze;
+2_BAK9;19;dann;NL-2;Cloze;
+2_BAK9;20;die;NL-2;Cloze;
+2_BAK9;21;mit;NL-2;Cloze;
+2_BAK9;1;5;SUS-NL;;
+2_BAK9;2;2;SUS-NL;;
+2_BAK9;3;5;SUS-NL;;
+2_BAK9;4;1;SUS-NL;;
+2_BAK9;5;4;SUS-NL;;
+2_BAK9;6;5;SUS-NL;;
+3_ABK10;1;nur strafbar, wer ein Verbrechen oder Vergehen vorsätzlich begeht;NL-3;OT;OT: Medium
+3_ABK10;2;Vorsätzlich handelt bereits, wer die Verwirklichung der Tat für möglich hält und in Kauf nimmt.;NL-3;OT;OT: High
+3_ABK10;3;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Low
+3_ABK10;1;ausdrücklich;NL-3;Cloze;
+3_ABK10;2;strafbar;NL-3;Cloze;
+3_ABK10;3;Vergehen;NL-3;Cloze;
+3_ABK10;4;Verbrechen;NL-3;Cloze;
+3_ABK10;5;Tat;NL-3;Cloze;
+3_ABK10;6;begeht;NL-3;Cloze;
+3_ABK10;7;gedanklich;NL-3;Cloze;
+3_ABK10;8;möglich;NL-3;Cloze;
+3_ABK10;9;nimmt;NL-3;Cloze;
+3_ABK10;10;Vergehen;NL-3;Cloze;
+3_ABK10;11;Handelns;NL-3;Cloze;
+3_ABK10;12;berücksichtigt;NL-3;Cloze;
+3_ABK10;13;nimmt;NL-3;Cloze;
+3_ABK10;14;wenn;NL-3;Cloze;
+3_ABK10;15;nicht;NL-3;Cloze;
+3_ABK10;16;unter;NL-3;Cloze;
+3_ABK10;17;gesetzlich;NL-3;Cloze;
+3_ABK10;1;1;SUS-NL;;
+3_ABK10;2;4;SUS-NL;;
+3_ABK10;3;1;SUS-NL;;
+3_ABK10;4;4;SUS-NL;;
+3_ABK10;5;4;SUS-NL;;
+3_ABK10;6;3;SUS-NL;;
+3_ABK10;7;4;SUS-NL;;
+3_ABK10;8;1;SUS-NL;;
+3_ABK10;9;2;SUS-NL;;
+3_ABK10;1;5;Distraction task;;
+3_ABK10;1;diese Tat erfüllen will;CL-3;OT;OT: Medium
+3_ABK10;2;Wenn die Tat ein Verbrechen ist;CL-3;OT;OT: Low
+3_ABK10;3;Wenn es sich um ein Vergehen handelt;CL-3;OT;OT: Low
+3_ABK10;4;glaubt, dass eine Tat möglich ist;CL-3;OT;OT: High
+3_ABK10;5;verabsöumt;CL-3;OT;OT: Medium
+3_ABK10;6;Wenn die Tat ein Verbrechen ist;CL-3;OT;OT: Low
+3_ABK10;7;Wenn die Tat ein Vergehen ist;CL-3;OT;OT: Low
+3_ABK10;8;die der Situation entsprechende Sorgfalt;CL-3;OT;OT: Medium
+3_ABK10;1;Verbrechen;CL-3;Cloze;
+3_ABK10;2;dies;CL-3;Cloze;
+3_ABK10;3;kann;CL-3;Cloze;
+3_ABK10;4;werden;CL-3;Cloze;
+3_ABK10;5;Verbrechen;CL-3;Cloze;
+3_ABK10;6;dies;CL-3;Cloze;
+3_ABK10;7;kann;CL-3;Cloze;
+3_ABK10;8;werden;CL-3;Cloze;
+3_ABK10;9;begeht;CL-3;Cloze;
+3_ABK10;10;will;CL-3;Cloze;
+3_ABK10;11;bewusst;CL-3;Cloze;
+3_ABK10;12;Verbrechen;CL-3;Cloze;
+3_ABK10;13;sich;CL-3;Cloze;
+3_ABK10;14;sie;CL-3;Cloze;
+3_ABK10;15;-;CL-3;Cloze;
+3_ABK10;16;um;CL-3;Cloze;
+3_ABK10;17;Person;CL-3;Cloze;
+3_ABK10;18;geplant;CL-3;Cloze;
+3_ABK10;19;dieser;CL-3;Cloze;
+3_ABK10;20;die;CL-3;Cloze;
+3_ABK10;21;rechtswidrig;CL-3;Cloze;
+3_ABK10;22;-;CL-3;Cloze;
+3_ABK10;23;vernachlässigt;CL-3;Cloze;
+3_ABK10;24;handelt;CL-3;Cloze;
+3_ABK10;25;Tat;CL-3;Cloze;
+3_ABK10;26;ist;CL-3;Cloze;
+3_ABK10;27;mit;CL-3;Cloze;
+3_ABK10;28;Tat;CL-3;Cloze;
+3_ABK10;29;ist;CL-3;Cloze;
+3_ABK10;30;mit;CL-3;Cloze;
+3_ABK10;31;Person;CL-3;Cloze;
+3_ABK10;32;entsprechende;CL-3;Cloze;
+3_ABK10;33;der;CL-3;Cloze;
+3_ABK10;34;dann;CL-3;Cloze;
+3_ABK10;35;Sorgfalt;CL-3;Cloze;
+3_ABK10;1;1;SUS-CL;;
+3_ABK10;2;4;SUS-CL;;
+3_ABK10;3;1;SUS-CL;;
+3_ABK10;4;3;SUS-CL;;
+3_ABK10;5;4;SUS-CL;;
+3_ABK10;6;3;SUS-CL;;
+3_ABK10;7;4;SUS-CL;;
+3_ABK10;8;1;SUS-CL;;
+3_ABK10;9;3;SUS-CL;;
+3_ABK10;1;2;Regular use of CL;;
+2_BAK7;1;Verantwortliche;CL-2;OT;OT: High
+2_BAK7;2;personenbezogene;CL-2;OT;OT: Medium
+2_BAK7;3;Verantwortliche;CL-2;OT;OT: High
+2_BAK7;4;Verantwortliche;CL-2;OT;OT: High
+2_BAK7;5;beginnt;CL-2;OT;OT: Medium
+2_BAK7;6;unverzüglich;CL-2;OT;OT: Low
+2_BAK7;7;Identität;CL-2;OT;OT: Low
+2_BAK7;8;Verantwortlichen;CL-2;OT;OT: High
+2_BAK7;9;Empfänger;CL-2;OT;OT: Medium
+2_BAK7;10;Teilen;CL-2;OT;OT: Low
+2_BAK7;11;Teilen;CL-2;OT;OT: Low
+2_BAK7;12;kennen;CL-2;OT;OT: Medium
+2_BAK7;13;Verantwortliche;CL-2;OT;OT: High
+2_BAK7;14;Verantwortliche;CL-2;OT;OT: High
+2_BAK7;15;Kategorien;CL-2;OT;OT: Medium
+2_BAK7;16;personenbezogenen;CL-2;OT;OT: Medium
+2_BAK7;1;und;CL-2;Cloze;
+2_BAK7;2;Daten;CL-2;Cloze;
+2_BAK7;3;betroffene;CL-2;Cloze;
+2_BAK7;4;der;CL-2;Cloze;
+2_BAK7;5;personenbezogene;CL-2;Cloze;
+2_BAK7;6;von;CL-2;Cloze;
+2_BAK7;7;muss;CL-2;Cloze;
+2_BAK7;8;Person;CL-2;Cloze;
+2_BAK7;9;dem;CL-2;Cloze;
+2_BAK7;10;muss;CL-2;Cloze;
+2_BAK7;11;personenbezogenen;CL-2;Cloze;
+2_BAK7;12;Aussicht;CL-2;Cloze;
+2_BAK7;13;müssen;CL-2;Cloze;
+2_BAK7;14;beinhalten;CL-2;Cloze;
+2_BAK7;15;-;CL-2;Cloze;
+2_BAK7;16;-;CL-2;Cloze;
+2_BAK7;17;-;CL-2;Cloze;
+2_BAK7;18;-;CL-2;Cloze;
+2_BAK7;19;-;CL-2;Cloze;
+2_BAK7;20;-;CL-2;Cloze;
+2_BAK7;21;-;CL-2;Cloze;
+2_BAK7;22;-;CL-2;Cloze;
+2_BAK7;23;-;CL-2;Cloze;
+2_BAK7;24;-;CL-2;Cloze;
+2_BAK7;25;-;CL-2;Cloze;
+2_BAK7;26;-;CL-2;Cloze;
+2_BAK7;27;-;CL-2;Cloze;
+2_BAK7;1;5;SUS-CL;;
+2_BAK7;2;2;SUS-CL;;
+2_BAK7;3;5;SUS-CL;;
+2_BAK7;4;3;SUS-CL;;
+2_BAK7;5;1;SUS-CL;;
+2_BAK7;6;5;SUS-CL;;
+2_BAK7;7;1;SUS-CL;;
+2_BAK7;8;5;SUS-CL;;
+2_BAK7;9;2;SUS-CL;;
+2_BAK7;1;5;Distraction task;;
+2_BAK7;1;Der Verantwortliche;NL-2;OT;OT: High
+2_BAK7;2;angemessen;NL-2;OT;OT: Medium
+2_BAK7;3;erforderlich sind;NL-2;OT;OT: Low
+2_BAK7;4;transparente;NL-2;OT;OT: Low
+2_BAK7;1;Person;NL-2;Cloze;
+2_BAK7;2;der;NL-2;Cloze;
+2_BAK7;3;auch;NL-2;Cloze;
+2_BAK7;4;von;NL-2;Cloze;
+2_BAK7;5;werden;NL-2;Cloze;
+2_BAK7;6;Verantwortlicher;NL-2;Cloze;
+2_BAK7;7;aus;NL-2;Cloze;
+2_BAK7;8;mit;NL-2;Cloze;
+2_BAK7;9;diese;NL-2;Cloze;
+2_BAK7;10;Verfahrens;NL-2;Cloze;
+2_BAK7;11;eine;NL-2;Cloze;
+2_BAK7;12;weiterhin;NL-2;Cloze;
+2_BAK7;13;-;NL-2;Cloze;
+2_BAK7;14;Verantwortlichen;NL-2;Cloze;
+2_BAK7;15;Empfänger;NL-2;Cloze;
+2_BAK7;16;Empfängerinnen;NL-2;Cloze;
+2_BAK7;17;werdendet;NL-2;Cloze;
+2_BAK7;18;mit;NL-2;Cloze;
+2_BAK7;19;-;NL-2;Cloze;
+2_BAK7;20;-;NL-2;Cloze;
+2_BAK7;21;-;NL-2;Cloze;
+2_ABK9;1;angmessen;NL-2;OT;OT: High
+2_ABK9;2;die erforderlich;NL-2;OT;OT: Low
+2_ABK9;1;Person;NL-2;Cloze;
+2_ABK9;2;ihrer;NL-2;Cloze;
+2_ABK9;3;auch;NL-2;Cloze;
+2_ABK9;4;von;NL-2;Cloze;
+2_ABK9;5;wurden;NL-2;Cloze;
+2_ABK9;6;Man;NL-2;Cloze;
+2_ABK9;7;bei;NL-2;Cloze;
+2_ABK9;8;mit;NL-2;Cloze;
+2_ABK9;9;sie;NL-2;Cloze;
+2_ABK9;10;Gesetz;NL-2;Cloze;
+2_ABK9;11;eine;NL-2;Cloze;
+2_ABK9;12;man;NL-2;Cloze;
+2_ABK9;13;Informationen;NL-2;Cloze;
+2_ABK9;14;Informanten;NL-2;Cloze;
+2_ABK9;15;Empfänger;NL-2;Cloze;
+2_ABK9;16;Empfängerinnen;NL-2;Cloze;
+2_ABK9;17;weitergeben;NL-2;Cloze;
+2_ABK9;18;von;NL-2;Cloze;
+2_ABK9;19;dann;NL-2;Cloze;
+2_ABK9;20;die;NL-2;Cloze;
+2_ABK9;21;mit;NL-2;Cloze;
+2_ABK9;1;3;SUS-NL;;
+2_ABK9;2;1;SUS-NL;;
+2_ABK9;3;2;SUS-NL;;
+2_ABK9;4;2;SUS-NL;;
+2_ABK9;5;4;SUS-NL;;
+2_ABK9;6;2;SUS-NL;;
+2_ABK9;7;4;SUS-NL;;
+2_ABK9;8;2;SUS-NL;;
+2_ABK9;9;3;SUS-NL;;
+2_ABK9;1;5;Distraction task;;
+2_ABK9;1;Daten;CL-2;OT;OT: Low
+2_ABK9;2;personenbezogene;CL-2;OT;OT: Medium
+2_ABK9;3;personenbezogene;CL-2;OT;OT: Medium
+2_ABK9;4;Daten;CL-2;OT;OT: Low
+2_ABK9;1;und;CL-2;Cloze;
+2_ABK9;2;Daten;CL-2;Cloze;
+2_ABK9;3;betroffene;CL-2;Cloze;
+2_ABK9;4;ihrer;CL-2;Cloze;
+2_ABK9;5;die;CL-2;Cloze;
+2_ABK9;6;bei;CL-2;Cloze;
+2_ABK9;7;muss;CL-2;Cloze;
+2_ABK9;8;Person;CL-2;Cloze;
+2_ABK9;9;dem;CL-2;Cloze;
+2_ABK9;10;muss;CL-2;Cloze;
+2_ABK9;11;folgenden;CL-2;Cloze;
+2_ABK9;12;Kontaktdaten;CL-2;Cloze;
+2_ABK9;13;müssen;CL-2;Cloze;
+2_ABK9;14;beinhalten;CL-2;Cloze;
+2_ABK9;15;betreffenden;CL-2;Cloze;
+2_ABK9;16;sie;CL-2;Cloze;
+2_ABK9;17;-;CL-2;Cloze;
+2_ABK9;18;Teilen;CL-2;Cloze;
+2_ABK9;19;Person;CL-2;Cloze;
+2_ABK9;20;Gesetz;CL-2;Cloze;
+2_ABK9;21;Informationen;CL-2;Cloze;
+2_ABK9;22;der;CL-2;Cloze;
+2_ABK9;23;-;CL-2;Cloze;
+2_ABK9;24;von;CL-2;Cloze;
+2_ABK9;25;dann;CL-2;Cloze;
+2_ABK9;26;Informationen;CL-2;Cloze;
+2_ABK9;27;der;CL-2;Cloze;
+2_ABK9;1;1;SUS-CL;;
+2_ABK9;2;4;;;
+2_ABK9;3;2;;;
+2_ABK9;4;3;;;
+2_ABK9;5;3;;;
+2_ABK9;6;2;;;
+2_ABK9;7;4;;;
+2_ABK9;8;2;;;
+2_ABK9;9;4;;;
+2_ABK9;1;4;Regular use of CL;;
+1_BAK11;1;verheiratet;CL-1;Cloze;
+1_BAK11;2;Schweizer;CL-1;Cloze;
+1_BAK11;3;Kind;CL-1;Cloze;
+1_BAK11;4;Kindes;CL-1;Cloze;
+1_BAK11;5;Mutter;CL-1;Cloze;
+1_BAK11;6;das;CL-1;Cloze;
+1_BAK11;7;Mutter;CL-1;Cloze;
+1_BAK11;8;dem;CL-1;Cloze;
+1_BAK11;9;ist;CL-1;Cloze;
+1_BAK11;10;Kind;CL-1;Cloze;
+1_BAK11;11;und;CL-1;Cloze;
+1_BAK11;12;Kindes;CL-1;Cloze;
+1_BAK11;13;verheirater;CL-1;Cloze;
+1_BAK11;14;vom;CL-1;Cloze;
+1_BAK11;15;ist;CL-1;Cloze;
+1_BAK11;16;minderjährige;CL-1;Cloze;
+1_BAK11;17;ein;CL-1;Cloze;
+1_BAK11;18;ist;CL-1;Cloze;
+1_BAK11;1;3;SUS-CL;;
+1_BAK11;2;2;SUS-CL;;
+1_BAK11;3;4;SUS-CL;;
+1_BAK11;4;2;SUS-CL;;
+1_BAK11;5;2;SUS-CL;;
+1_BAK11;6;4;SUS-CL;;
+1_BAK11;7;2;SUS-CL;;
+1_BAK11;8;2;SUS-CL;;
+1_BAK11;9;1;SUS-CL;;
+1_BAK11;1;5;Distraction task;;
+1_BAK11;1;Begründung des Kindesverhältnisses;NL-1;OT;OT: Medium
+1_BAK11;1;von;NL-1;Cloze;
+1_BAK11;2;Eltern;NL-1;Cloze;
+1_BAK11;3;dessen;NL-1;Cloze;
+1_BAK11;4;s;NL-1;Cloze;
+1_BAK11;5;einer;NL-1;Cloze;
+1_BAK11;6;dem;NL-1;Cloze;
+1_BAK11;7;minderjährige;NL-1;Cloze;
+1_BAK11;8;Vaters;NL-1;Cloze;
+1_BAK11;9;nicht;NL-1;Cloze;
+1_BAK11;10;die;NL-1;Cloze;
+1_BAK11;11;Kind;NL-1;Cloze;
+1_BAK11;12;wenn;NL-1;Cloze;
+1_BAK11;13;Geburt;NL-1;Cloze;
+1_BAK11;14;Kind;NL-1;Cloze;
+1_BAK11;15;das;NL-1;Cloze;
+1_BAK11;16;Kinder;NL-1;Cloze;
+1_BAK11;17;das;NL-1;Cloze;
+1_BAK11;1;3;SUS-NL;;
+1_BAK11;2;3;SUS-NL;;
+1_BAK11;3;2;SUS-NL;;
+1_BAK11;4;2;SUS-NL;;
+1_BAK11;5;3;SUS-NL;;
+1_BAK11;6;2;SUS-NL;;
+1_BAK11;7;3;SUS-NL;;
+1_BAK11;8;2;SUS-NL;;
+1_BAK11;9;2;SUS-NL;;
+1_BAK11;1;2;Regular use of CL;;
+1_ABK11;1;nach Absatz 2;NL-1;OT;OT: Medium
+1_ABK11;2;so erwerben diese ebenfalls das Schweizer Bürgerrecht;NL-1;OT;OT: Medium
+1_ABK11;1;ein Kind von;NL-1;Cloze;
+1_ABK11;2;Eltern;NL-1;Cloze;
+1_ABK11;3;dessen;NL-1;Cloze;
+1_ABK11;4;Staatbürger;NL-1;Cloze;
+1_ABK11;5;einer;NL-1;Cloze;
+1_ABK11;6;dem;NL-1;Cloze;
+1_ABK11;7;leibliche;NL-1;Cloze;
+1_ABK11;8;Vaters;NL-1;Cloze;
+1_ABK11;9;nicht;NL-1;Cloze;
+1_ABK11;10;-;NL-1;Cloze;
+1_ABK11;11;Vater;NL-1;Cloze;
+1_ABK11;12;als wenn;NL-1;Cloze;
+1_ABK11;13;Geburt;NL-1;Cloze;
+1_ABK11;14;Kind;NL-1;Cloze;
+1_ABK11;15;das;NL-1;Cloze;
+1_ABK11;16;Kinder;NL-1;Cloze;
+1_ABK11;17;das;NL-1;Cloze;
+1_ABK11;1;4;SUS-NL;;
+1_ABK11;2;5;SUS-NL;;
+1_ABK11;3;1;SUS-NL;;
+1_ABK11;4;1;SUS-NL;;
+1_ABK11;5;3;SUS-NL;;
+1_ABK11;6;2;SUS-NL;;
+1_ABK11;7;4;SUS-NL;;
+1_ABK11;8;3;SUS-NL;;
+1_ABK11;9;1;SUS-NL;;
+1_ABK11;1;5;Distraction task;;
+1_ABK11;1;Schweizer Vater;CL-1;OT;OT: Low
+1_ABK11;2;die Abstammung vom Vater bestätigt ist;CL-1;OT;OT: Low
+1_ABK11;1;verheiratet;CL-1;Cloze;
+1_ABK11;2;Schweizer;CL-1;Cloze;
+1_ABK11;3;Kind;CL-1;Cloze;
+1_ABK11;4;Kindes;CL-1;Cloze;
+1_ABK11;5;Mutter;CL-1;Cloze;
+1_ABK11;6;das;CL-1;Cloze;
+1_ABK11;7;Mutter;CL-1;Cloze;
+1_ABK11;8;dem;CL-1;Cloze;
+1_ABK11;9;ist;CL-1;Cloze;
+1_ABK11;10;Kind;CL-1;Cloze;
+1_ABK11;11;und;CL-1;Cloze;
+1_ABK11;12;Kindes;CL-1;Cloze;
+1_ABK11;13;verheiratet;CL-1;Cloze;
+1_ABK11;14;des;CL-1;Cloze;
+1_ABK11;15;ist;CL-1;Cloze;
+1_ABK11;16;weibliche;CL-1;Cloze;
+1_ABK11;17;ein;CL-1;Cloze;
+1_ABK11;18;das;CL-1;Cloze;
+1_ABK11;1;4;SUS-CL;;
+1_ABK11;2;3;SUS-CL;;
+1_ABK11;3;3;SUS-CL;;
+1_ABK11;4;1;SUS-CL;;
+1_ABK11;5;1;SUS-CL;;
+1_ABK11;6;4;SUS-CL;;
+1_ABK11;7;2;SUS-CL;;
+1_ABK11;8;4;SUS-CL;;
+1_ABK11;9;1;SUS-CL;;
+1_ABK11;1;4;Regular use of CL;;
+1_ABK10;1;minderjährige ausländische Kind;NL-1;OT;OT: Low
+1_ABK10;2;Kindesverhältnisses;NL-1;OT;OT: High
+1_ABK10;3;minderjärige Kind;NL-1;OT;OT: Low
+1_ABK10;1;von;NL-1;Cloze;
+1_ABK10;2;Eltern;NL-1;Cloze;
+1_ABK10;3;dessen;NL-1;Cloze;
+1_ABK10;4;Herkunft;NL-1;Cloze;
+1_ABK10;5;einer;NL-1;Cloze;
+1_ABK10;6;Kindes;NL-1;Cloze;
+1_ABK10;7;minderjährige;NL-1;Cloze;
+1_ABK10;8;Vaters;NL-1;Cloze;
+1_ABK10;9;nicht;NL-1;Cloze;
+1_ABK10;10;die;NL-1;Cloze;
+1_ABK10;11;Vater;NL-1;Cloze;
+1_ABK10;12;aber;NL-1;Cloze;
+1_ABK10;13;Geburt;NL-1;Cloze;
+1_ABK10;14;Kind;NL-1;Cloze;
+1_ABK10;15;das;NL-1;Cloze;
+1_ABK10;16;Kinder;NL-1;Cloze;
+1_ABK10;17;das;NL-1;Cloze;
+1_ABK10;1;2;SUS-NL;;
+1_ABK10;2;4;SUS-NL;;
+1_ABK10;3;3;SUS-NL;;
+1_ABK10;4;3;SUS-NL;;
+1_ABK10;5;4;SUS-NL;;
+1_ABK10;6;2;SUS-NL;;
+1_ABK10;7;3;SUS-NL;;
+1_ABK10;8;2;SUS-NL;;
+1_ABK10;9;3;SUS-NL;;
+1_ABK10;1;5;Distraction task;;
+1_ABK10;1;Kind minderjährig;CL-1;OT;OT: Low
+1_ABK10;2;ausländisch ist, und der Schweizer Vater;CL-1;OT;OT: Medium
+1_ABK10;3;Schweizer;CL-1;OT;OT: Medium
+1_ABK10;1;Schweizer;CL-1;Cloze;
+1_ABK10;2;Schweizer;CL-1;Cloze;
+1_ABK10;3;Kind;CL-1;Cloze;
+1_ABK10;4;Kindes;CL-1;Cloze;
+1_ABK10;5;Mutter;CL-1;Cloze;
+1_ABK10;6;das;CL-1;Cloze;
+1_ABK10;7;Mutter;CL-1;Cloze;
+1_ABK10;8;dessen;CL-1;Cloze;
+1_ABK10;9;ist;CL-1;Cloze;
+1_ABK10;10;Kind;CL-1;Cloze;
+1_ABK10;11;und;CL-1;Cloze;
+1_ABK10;12;Kindes;CL-1;Cloze;
+1_ABK10;13;verheiratet;CL-1;Cloze;
+1_ABK10;14;zu,;CL-1;Cloze;
+1_ABK10;15;ist;CL-1;Cloze;
+1_ABK10;16;ausländische;CL-1;Cloze;
+1_ABK10;17;ein;CL-1;Cloze;
+1_ABK10;18;das;CL-1;Cloze;
+1_ABK10;1;3;SUS-CL;;
+1_ABK10;2;2;SUS-CL;;
+1_ABK10;3;3;SUS-CL;;
+1_ABK10;4;2;SUS-CL;;
+1_ABK10;5;2;SUS-CL;;
+1_ABK10;6;3;SUS-CL;;
+1_ABK10;7;3;SUS-CL;;
+1_ABK10;8;2;SUS-CL;;
+1_ABK10;9;3;SUS-CL;;
+1_ABK10;1;4;Regular use of CL;;
+1_BAK9;1;Kind minderjährig;CL-1;OT;OT: High
+1_BAK9;2;ausländisch;CL-1;OT;OT: High
+1_BAK9;3;Abstammung;CL-1;OT;OT: High
+1_BAK9;4;bestätigt;CL-1;OT;OT: High
+1_BAK9;1;Schweizer;CL-1;Cloze;
+1_BAK9;2;Schweizer;CL-1;Cloze;
+1_BAK9;3;Kind;CL-1;Cloze;
+1_BAK9;4;Kindes;CL-1;Cloze;
+1_BAK9;5;Mutter;CL-1;Cloze;
+1_BAK9;6;das;CL-1;Cloze;
+1_BAK9;7;Mutter;CL-1;Cloze;
+1_BAK9;8;ausländischen;CL-1;Cloze;
+1_BAK9;9;ist;CL-1;Cloze;
+1_BAK9;10;Kind;CL-1;Cloze;
+1_BAK9;11;aber;CL-1;Cloze;
+1_BAK9;12;Kindes;CL-1;Cloze;
+1_BAK9;13;verheiratet;CL-1;Cloze;
+1_BAK9;14;des;CL-1;Cloze;
+1_BAK9;15;ist;CL-1;Cloze;
+1_BAK9;16;minderjährige;CL-1;Cloze;
+1_BAK9;17;ein;CL-1;Cloze;
+1_BAK9;18;das;CL-1;Cloze;
+1_BAK9;1;2;SUS-CL;;
+1_BAK9;2;3;SUS-CL;;
+1_BAK9;3;3;SUS-CL;;
+1_BAK9;4;1;SUS-CL;;
+1_BAK9;5;2;SUS-CL;;
+1_BAK9;6;4;SUS-CL;;
+1_BAK9;7;5;SUS-CL;;
+1_BAK9;8;2;SUS-CL;;
+1_BAK9;9;1;SUS-CL;;
+1_BAK9;1;5;Distraction task;;
+1_BAK9;1;erwirbt;NL-1;OT;OT: Medium
+1_BAK9;2;Kindesverhältnisses;NL-1;OT;OT: Medium
+1_BAK9;3;Erwerb;NL-1;OT;OT: High
+1_BAK9;1;von;NL-1;Cloze;
+1_BAK9;2;Eltern;NL-1;Cloze;
+1_BAK9;3;der;NL-1;Cloze;
+1_BAK9;4;ist;NL-1;Cloze;
+1_BAK9;5;einer;NL-1;Cloze;
+1_BAK9;6;dem;NL-1;Cloze;
+1_BAK9;7;minderjährige;NL-1;Cloze;
+1_BAK9;8;Vater;NL-1;Cloze;
+1_BAK9;9;nicht;NL-1;Cloze;
+1_BAK9;10;die Geburt;NL-1;Cloze;
+1_BAK9;11;Kind;NL-1;Cloze;
+1_BAK9;12;;NL-1;Cloze;
+1_BAK9;13;-;NL-1;Cloze;
+1_BAK9;14;Kind;NL-1;Cloze;
+1_BAK9;15;das;NL-1;Cloze;
+1_BAK9;16;Kinder;NL-1;Cloze;
+1_BAK9;17;das;NL-1;Cloze;
+1_ABK9;1;ausländische;NL-1;OT;OT: High
+1_ABK9;1;von;NL-1;Cloze;
+1_ABK9;2;Eltern;NL-1;Cloze;
+1_ABK9;3;-;NL-1;Cloze;
+1_ABK9;4;Bürgerin;NL-1;Cloze;
+1_ABK9;5;-;NL-1;Cloze;
+1_ABK9;6;dem;NL-1;Cloze;
+1_ABK9;7;-;NL-1;Cloze;
+1_ABK9;8;Vaters;NL-1;Cloze;
+1_ABK9;9;nicht;NL-1;Cloze;
+1_ABK9;10;-;NL-1;Cloze;
+1_ABK9;11;Vater;NL-1;Cloze;
+1_ABK9;12;-;NL-1;Cloze;
+1_ABK9;13;Geburt;NL-1;Cloze;
+1_ABK9;14;Kind;NL-1;Cloze;
+1_ABK9;15;das;NL-1;Cloze;
+1_ABK9;16;Kinder;NL-1;Cloze;
+1_ABK9;17;das;NL-1;Cloze;
+1_ABK9;1;3;SUS-NL;;
+1_ABK9;2;4;SUS-NL;;
+1_ABK9;3;3;SUS-NL;;
+1_ABK9;4;4;SUS-NL;;
+1_ABK9;5;5;SUS-NL;;
+1_ABK9;6;2;SUS-NL;;
+1_ABK9;7;4;SUS-NL;;
+1_ABK9;8;1;SUS-NL;;
+1_ABK9;9;4;SUS-NL;;
+1_ABK9;1;5;Distraction task;;
+1_ABK9;1;minderjährige Person Schweizer;CL-1;OT;OT: High
+1_ABK9;1;verheiratet;CL-1;Cloze;
+1_ABK9;2;Schweizer;CL-1;Cloze;
+1_ABK9;3;Kind;CL-1;Cloze;
+1_ABK9;4;Kindes;CL-1;Cloze;
+1_ABK9;5;Mutter;CL-1;Cloze;
+1_ABK9;6;das;CL-1;Cloze;
+1_ABK9;7;Mutter;CL-1;Cloze;
+1_ABK9;8;dem;CL-1;Cloze;
+1_ABK9;9;ist;CL-1;Cloze;
+1_ABK9;10;Kind;CL-1;Cloze;
+1_ABK9;11;-;CL-1;Cloze;
+1_ABK9;12;Kindes;CL-1;Cloze;
+1_ABK9;13;verheiratet;CL-1;Cloze;
+1_ABK9;14;des;CL-1;Cloze;
+1_ABK9;15;ist;CL-1;Cloze;
+1_ABK9;16;minderjährige;CL-1;Cloze;
+1_ABK9;17;ein;CL-1;Cloze;
+1_ABK9;18;das;CL-1;Cloze;
+1_ABK9;1;5;SUS-CL;;
+1_ABK9;2;2;SUS-CL;;
+1_ABK9;3;4;SUS-CL;;
+1_ABK9;4;2;SUS-CL;;
+1_ABK9;5;2;SUS-CL;;
+1_ABK9;6;4;SUS-CL;;
+1_ABK9;7;2;SUS-CL;;
+1_ABK9;8;3;SUS-CL;;
+1_ABK9;9;2;SUS-CL;;
+1_ABK9;1;4;Regular use of CL;;
+2_BAK11;1;personenbezogene Daten;CL-2;OT;OT: Low
+2_BAK11;2;Verantworliche;CL-2;OT;OT: Low
+2_BAK11;3;Sammlung der Daten;CL-2;OT;OT: Low
+2_BAK11;4;Person;CL-2;OT;OT: Low
+2_BAK11;5;Person;CL-2;OT;OT: Low
+2_BAK11;1;und;CL-2;Cloze;
+2_BAK11;2;Daten;CL-2;Cloze;
+2_BAK11;3;betroffene;CL-2;Cloze;
+2_BAK11;4;personenbezogene;CL-2;Cloze;
+2_BAK11;5;von;CL-2;Cloze;
+2_BAK11;6;muss;CL-2;Cloze;
+2_BAK11;7;Person;CL-2;Cloze;
+2_BAK11;8;dem;CL-2;Cloze;
+2_BAK11;9;muss;CL-2;Cloze;
+2_BAK11;10;gesammelten;CL-2;Cloze;
+2_BAK11;11;Daten;CL-2;Cloze;
+2_BAK11;12;-;CL-2;Cloze;
+2_BAK11;13;-;CL-2;Cloze;
+2_BAK11;14;-;CL-2;Cloze;
+2_BAK11;15;-;CL-2;Cloze;
+2_BAK11;16;-;CL-2;Cloze;
+2_BAK11;17;Sammeln;CL-2;Cloze;
+2_BAK11;18;Person;CL-2;Cloze;
+2_BAK11;19;Gesetz;CL-2;Cloze;
+2_BAK11;20;Informationen;CL-2;Cloze;
+2_BAK11;21;der;CL-2;Cloze;
+2_BAK11;22;personenbezogenen;CL-2;Cloze;
+2_BAK11;23;von;CL-2;Cloze;
+2_BAK11;24;-;CL-2;Cloze;
+2_BAK11;25;Person;CL-2;Cloze;
+2_BAK11;26;der;CL-2;Cloze;
+2_BAK11;1;1;SUS-CL;;
+2_BAK11;2;5;SUS-CL;;
+2_BAK11;3;1;SUS-CL;;
+2_BAK11;4;4;SUS-CL;;
+2_BAK11;5;5;SUS-CL;;
+2_BAK11;6;1;SUS-CL;;
+2_BAK11;7;5;SUS-CL;;
+2_BAK11;8;1;SUS-CL;;
+2_BAK11;9;2;SUS-CL;;
+2_BAK11;1;5;Distraction task;;
+2_BAK11;1;Person;NL-2;OT;OT: High
+2_BAK11;2;Personendaten;NL-2;OT;OT: High
+2_BAK11;3;Person;NL-2;OT;OT: High
+2_BAK11;4;Person;NL-2;OT;OT: High
+2_BAK11;5;Person;NL-2;OT;OT: High
+2_BAK11;6;Personendaten;NL-2;OT;OT: High
+2_BAK11;1;Person;NL-2;Cloze;
+2_BAK11;2;seiner;NL-2;Cloze;
+2_BAK11;3;auch;NL-2;Cloze;
+2_BAK11;4;von;NL-2;Cloze;
+2_BAK11;5;werden;NL-2;Cloze;
+2_BAK11;6;Der Verantwortliche;NL-2;Cloze;
+2_BAK11;7;etwas nach;NL-2;Cloze;
+2_BAK11;8;mit;NL-2;Cloze;
+2_BAK11;9;die Person;NL-2;Cloze;
+2_BAK11;10;Gesetz;NL-2;Cloze;
+2_BAK11;11;eine;NL-2;Cloze;
+2_BAK11;12;Der Verantwortliche;NL-2;Cloze;
+2_BAK11;13;unlesbar;NL-2;Cloze;
+2_BAK11;14;Betroffenen;NL-2;Cloze;
+2_BAK11;15;Empfänger;NL-2;Cloze;
+2_BAK11;16;Empfängerinnen;NL-2;Cloze;
+2_BAK11;17;zugeteilt;NL-2;Cloze;
+2_BAK11;18;von;NL-2;Cloze;
+2_BAK11;19;dann;NL-2;Cloze;
+2_BAK11;20;die;NL-2;Cloze;
+2_BAK11;21;mit;NL-2;Cloze;
+2_BAK11;1;1;SUS-NL;;
+2_BAK11;2;5;SUS-NL;;
+2_BAK11;3;1;SUS-NL;;
+2_BAK11;4;4;SUS-NL;;
+2_BAK11;5;5;SUS-NL;;
+2_BAK11;6;1;SUS-NL;;
+2_BAK11;7;5;SUS-NL;;
+2_BAK11;8;1;SUS-NL;;
+2_BAK11;9;2;SUS-NL;;
+2_BAK11;1;1;Regular use of CL;;
+2_ABK11;1;Informationspflicht;NL-2;OT;OT: Medium
+2_ABK11;2;Beschaffunf diejenigen;NL-2;OT;OT: Medium
+2_ABK11;1;Person;NL-2;Cloze;
+2_ABK11;2;vor;NL-2;Cloze;
+2_ABK11;3;auch;NL-2;Cloze;
+2_ABK11;4;von;NL-2;Cloze;
+2_ABK11;5;worden;NL-2;Cloze;
+2_ABK11;6;Der Verantwortliche;NL-2;Cloze;
+2_ABK11;7;-;NL-2;Cloze;
+2_ABK11;8;-;NL-2;Cloze;
+2_ABK11;9;-;NL-2;Cloze;
+2_ABK11;10;-;NL-2;Cloze;
+2_ABK11;11;eine;NL-2;Cloze;
+2_ABK11;12;Verantwortlich;NL-2;Cloze;
+2_ABK11;13;-;NL-2;Cloze;
+2_ABK11;14;Empfängers;NL-2;Cloze;
+2_ABK11;15;Empfänger;NL-2;Cloze;
+2_ABK11;16;Empfängerinnen;NL-2;Cloze;
+2_ABK11;17;aufgenommen;NL-2;Cloze;
+2_ABK11;18;von;NL-2;Cloze;
+2_ABK11;19;so;NL-2;Cloze;
+2_ABK11;20;die;NL-2;Cloze;
+2_ABK11;21;mit;NL-2;Cloze;
+2_ABK11;1;2;SUS-NL;;
+2_ABK11;2;3;SUS-NL;;
+2_ABK11;3;3;SUS-NL;;
+2_ABK11;4;3;SUS-NL;;
+2_ABK11;5;3;SUS-NL;;
+2_ABK11;6;1;SUS-NL;;
+2_ABK11;7;2;SUS-NL;;
+2_ABK11;8;3;SUS-NL;;
+2_ABK11;9;2;SUS-NL;;
+2_ABK11;1;5;Distraction task;;
+2_ABK11;1;Teilen;CL-2;OT;OT: Medium
+2_ABK11;2;transparente Nutzung der Daten;CL-2;OT;OT: Medium
+2_ABK11;1;und;CL-2;Cloze;
+2_ABK11;2;Daten;CL-2;Cloze;
+2_ABK11;3;-;CL-2;Cloze;
+2_ABK11;4;personenbezogenen;CL-2;Cloze;
+2_ABK11;5;-;CL-2;Cloze;
+2_ABK11;6;-;CL-2;Cloze;
+2_ABK11;7;-;CL-2;Cloze;
+2_ABK11;8;Person;CL-2;Cloze;
+2_ABK11;9;dem;CL-2;Cloze;
+2_ABK11;10;muss;CL-2;Cloze;
+2_ABK11;11;gesammelten;CL-2;Cloze;
+2_ABK11;12;Namen;CL-2;Cloze;
+2_ABK11;13;über;CL-2;Cloze;
+2_ABK11;14;die Daten;CL-2;Cloze;
+2_ABK11;15;die;CL-2;Cloze;
+2_ABK11;16;sie;CL-2;Cloze;
+2_ABK11;17;Daten;CL-2;Cloze;
+2_ABK11;18;-;CL-2;Cloze;
+2_ABK11;19;Person;CL-2;Cloze;
+2_ABK11;20;Recht;CL-2;Cloze;
+2_ABK11;21;Information;CL-2;Cloze;
+2_ABK11;22;personenbezogenen;CL-2;Cloze;
+2_ABK11;23;personenbezogenen;CL-2;Cloze;
+2_ABK11;24;von;CL-2;Cloze;
+2_ABK11;25;so;CL-2;Cloze;
+2_ABK11;26;Person;CL-2;Cloze;
+2_ABK11;27;der;CL-2;Cloze;
+2_ABK11;1;4;SUS-CL;;
+2_ABK11;2;3;SUS-CL;;
+2_ABK11;3;3;SUS-CL;;
+2_ABK11;4;3;SUS-CL;;
+2_ABK11;5;2;SUS-CL;;
+2_ABK11;6;2;SUS-CL;;
+2_ABK11;7;3;SUS-CL;;
+2_ABK11;8;2;SUS-CL;;
+2_ABK11;9;2;SUS-CL;;
+2_ABK11;1;3;Regular use of CL;;
+3_BAK10;1;Verbrechen;CL-3;Cloze;
+3_BAK10;2;dies;CL-3;Cloze;
+3_BAK10;3;wird;CL-3;Cloze;
+3_BAK10;4;werden;CL-3;Cloze;
+3_BAK10;5;Vergehen;CL-3;Cloze;
+3_BAK10;6;dies;CL-3;Cloze;
+3_BAK10;7;wird;CL-3;Cloze;
+3_BAK10;8;werden;CL-3;Cloze;
+3_BAK10;9;begeht;CL-3;Cloze;
+3_BAK10;10;will;CL-3;Cloze;
+3_BAK10;11;bewusst;CL-3;Cloze;
+3_BAK10;12;Verbrechen;CL-3;Cloze;
+3_BAK10;13;sich;CL-3;Cloze;
+3_BAK10;14;es;CL-3;Cloze;
+3_BAK10;15;handelt;CL-3;Cloze;
+3_BAK10;16;um;CL-3;Cloze;
+3_BAK10;17;Person;CL-3;Cloze;
+3_BAK10;18;erlaubt;CL-3;Cloze;
+3_BAK10;19;der;CL-3;Cloze;
+3_BAK10;20;die;CL-3;Cloze;
+3_BAK10;21;bewusst;CL-3;Cloze;
+3_BAK10;22;bewusst;CL-3;Cloze;
+3_BAK10;23;missachtet;CL-3;Cloze;
+3_BAK10;24;handelt;CL-3;Cloze;
+3_BAK10;25;Tat;CL-3;Cloze;
+3_BAK10;26;ist;CL-3;Cloze;
+3_BAK10;27;mit;CL-3;Cloze;
+3_BAK10;28;Tat;CL-3;Cloze;
+3_BAK10;29;ist;CL-3;Cloze;
+3_BAK10;30;mit;CL-3;Cloze;
+3_BAK10;31;Person;CL-3;Cloze;
+3_BAK10;32;angemessene;CL-3;Cloze;
+3_BAK10;33;der;CL-3;Cloze;
+3_BAK10;34;dann;CL-3;Cloze;
+3_BAK10;35;Sorgfalt;CL-3;Cloze;
+3_BAK10;1;2;SUS-CL;;
+3_BAK10;2;4;SUS-CL;;
+3_BAK10;3;2;SUS-CL;;
+3_BAK10;4;3;SUS-CL;;
+3_BAK10;5;4;SUS-CL;;
+3_BAK10;6;3;SUS-CL;;
+3_BAK10;7;4;SUS-CL;;
+3_BAK10;8;2;SUS-CL;;
+3_BAK10;9;4;SUS-CL;;
+3_BAK10;1;Vergehen;CL-3;OT;OT: Medium
+3_BAK10;2;bewusstes;CL-3;OT;OT: High
+3_BAK10;3;Vergehen;CL-3;OT;OT: Medium
+3_BAK10;4;bewusstes;CL-3;OT;OT: High
+3_BAK10;5;ignoriert;CL-3;OT;OT: Low
+3_BAK10;6;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK10;7;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK10;1;5;Distraction task;;
+3_BAK10;1;vorsätzlich;NL-3;OT;OT: Medium
+3_BAK10;1;explizit;NL-3;Cloze;
+3_BAK10;2;der;NL-3;Cloze;
+3_BAK10;3;Vergehen;NL-3;Cloze;
+3_BAK10;4;Verbrechen;NL-3;Cloze;
+3_BAK10;5;Tat;NL-3;Cloze;
+3_BAK10;6;begeht;NL-3;Cloze;
+3_BAK10;7;die;NL-3;Cloze;
+3_BAK10;8;möglich;NL-3;Cloze;
+3_BAK10;9;nimmt;NL-3;Cloze;
+3_BAK10;10;Vergehen;NL-3;Cloze;
+3_BAK10;11;Bezug;NL-3;Cloze;
+3_BAK10;12;wiss;NL-3;Cloze;
+3_BAK10;13;nimmt;NL-3;Cloze;
+3_BAK10;14;wenn;NL-3;Cloze;
+3_BAK10;15;nicht;NL-3;Cloze;
+3_BAK10;16;nach;NL-3;Cloze;
+3_BAK10;17;den;NL-3;Cloze;
+3_BAK10;1;3;SUS-NL;;
+3_BAK10;2;3;SUS-NL;;
+3_BAK10;3;3;SUS-NL;;
+3_BAK10;4;2;SUS-NL;;
+3_BAK10;5;3;SUS-NL;;
+3_BAK10;6;4;SUS-NL;;
+3_BAK10;7;2;SUS-NL;;
+3_BAK10;8;2;SUS-NL;;
+3_BAK10;9;2;SUS-NL;;
+3_BAK10;1;4;Regular use of CL;;
+1_BAK8;1;eine minderjährige Person;CL-1;OT;OT: Medium
+1_BAK8;1;verheiratet;CL-1;Cloze;
+1_BAK8;2;Schweizer;CL-1;Cloze;
+1_BAK8;3;Kind;CL-1;Cloze;
+1_BAK8;4;Kindes;CL-1;Cloze;
+1_BAK8;5;Mutter;CL-1;Cloze;
+1_BAK8;6;das;CL-1;Cloze;
+1_BAK8;7;Mutter;CL-1;Cloze;
+1_BAK8;8;dem;CL-1;Cloze;
+1_BAK8;9;ist;CL-1;Cloze;
+1_BAK8;10;Kind;CL-1;Cloze;
+1_BAK8;11;und;CL-1;Cloze;
+1_BAK8;12;Kindes;CL-1;Cloze;
+1_BAK8;13;verheiratet;CL-1;Cloze;
+1_BAK8;14;des;CL-1;Cloze;
+1_BAK8;15;ist;CL-1;Cloze;
+1_BAK8;16;minderjährige;CL-1;Cloze;
+1_BAK8;17;ein;CL-1;Cloze;
+1_BAK8;18;das;CL-1;Cloze;
+1_BAK8;1;3;SUS-CL;;
+1_BAK8;2;3;SUS-CL;;
+1_BAK8;3;3;SUS-CL;;
+1_BAK8;4;3;SUS-CL;;
+1_BAK8;5;4;SUS-CL;;
+1_BAK8;6;3;SUS-CL;;
+1_BAK8;7;4;SUS-CL;;
+1_BAK8;8;2;SUS-CL;;
+1_BAK8;9;2;SUS-CL;;
+1_BAK8;1;5;Distraction task;;
+1_BAK8;1;Kind;NL-1;OT;OT: High
+1_BAK8;2;eigene Kinder;NL-1;OT;OT: Medium
+1_BAK8;1;von;NL-1;Cloze;
+1_BAK8;2;Eltern;NL-1;Cloze;
+1_BAK8;3;dessen;NL-1;Cloze;
+1_BAK8;4;ist;NL-1;Cloze;
+1_BAK8;5;von;NL-1;Cloze;
+1_BAK8;6;dem;NL-1;Cloze;
+1_BAK8;7;minderjährige;NL-1;Cloze;
+1_BAK8;8;Vaters;NL-1;Cloze;
+1_BAK8;9;nicht;NL-1;Cloze;
+1_BAK8;10;nachgewiesener;NL-1;Cloze;
+1_BAK8;11;Vater;NL-1;Cloze;
+1_BAK8;12;auch;NL-1;Cloze;
+1_BAK8;13;Mutter;NL-1;Cloze;
+1_BAK8;14;Kind;NL-1;Cloze;
+1_BAK8;15;eine;NL-1;Cloze;
+1_BAK8;16;Kinder;NL-1;Cloze;
+1_BAK8;17;des;NL-1;Cloze;
+1_BAK8;1;3;;;
+1_BAK8;2;3;;;
+1_BAK8;3;3;;;
+1_BAK8;4;3;;;
+1_BAK8;5;4;;;
+1_BAK8;6;3;;;
+1_BAK8;7;4;;;
+1_BAK8;8;2;;;
+1_BAK8;9;3;;;
+1_BAK8;1;3;Regular use of CL;;
+1_ABK7;1;Kindesverhältnisses;NL-1;OT;OT: Medium
+1_ABK7;1;von;NL-1;Cloze;
+1_ABK7;2;Eltern;NL-1;Cloze;
+1_ABK7;3;dessen;NL-1;Cloze;
+1_ABK7;4;Bürgerin;NL-1;Cloze;
+1_ABK7;5;einer;NL-1;Cloze;
+1_ABK7;6;dem;NL-1;Cloze;
+1_ABK7;7;minderjährige;NL-1;Cloze;
+1_ABK7;8;-;NL-1;Cloze;
+1_ABK7;9;nicht;NL-1;Cloze;
+1_ABK7;10;die;NL-1;Cloze;
+1_ABK7;11;Vater;NL-1;Cloze;
+1_ABK7;12;als;NL-1;Cloze;
+1_ABK7;13;Geburt;NL-1;Cloze;
+1_ABK7;14;Kind;NL-1;Cloze;
+1_ABK7;15;das;NL-1;Cloze;
+1_ABK7;16;Kinder;NL-1;Cloze;
+1_ABK7;17;das;NL-1;Cloze;
+1_ABK7;1;3;SUS-NL;;
+1_ABK7;2;4;SUS-NL;;
+1_ABK7;3;2;SUS-NL;;
+1_ABK7;4;2;SUS-NL;;
+1_ABK7;5;4;SUS-NL;;
+1_ABK7;6;2;SUS-NL;;
+1_ABK7;7;3;SUS-NL;;
+1_ABK7;8;3;SUS-NL;;
+1_ABK7;9;3;SUS-NL;;
+1_ABK7;1;5;Distraction task;;
+1_ABK7;1;verheiratet;CL-1;Cloze;
+1_ABK7;2;Schweizer;CL-1;Cloze;
+1_ABK7;3;Kind;CL-1;Cloze;
+1_ABK7;4;Kindes;CL-1;Cloze;
+1_ABK7;5;Mutter;CL-1;Cloze;
+1_ABK7;6;das;CL-1;Cloze;
+1_ABK7;7;Mutter;CL-1;Cloze;
+1_ABK7;8;dem;CL-1;Cloze;
+1_ABK7;9;ist;CL-1;Cloze;
+1_ABK7;10;Kind;CL-1;Cloze;
+1_ABK7;11;und;CL-1;Cloze;
+1_ABK7;12;Kindes;CL-1;Cloze;
+1_ABK7;13;verheiratet;CL-1;Cloze;
+1_ABK7;14;vom;CL-1;Cloze;
+1_ABK7;15;ist;CL-1;Cloze;
+1_ABK7;16;ausländische;CL-1;Cloze;
+1_ABK7;17;ein;CL-1;Cloze;
+1_ABK7;18;das;CL-1;Cloze;
+1_ABK7;1;4;SUS-CL;;
+1_ABK7;2;3;SUS-CL;;
+1_ABK7;3;3;SUS-CL;;
+1_ABK7;4;2;SUS-CL;;
+1_ABK7;5;3;SUS-CL;;
+1_ABK7;6;3;SUS-CL;;
+1_ABK7;7;2;SUS-CL;;
+1_ABK7;8;3;SUS-CL;;
+1_ABK7;9;2;SUS-CL;;
+1_ABK7;1;4;Regular use of CL;;
+1_BAK5;1;Schweizer;CL-1;Cloze;
+1_BAK5;2;Schweizer;CL-1;Cloze;
+1_BAK5;3;Kind;CL-1;Cloze;
+1_BAK5;4;Kindes;CL-1;Cloze;
+1_BAK5;5;Mutter;CL-1;Cloze;
+1_BAK5;6;das;CL-1;Cloze;
+1_BAK5;7;Mutter;CL-1;Cloze;
+1_BAK5;8;dem;CL-1;Cloze;
+1_BAK5;9;ist;CL-1;Cloze;
+1_BAK5;10;Kind;CL-1;Cloze;
+1_BAK5;11;und;CL-1;Cloze;
+1_BAK5;12;Kindes;CL-1;Cloze;
+1_BAK5;13;verheiratet;CL-1;Cloze;
+1_BAK5;14;vom;CL-1;Cloze;
+1_BAK5;15;ist;CL-1;Cloze;
+1_BAK5;16;minderjährige;CL-1;Cloze;
+1_BAK5;17;ein;CL-1;Cloze;
+1_BAK5;18;das;CL-1;Cloze;
+1_BAK5;1;4;SUS-CL;;
+1_BAK5;2;1;SUS-CL;;
+1_BAK5;3;5;SUS-CL;;
+1_BAK5;4;1;SUS-CL;;
+1_BAK5;5;1;SUS-CL;;
+1_BAK5;6;4;SUS-CL;;
+1_BAK5;7;1;SUS-CL;;
+1_BAK5;8;5;SUS-CL;;
+1_BAK5;9;3;SUS-CL;;
+1_BAK5;1;5;Distraction task;;
+1_BAK5;1;von;NL-1;Cloze;
+1_BAK5;2;Eltern;NL-1;Cloze;
+1_BAK5;3;jeweils;NL-1;Cloze;
+1_BAK5;4;Bürgerin;NL-1;Cloze;
+1_BAK5;5;einer;NL-1;Cloze;
+1_BAK5;6;dem;NL-1;Cloze;
+1_BAK5;7;minderjährige;NL-1;Cloze;
+1_BAK5;8;Vaters;NL-1;Cloze;
+1_BAK5;9;nicht;NL-1;Cloze;
+1_BAK5;10;die;NL-1;Cloze;
+1_BAK5;11;Kind;NL-1;Cloze;
+1_BAK5;12;beispielweise;NL-1;Cloze;
+1_BAK5;13;Geburt;NL-1;Cloze;
+1_BAK5;14;Kind;NL-1;Cloze;
+1_BAK5;15;welches;NL-1;Cloze;
+1_BAK5;16;Kindes;NL-1;Cloze;
+1_BAK5;17;das;NL-1;Cloze;
+1_BAK5;1;4;SUS-NL;;
+1_BAK5;2;2;SUS-NL;;
+1_BAK5;3;5;SUS-NL;;
+1_BAK5;4;1;SUS-NL;;
+1_BAK5;5;1;SUS-NL;;
+1_BAK5;6;2;SUS-NL;;
+1_BAK5;7;1;SUS-NL;;
+1_BAK5;8;4;SUS-NL;;
+1_BAK5;9;3;SUS-NL;;
+1_BAK5;1;3;Regular use of CL;;
+1_BAK6;1;und die Abstammung vom Vater bestätigt ist;CL-1;OT;OT: High
+1_BAK6;2;minderjährige Person;CL-1;OT;OT: Medium
+1_BAK6;3;ein Kind;CL-1;OT;OT: Medium
+1_BAK6;4;dieses Kind;CL-1;OT;OT: Medium
+1_BAK6;1;verheiratet;CL-1;Cloze;
+1_BAK6;2;Schweizer;CL-1;Cloze;
+1_BAK6;3;Kind;CL-1;Cloze;
+1_BAK6;4;Kindes;CL-1;Cloze;
+1_BAK6;5;Mutter;CL-1;Cloze;
+1_BAK6;6;das;CL-1;Cloze;
+1_BAK6;7;Mutter;CL-1;Cloze;
+1_BAK6;8;dem;CL-1;Cloze;
+1_BAK6;9;ist;CL-1;Cloze;
+1_BAK6;10;Person;CL-1;Cloze;
+1_BAK6;11;und;CL-1;Cloze;
+1_BAK6;12;Kindes;CL-1;Cloze;
+1_BAK6;13;verheiratet;CL-1;Cloze;
+1_BAK6;14;vom;CL-1;Cloze;
+1_BAK6;15;ist;CL-1;Cloze;
+1_BAK6;16;minderjährige;CL-1;Cloze;
+1_BAK6;17;ein;CL-1;Cloze;
+1_BAK6;18;das;CL-1;Cloze;
+1_BAK6;1;4;SUS-CL;;
+1_BAK6;2;3;SUS-CL;;
+1_BAK6;3;3;SUS-CL;;
+1_BAK6;4;2;SUS-CL;;
+1_BAK6;5;3;SUS-CL;;
+1_BAK6;6;2;SUS-CL;;
+1_BAK6;7;3;SUS-CL;;
+1_BAK6;8;4;SUS-CL;;
+1_BAK6;9;2;SUS-CL;;
+1_BAK6;1;8;Distraction task;;
+1_BAK6;1;das Kind einer Schweizer Bürgerin;NL-1;OT;OT: Low
+1_BAK6;2;erwirbt durch die Begründung des Kindesverhältnisses zum Vater das Schweizer Bürgerrecht;NL-1;OT;OT: High
+1_BAK6;3;eigene Kinder;NL-1;OT;OT: Low
+1_BAK6;1;von;NL-1;Cloze;
+1_BAK6;2;Eltern;NL-1;Cloze;
+1_BAK6;3;dessen;NL-1;Cloze;
+1_BAK6;4;Bürgerin;NL-1;Cloze;
+1_BAK6;5;einer;NL-1;Cloze;
+1_BAK6;6;dem;NL-1;Cloze;
+1_BAK6;7;minderjährige;NL-1;Cloze;
+1_BAK6;8;Vaters;NL-1;Cloze;
+1_BAK6;9;nicht;NL-1;Cloze;
+1_BAK6;10;die;NL-1;Cloze;
+1_BAK6;11;Kind;NL-1;Cloze;
+1_BAK6;12;wenn;NL-1;Cloze;
+1_BAK6;13;Geburt;NL-1;Cloze;
+1_BAK6;14;Kind;NL-1;Cloze;
+1_BAK6;15;das;NL-1;Cloze;
+1_BAK6;16;Kinder;NL-1;Cloze;
+1_BAK6;17;das;NL-1;Cloze;
+1_BAK6;1;4;SUS-NL;;
+1_BAK6;2;3;SUS-NL;;
+1_BAK6;3;3;SUS-NL;;
+1_BAK6;4;2;SUS-NL;;
+1_BAK6;5;2;SUS-NL;;
+1_BAK6;6;2;SUS-NL;;
+1_BAK6;7;3;SUS-NL;;
+1_BAK6;8;4;SUS-NL;;
+1_BAK6;9;2;SUS-NL;;
+1_BAK6;1;4;Regular use of CL;;
+1_ABK5;1;ausländische Kind;NL-1;OT;OT: High
+1_ABK5;2;Begründungen des Kindesverhältnisses zum Vater;NL-1;OT;OT: Medium
+1_ABK5;3;Schweizer Bürgerrecht;NL-1;OT;OT: Low
+1_ABK5;4;Erwerb;NL-1;OT;OT: Low
+1_ABK5;5;Absatz 2;NL-1;OT;OT: High
+1_ABK5;1;man;NL-1;Cloze;
+1_ABK5;2;Eltern;NL-1;Cloze;
+1_ABK5;3;dessen;NL-1;Cloze;
+1_ABK5;4;Bürgerin;NL-1;Cloze;
+1_ABK5;5;einer;NL-1;Cloze;
+1_ABK5;6;dem;NL-1;Cloze;
+1_ABK5;7;minderjährige;NL-1;Cloze;
+1_ABK5;8;Vaters;NL-1;Cloze;
+1_ABK5;9;nicht;NL-1;Cloze;
+1_ABK5;10;die;NL-1;Cloze;
+1_ABK5;11;Vater;NL-1;Cloze;
+1_ABK5;12;wenn;NL-1;Cloze;
+1_ABK5;13;Geburt;NL-1;Cloze;
+1_ABK5;14;Kind;NL-1;Cloze;
+1_ABK5;15;das;NL-1;Cloze;
+1_ABK5;16;Kinder;NL-1;Cloze;
+1_ABK5;17;das;NL-1;Cloze;
+1_ABK5;1;2;SUS-NL;;
+1_ABK5;2;5;SUS-NL;;
+1_ABK5;3;2;SUS-NL;;
+1_ABK5;4;4;SUS-NL;;
+1_ABK5;5;4;SUS-NL;;
+1_ABK5;6;1;SUS-NL;;
+1_ABK5;7;3;SUS-NL;;
+1_ABK5;8;3;SUS-NL;;
+1_ABK5;9;2;SUS-NL;;
+1_ABK5;1;6;Distraction task;;
+1_ABK5;1;Schweizer;CL-1;OT;OT: Low
+1_ABK5;2;Schweizer;CL-1;OT;OT: Low
+1_ABK5;3;Schweizer;CL-1;OT;OT: Low
+1_ABK5;4;nicht;CL-1;OT;OT: Medium
+1_ABK5;5;verheiratet;CL-1;OT;OT: Medium
+1_ABK5;6;Schweizer;CL-1;OT;OT: Low
+1_ABK5;7;ausländisch;CL-1;OT;OT: Low
+1_ABK5;8;nicht verheiratet;CL-1;OT;OT: Medium
+1_ABK5;9;Abstammung;CL-1;OT;OT: High
+1_ABK5;10;Schwizer;CL-1;OT;OT: Low
+1_ABK5;11;Person;CL-1;OT;OT: Medium
+1_ABK5;12;Schweizer;CL-1;OT;OT: Low
+1_ABK5;13;Schweizer;CL-1;OT;OT: Low
+1_ABK5;1;verheiratet;CL-1;Cloze;
+1_ABK5;2;Schweizer;CL-1;Cloze;
+1_ABK5;3;Kind;CL-1;Cloze;
+1_ABK5;4;Kindes;CL-1;Cloze;
+1_ABK5;5;Mutter;CL-1;Cloze;
+1_ABK5;6;das;CL-1;Cloze;
+1_ABK5;7;Mutter;CL-1;Cloze;
+1_ABK5;8;dem;CL-1;Cloze;
+1_ABK5;9;ist;CL-1;Cloze;
+1_ABK5;10;Kind;CL-1;Cloze;
+1_ABK5;11;dabei;CL-1;Cloze;
+1_ABK5;12;Kindes;CL-1;Cloze;
+1_ABK5;13;verheiratet;CL-1;Cloze;
+1_ABK5;14;des;CL-1;Cloze;
+1_ABK5;15;ist;CL-1;Cloze;
+1_ABK5;16;minderjährige;CL-1;Cloze;
+1_ABK5;17;ein;CL-1;Cloze;
+1_ABK5;18;das;CL-1;Cloze;
+1_ABK5;1;4;SUS-CL;;
+1_ABK5;2;2;SUS-CL;;
+1_ABK5;3;4;SUS-CL;;
+1_ABK5;4;3;SUS-CL;;
+1_ABK5;5;4;SUS-CL;;
+1_ABK5;6;3;SUS-CL;;
+1_ABK5;7;2;SUS-CL;;
+1_ABK5;8;3;SUS-CL;;
+1_ABK5;9;2;SUS-CL;;
+1_ABK5;1;4;Regular use of CL;;
+1_BAK7;1;Abstammung;CL-1;OT;OT: High
+1_BAK7;2;Person;CL-1;OT;OT: Medium
+1_BAK7;3;Kind bekommt;CL-1;OT;OT: Medium
+1_BAK7;1;verheiratet;CL-1;Cloze;
+1_BAK7;2;Schweizer;CL-1;Cloze;
+1_BAK7;3;Kind;CL-1;Cloze;
+1_BAK7;4;Kindes;CL-1;Cloze;
+1_BAK7;5;Mutter;CL-1;Cloze;
+1_BAK7;6;das;CL-1;Cloze;
+1_BAK7;7;Mutter;CL-1;Cloze;
+1_BAK7;8;dem;CL-1;Cloze;
+1_BAK7;9;ist;CL-1;Cloze;
+1_BAK7;10;Kind;CL-1;Cloze;
+1_BAK7;11;und;CL-1;Cloze;
+1_BAK7;12;Kindes;CL-1;Cloze;
+1_BAK7;13;verheiratet;CL-1;Cloze;
+1_BAK7;14;des;CL-1;Cloze;
+1_BAK7;15;ist;CL-1;Cloze;
+1_BAK7;16;minderjährige;CL-1;Cloze;
+1_BAK7;17;ein;CL-1;Cloze;
+1_BAK7;18;das;CL-1;Cloze;
+1_BAK7;1;3;SUS-CL;;
+1_BAK7;2;4;SUS-CL;;
+1_BAK7;3;2;SUS-CL;;
+1_BAK7;4;2;SUS-CL;;
+1_BAK7;5;5;SUS-CL;;
+1_BAK7;6;2;SUS-CL;;
+1_BAK7;7;5;SUS-CL;;
+1_BAK7;8;2;SUS-CL;;
+1_BAK7;9;1;SUS-CL;;
+1_BAK7;1;6;Distraction task;;
+1_BAK7;1;Kindesverhältnisses;NL-1;OT;OT: Medium
+1_BAK7;1;von;NL-1;Cloze;
+1_BAK7;2;Eltern;NL-1;Cloze;
+1_BAK7;3;entweder;NL-1;Cloze;
+1_BAK7;4;Bürgerin;NL-1;Cloze;
+1_BAK7;5;der;NL-1;Cloze;
+1_BAK7;6;dem;NL-1;Cloze;
+1_BAK7;7;minderjährige;NL-1;Cloze;
+1_BAK7;8;Bürgers;NL-1;Cloze;
+1_BAK7;9;nicht;NL-1;Cloze;
+1_BAK7;10;die;NL-1;Cloze;
+1_BAK7;11;Vater;NL-1;Cloze;
+1_BAK7;12;wenn;NL-1;Cloze;
+1_BAK7;13;Geburt;NL-1;Cloze;
+1_BAK7;14;Kind;NL-1;Cloze;
+1_BAK7;15;das;NL-1;Cloze;
+1_BAK7;16;Kinder;NL-1;Cloze;
+1_BAK7;17;das;NL-1;Cloze;
+1_BAK7;1;4;SUS-NL;;
+1_BAK7;2;2;;;
+1_BAK7;3;5;;;
+1_BAK7;4;1;;;
+1_BAK7;5;2;;;
+1_BAK7;6;3;;;
+1_BAK7;7;1;;;
+1_BAK7;8;4;;;
+1_BAK7;9;1;;;
+1_BAK7;1;3;Regular use of CL;;
+2_ABK6;1;Verantwortliche;NL-2;OT;OT: High
+2_ABK6;2;betroffenen Person;NL-2;OT;OT: High
+2_ABK6;3;Rechte nach diesem Gesetz geltend machen;NL-2;OT;OT: Medium
+2_ABK6;4;Identität;NL-2;OT;OT: High
+2_ABK6;5;Kontaktdaten;NL-2;OT;OT: High
+2_ABK6;6;betroffenen Person;NL-2;OT;OT: High
+2_ABK6;1;Person;NL-2;Cloze;
+2_ABK6;2;relevantes;NL-2;Cloze;
+2_ABK6;3;nicht;NL-2;Cloze;
+2_ABK6;4;von;NL-2;Cloze;
+2_ABK6;5;werden;NL-2;Cloze;
+2_ABK6;6;Die Verantwortliche;NL-2;Cloze;
+2_ABK6;7;nach;NL-2;Cloze;
+2_ABK6;8;mit;NL-2;Cloze;
+2_ABK6;9;sie;NL-2;Cloze;
+2_ABK6;10;Gesetz;NL-2;Cloze;
+2_ABK6;11;eine;NL-2;Cloze;
+2_ABK6;12;die Person;NL-2;Cloze;
+2_ABK6;13;Addresse;NL-2;Cloze;
+2_ABK6;14;Person;NL-2;Cloze;
+2_ABK6;15;Empfänger;NL-2;Cloze;
+2_ABK6;16;Personen;NL-2;Cloze;
+2_ABK6;17;mitgeteilt;NL-2;Cloze;
+2_ABK6;18;von;NL-2;Cloze;
+2_ABK6;19;dann;NL-2;Cloze;
+2_ABK6;20;alle;NL-2;Cloze;
+2_ABK6;21;mit;NL-2;Cloze;
+2_ABK6;1;1;SUS-NL;;
+2_ABK6;2;3;SUS-NL;;
+2_ABK6;3;3;SUS-NL;;
+2_ABK6;4;3;SUS-NL;;
+2_ABK6;5;4;SUS-NL;;
+2_ABK6;6;3;SUS-NL;;
+2_ABK6;7;4;SUS-NL;;
+2_ABK6;8;2;SUS-NL;;
+2_ABK6;9;1;SUS-NL;;
+2_ABK6;1;9;Distraction task;;
+2_ABK6;1;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;2;personenbezogene Daten;CL-2;OT;OT: Medium
+2_ABK6;3;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;4;personenbezogene Daten;CL-2;OT;OT: Medium
+2_ABK6;5;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;6;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;7;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;8;Indentität;CL-2;OT;OT: Medium
+2_ABK6;9;Zweck der Nutzung;CL-2;OT;OT: Medium
+2_ABK6;10;Kategorien an Empfängern;CL-2;OT;OT: Medium
+2_ABK6;11;ihre Rechte gemäss dem Datenschutzgesetz;CL-2;OT;OT: High
+2_ABK6;12;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;13;personenbezogenen Daten;CL-2;OT;OT: Medium
+2_ABK6;14;Verantwortliche;CL-2;OT;OT: High
+2_ABK6;15;Kategorien;CL-2;OT;OT: Medium
+2_ABK6;16;personenbezogenen Daten;CL-2;OT;OT: Medium
+2_ABK6;1;und;CL-2;Cloze;
+2_ABK6;2;Daten;CL-2;Cloze;
+2_ABK6;3;betroffene;CL-2;Cloze;
+2_ABK6;4;personenbezogene;CL-2;Cloze;
+2_ABK6;5;die;CL-2;Cloze;
+2_ABK6;6;von;CL-2;Cloze;
+2_ABK6;7;muss;CL-2;Cloze;
+2_ABK6;8;Person;CL-2;Cloze;
+2_ABK6;9;dem;CL-2;Cloze;
+2_ABK6;10;muss;CL-2;Cloze;
+2_ABK6;11;folgendem;CL-2;Cloze;
+2_ABK6;12;persönlichen Daten;CL-2;Cloze;
+2_ABK6;13;über;CL-2;Cloze;
+2_ABK6;14;der Daten;CL-2;Cloze;
+2_ABK6;15;der;CL-2;Cloze;
+2_ABK6;16;sie;CL-2;Cloze;
+2_ABK6;17;Empfänger;CL-2;Cloze;
+2_ABK6;18;Weitergeben;CL-2;Cloze;
+2_ABK6;19;Verantwortliche;CL-2;Cloze;
+2_ABK6;20;Gesetz;CL-2;Cloze;
+2_ABK6;21;Daten;CL-2;Cloze;
+2_ABK6;22;der;CL-2;Cloze;
+2_ABK6;23;gesammelten;CL-2;Cloze;
+2_ABK6;24;von;CL-2;Cloze;
+2_ABK6;25;dann;CL-2;Cloze;
+2_ABK6;26;Person;CL-2;Cloze;
+2_ABK6;27;der;CL-2;Cloze;
+2_ABK6;1;4;SUS-CL;;
+2_ABK6;2;2;SUS-CL;;
+2_ABK6;3;5;SUS-CL;;
+2_ABK6;4;2;SUS-CL;;
+2_ABK6;5;2;SUS-CL;;
+2_ABK6;6;5;SUS-CL;;
+2_ABK6;7;1;SUS-CL;;
+2_ABK6;8;5;SUS-CL;;
+2_ABK6;9;1;SUS-CL;;
+2_ABK6;1;5;Regular use of CL;;
+2_BAK5;1;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK5;2;Sammlung;CL-2;OT;OT: High
+2_BAK5;3;nicht von der Person selbst;CL-2;OT;OT: High
+2_BAK5;4;Identität;CL-2;OT;OT: High
+2_BAK5;5;Zweck;CL-2;OT;OT: Low
+2_BAK5;6;Nutzung;CL-2;OT;OT: Low
+2_BAK5;7;Empfänger;CL-2;OT;OT: Medium
+2_BAK5;8;Katergorien;CL-2;OT;OT: Medium
+2_BAK5;9;Empängern;CL-2;OT;OT: Medium
+2_BAK5;10;Teilen;CL-2;OT;OT: High
+2_BAK5;11;Informationen;CL-2;OT;OT: High
+2_BAK5;12;Teilen;CL-2;OT;OT: High
+2_BAK5;13;Informationen;CL-2;OT;OT: High
+2_BAK5;14;Rechte;CL-2;OT;OT: High
+2_BAK5;15;Datenschutzgesetz;CL-2;OT;OT: High
+2_BAK5;16;personenbezogenen Daten;CL-2;OT;OT: High
+2_BAK5;17;Person nicht von der Person selbst;CL-2;OT;OT: High
+2_BAK5;18;Kategorien;CL-2;OT;OT: High
+2_BAK5;1;und;CL-2;Cloze;
+2_BAK5;2;Daten;CL-2;Cloze;
+2_BAK5;3;betreffende;CL-2;Cloze;
+2_BAK5;4;dieser;CL-2;Cloze;
+2_BAK5;5;persönliche;CL-2;Cloze;
+2_BAK5;6;von;CL-2;Cloze;
+2_BAK5;7;ist;CL-2;Cloze;
+2_BAK5;8;-;CL-2;Cloze;
+2_BAK5;9;dem;CL-2;Cloze;
+2_BAK5;10;hat;CL-2;Cloze;
+2_BAK5;11;folgenden;CL-2;Cloze;
+2_BAK5;12;Informationen;CL-2;Cloze;
+2_BAK5;13;müssen;CL-2;Cloze;
+2_BAK5;14;beinhalten;CL-2;Cloze;
+2_BAK5;15;der;CL-2;Cloze;
+2_BAK5;16;sie;CL-2;Cloze;
+2_BAK5;17;Daten;CL-2;Cloze;
+2_BAK5;18;Sammeln;CL-2;Cloze;
+2_BAK5;19;Person;CL-2;Cloze;
+2_BAK5;20;Datenschutzgesetz;CL-2;Cloze;
+2_BAK5;21;Information;CL-2;Cloze;
+2_BAK5;22;der;CL-2;Cloze;
+2_BAK5;23;persönlichen;CL-2;Cloze;
+2_BAK5;24;von;CL-2;Cloze;
+2_BAK5;25;dem;CL-2;Cloze;
+2_BAK5;26;Empfänger;CL-2;Cloze;
+2_BAK5;27;der;CL-2;Cloze;
+2_BAK5;1;2;SUS-CL;;
+2_BAK5;2;3;SUS-CL;;
+2_BAK5;3;2;SUS-CL;;
+2_BAK5;4;2;SUS-CL;;
+2_BAK5;5;2;SUS-CL;;
+2_BAK5;6;1;SUS-CL;;
+2_BAK5;7;4;SUS-CL;;
+2_BAK5;8;3;SUS-CL;;
+2_BAK5;9;3;SUS-CL;;
+2_BAK5;1;5;Distraction task;;
+2_BAK5;1;angemessen;NL-2;OT;OT: High
+2_BAK5;2;Beschaffung;NL-2;OT;OT: High
+2_BAK5;3;Informationspflicht;NL-2;OT;OT: Medium
+2_BAK5;4;nicht;NL-2;OT;OT: High
+2_BAK5;5;betroffenen Person beschafft;NL-2;OT;OT: High
+2_BAK5;6;erforderlich;NL-2;OT;OT: Low
+2_BAK5;7;Rechte;NL-2;OT;OT: Low
+2_BAK5;8;geltend machen;NL-2;OT;OT: Low
+2_BAK5;9;transparente Datenbearbeitung gewährleistet;NL-2;OT;OT: High
+2_BAK5;10;gegebenfalls;NL-2;OT;OT: High
+2_BAK5;11;Kategorien;NL-2;OT;OT: High
+2_BAK5;12;Personendaten;NL-2;OT;OT: High
+2_BAK5;13;bekanntgegeben werden;NL-2;OT;OT: High
+2_BAK5;14;nicht;NL-2;OT;OT: High
+2_BAK5;15;betroffenen Person besachafft;NL-2;OT;OT: High
+2_BAK5;16;Kategorien;NL-2;OT;OT: High
+2_BAK5;17;bearbeiteten Personendaten;NL-2;OT;OT: High
+2_BAK5;1;Person;NL-2;Cloze;
+2_BAK5;2;personenbezogenen;NL-2;Cloze;
+2_BAK5;3;auch;NL-2;Cloze;
+2_BAK5;4;bei;NL-2;Cloze;
+2_BAK5;5;werden;NL-2;Cloze;
+2_BAK5;6;Der Verantwortliche;NL-2;Cloze;
+2_BAK5;7;bei;NL-2;Cloze;
+2_BAK5;8;mit;NL-2;Cloze;
+2_BAK5;9;diese;NL-2;Cloze;
+2_BAK5;10;Gesetz;NL-2;Cloze;
+2_BAK5;11;eine;NL-2;Cloze;
+2_BAK5;12;Verantwortliche;NL-2;Cloze;
+2_BAK5;13;Adotere;NL-2;Cloze;
+2_BAK5;14;Verantwortliche;NL-2;Cloze;
+2_BAK5;15;Empfänger;NL-2;Cloze;
+2_BAK5;16;Empfängerinnen;NL-2;Cloze;
+2_BAK5;17;weitergegeben;NL-2;Cloze;
+2_BAK5;18;bei;NL-2;Cloze;
+2_BAK5;19;dann;NL-2;Cloze;
+2_BAK5;20;die;NL-2;Cloze;
+2_BAK5;21;mit;NL-2;Cloze;
+2_BAK5;1;2;;;
+2_BAK5;2;3;;;
+2_BAK5;3;2;;;
+2_BAK5;4;3;;;
+2_BAK5;5;4;;;
+2_BAK5;6;1;;;
+2_BAK5;7;4;;;
+2_BAK5;8;2;;;
+2_BAK5;9;3;;;
+3_BAK8;1;verfolgt;CL-3;OT;OT: Low
+3_BAK8;2;Vergehen;CL-3;OT;OT: Medium
+3_BAK8;3;Vergehen;CL-3;OT;OT: Medium
+3_BAK8;1;Vergehen;CL-3;Cloze;
+3_BAK8;2;dies;CL-3;Cloze;
+3_BAK8;3;kann;CL-3;Cloze;
+3_BAK8;4;werden;CL-3;Cloze;
+3_BAK8;5;Vergehen;CL-3;Cloze;
+3_BAK8;6;dies;CL-3;Cloze;
+3_BAK8;7;kann;CL-3;Cloze;
+3_BAK8;8;werden;CL-3;Cloze;
+3_BAK8;9;begeht;CL-3;Cloze;
+3_BAK8;10;will;CL-3;Cloze;
+3_BAK8;11;bewusst;CL-3;Cloze;
+3_BAK8;12;Verbrechen;CL-3;Cloze;
+3_BAK8;13;sich;CL-3;Cloze;
+3_BAK8;14;es;CL-3;Cloze;
+3_BAK8;15;handelt;CL-3;Cloze;
+3_BAK8;16;um;CL-3;Cloze;
+3_BAK8;17;Person;CL-3;Cloze;
+3_BAK8;18;vorboten;CL-3;Cloze;
+3_BAK8;19;der;CL-3;Cloze;
+3_BAK8;20;die;CL-3;Cloze;
+3_BAK8;21;widerrechtlich;CL-3;Cloze;
+3_BAK8;22;ignoriert;CL-3;Cloze;
+3_BAK8;23;abzuschätzen;CL-3;Cloze;
+3_BAK8;24;handelt;CL-3;Cloze;
+3_BAK8;25;Tat;CL-3;Cloze;
+3_BAK8;26;ist;CL-3;Cloze;
+3_BAK8;27;aus;CL-3;Cloze;
+3_BAK8;28;Tat;CL-3;Cloze;
+3_BAK8;29;ist;CL-3;Cloze;
+3_BAK8;30;aus;CL-3;Cloze;
+3_BAK8;31;Person;CL-3;Cloze;
+3_BAK8;32;angebrachte;CL-3;Cloze;
+3_BAK8;33;der;CL-3;Cloze;
+3_BAK8;34;dann;CL-3;Cloze;
+3_BAK8;35;Sorgfalt;CL-3;Cloze;
+3_BAK8;1;2;;;
+3_BAK8;2;2;;;
+3_BAK8;3;4;;;
+3_BAK8;4;1;;;
+3_BAK8;5;1;;;
+3_BAK8;6;3;;;
+3_BAK8;7;2;;;
+3_BAK8;8;4;;;
+3_BAK8;9;1;;;
+3_BAK8;1;5;Distraction task;;
+3_BAK8;1;vorsätzlich;NL-3;OT;OT: Medium
+3_BAK8;2;Kauf;NL-3;OT;OT: Medium
+3_BAK8;1;ausdrücklich;NL-3;Cloze;
+3_BAK8;2;strafbar;NL-3;Cloze;
+3_BAK8;3;Vergehen;NL-3;Cloze;
+3_BAK8;4;Verbrechen;NL-3;Cloze;
+3_BAK8;5;Tat;NL-3;Cloze;
+3_BAK8;6;ausführt;NL-3;Cloze;
+3_BAK8;7;die;NL-3;Cloze;
+3_BAK8;8;möglich;NL-3;Cloze;
+3_BAK8;9;nimmt;NL-3;Cloze;
+3_BAK8;10;Vergehen;NL-3;Cloze;
+3_BAK8;11;Handelns;NL-3;Cloze;
+3_BAK8;12;wahrnimmt;NL-3;Cloze;
+3_BAK8;13;nimmt;NL-3;Cloze;
+3_BAK8;14;die;NL-3;Cloze;
+3_BAK8;15;nicht;NL-3;Cloze;
+3_BAK8;16;nach;NL-3;Cloze;
+3_BAK8;17;den;NL-3;Cloze;
+3_BAK8;1;2;;;
+3_BAK8;2;3;;;
+3_BAK8;3;2;;;
+3_BAK8;4;2;;;
+3_BAK8;5;1;;;
+3_BAK8;6;2;;;
+3_BAK8;7;3;;;
+3_BAK8;8;3;;;
+3_BAK8;9;1;;;
+3_BAK8;1;3;Regular use of CL;;
+1_ABK6;1;und dessen Vater oder Mutter Schweizer Bürgerin oder Bürger ist;NL-1;OT;OT: Low
+1_ABK6;2;Das minderjährige ausländische Kind;NL-1;OT;OT: Low
+1_ABK6;3;der mit der Mutter nicht verheiratet ist;NL-1;OT;OT: Low
+1_ABK6;4;wie wenn der Erwerb mit der Geburt erfolgt wäre;NL-1;OT;OT: Low
+1_ABK6;5;das nach Absatz 2 das Schweizer Bürgerrecht;NL-1;OT;OT: Medium
+1_ABK6;1;von;NL-1;Cloze;
+1_ABK6;2;Eltern;NL-1;Cloze;
+1_ABK6;3;dessen;NL-1;Cloze;
+1_ABK6;4;Bürgerin;NL-1;Cloze;
+1_ABK6;5;einer;NL-1;Cloze;
+1_ABK6;6;dem;NL-1;Cloze;
+1_ABK6;7;-;NL-1;Cloze;
+1_ABK6;8;Vatters;NL-1;Cloze;
+1_ABK6;9;nicht;NL-1;Cloze;
+1_ABK6;10;die;NL-1;Cloze;
+1_ABK6;11;Vater;NL-1;Cloze;
+1_ABK6;12;wenn;NL-1;Cloze;
+1_ABK6;13;Geburt;NL-1;Cloze;
+1_ABK6;14;Kind;NL-1;Cloze;
+1_ABK6;15;das;NL-1;Cloze;
+1_ABK6;16;Kinder;NL-1;Cloze;
+1_ABK6;17;das;NL-1;Cloze;
+1_ABK6;1;1;SUS-NL;;
+1_ABK6;2;4;SUS-NL;;
+1_ABK6;3;2;SUS-NL;;
+1_ABK6;4;1;SUS-NL;;
+1_ABK6;5;3;SUS-NL;;
+1_ABK6;6;1;SUS-NL;;
+1_ABK6;7;4;SUS-NL;;
+1_ABK6;8;2;SUS-NL;;
+1_ABK6;9;4;SUS-NL;;
+1_ABK6;1;5;Distraction task;;
+1_ABK6;1;und die Abstammung vom Vater bestätigt;CL-2;OT;OT: Low
+1_ABK6;2;Schweizer;CL-2;OT;OT: High
+1_ABK6;1;verheiratet;CL-1;Cloze;
+1_ABK6;2;Schweizer;CL-1;Cloze;
+1_ABK6;3;Kind;CL-1;Cloze;
+1_ABK6;4;Kindes;CL-1;Cloze;
+1_ABK6;5;Mutter;CL-1;Cloze;
+1_ABK6;6;das;CL-1;Cloze;
+1_ABK6;7;Mutter;CL-1;Cloze;
+1_ABK6;8;dem;CL-1;Cloze;
+1_ABK6;9;ist;CL-1;Cloze;
+1_ABK6;10;Kind;CL-1;Cloze;
+1_ABK6;11;und;CL-1;Cloze;
+1_ABK6;12;Kindes;CL-1;Cloze;
+1_ABK6;13;verheiratet;CL-1;Cloze;
+1_ABK6;14;vom;CL-1;Cloze;
+1_ABK6;15;ist;CL-1;Cloze;
+1_ABK6;16;minderjährige;CL-1;Cloze;
+1_ABK6;17;ein;CL-1;Cloze;
+1_ABK6;18;das;CL-1;Cloze;
+1_ABK6;1;4;SUS-CL;;
+1_ABK6;2;2;SUS-CL;;
+1_ABK6;3;5;SUS-CL;;
+1_ABK6;4;1;SUS-CL;;
+1_ABK6;5;1;SUS-CL;;
+1_ABK6;6;5;SUS-CL;;
+1_ABK6;7;1;SUS-CL;;
+1_ABK6;8;4;SUS-CL;;
+1_ABK6;9;1;SUS-CL;;
+1_ABK6;1;5;Regular use of CL;;
+2_ABK8;1;Verantwortliche;NL-2;OT;OT: High
+2_ABK8;2;betroffone Person;NL-2;OT;OT: High
+2_ABK8;3;Personendaten;NL-2;OT;OT: Medium
+2_ABK8;4;betroffone Person;NL-2;OT;OT: High
+2_ABK8;5;betroffone Person;NL-2;OT;OT: High
+2_ABK8;1;Person;NL-2;Cloze;
+2_ABK8;2;der;NL-2;Cloze;
+2_ABK8;3;auch;NL-2;Cloze;
+2_ABK8;4;von;NL-2;Cloze;
+2_ABK8;5;werden;NL-2;Cloze;
+2_ABK8;6;Der Verantwortliche;NL-2;Cloze;
+2_ABK8;7;-;NL-2;Cloze;
+2_ABK8;8;mit;NL-2;Cloze;
+2_ABK8;9;-;NL-2;Cloze;
+2_ABK8;10;Gesetz;NL-2;Cloze;
+2_ABK8;11;eine;NL-2;Cloze;
+2_ABK8;12;Die Person;NL-2;Cloze;
+2_ABK8;13;Identität;NL-2;Cloze;
+2_ABK9;14;Verantwortlichen;NL-2;Cloze;
+2_ABK8;15;Empfänger;NL-2;Cloze;
+2_ABK8;16;Empfängerinnen;NL-2;Cloze;
+2_ABK8;17;mitgeteilt;NL-2;Cloze;
+2_ABK8;18;von;NL-2;Cloze;
+2_ABK8;19;dann;NL-2;Cloze;
+2_ABK8;20;die;NL-2;Cloze;
+2_ABK8;21;mit;NL-2;Cloze;
+2_ABK8;1;2;;;
+2_ABK8;2;3;;;
+2_ABK8;3;4;;;
+2_ABK8;4;2;;;
+2_ABK8;5;3;;;
+2_ABK8;6;4;;;
+2_ABK8;7;2;;;
+2_ABK8;8;3;;;
+2_ABK8;9;1;;;
+2_ABK8;1;8;Distraction task;;
+2_ABK8;1;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK8;2;Daten;CL-2;OT;OT: High
+2_ABK8;3;Daten;CL-2;OT;OT: High
+2_ABK8;4;Daten;CL-2;OT;OT: High
+2_ABK8;5;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK8;6;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK8;7;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK8;8;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK8;9;Person;CL-2;OT;OT: Medium
+2_ABK8;10;Person;CL-2;OT;OT: Medium
+2_ABK8;11;Person;CL-2;OT;OT: Medium
+2_ABK8;12;Person;CL-2;OT;OT: Medium
+2_ABK8;13;Person;CL-2;OT;OT: Medium
+2_ABK8;14;Person;CL-2;OT;OT: Medium
+2_ABK8;15;Person;CL-2;OT;OT: Medium
+2_ABK8;1;und;CL-2;Cloze;
+2_ABK8;2;Daten;CL-2;Cloze;
+2_ABK8;3;betroffene;CL-2;Cloze;
+2_ABK8;4;der;CL-2;Cloze;
+2_ABK8;5;die;CL-2;Cloze;
+2_ABK8;6;von;CL-2;Cloze;
+2_ABK8;7;muss;CL-2;Cloze;
+2_ABK8;8;Person;CL-2;Cloze;
+2_ABK8;9;dem;CL-2;Cloze;
+2_ABK8;10;muss;CL-2;Cloze;
+2_ABK8;11;folgenden;CL-2;Cloze;
+2_ABK8;12;Identifikation;CL-2;Cloze;
+2_ABK8;13;müssen;CL-2;Cloze;
+2_ABK8;14;beinhalten;CL-2;Cloze;
+2_ABK8;15;den;CL-2;Cloze;
+2_ABK8;16;sie;CL-2;Cloze;
+2_ABK8;17;Personendaten;CL-2;Cloze;
+2_ABK8;18;Sammeln;CL-2;Cloze;
+2_ABK8;19;Person;CL-2;Cloze;
+2_ABK8;20;Datenschutzgesetz;CL-2;Cloze;
+2_ABK8;21;Daten;CL-2;Cloze;
+2_ABK8;22;personenbezogenen;CL-2;Cloze;
+2_ABK8;23;personenbezogenen;CL-2;Cloze;
+2_ABK8;24;von;CL-2;Cloze;
+2_ABK8;25;dann;CL-2;Cloze;
+2_ABK8;26;Empfänger;CL-2;Cloze;
+2_ABK8;27;der;CL-2;Cloze;
+2_ABK8;1;2;SUS-CL;;
+2_ABK8;2;4;SUS-CL;;
+2_ABK8;3;2;SUS-CL;;
+2_ABK8;4;2;SUS-CL;;
+2_ABK8;5;3;SUS-CL;;
+2_ABK8;6;3;SUS-CL;;
+2_ABK8;7;4;SUS-CL;;
+2_ABK8;8;2;SUS-CL;;
+2_ABK8;9;2;SUS-CL;;
+2_ABK8;1;3;Regular use of CL;;
+2_ABK7;1;beschafft;NL-2;OT;OT: Low
+2_ABK7;2;betroffenen;NL-2;OT;OT: Low
+2_ABK7;3;erforderlich sind;NL-2;OT;OT: Low
+2_ABK7;4;geltend machen;NL-2;OT;OT: Medium
+2_ABK7;5;Kategorien;NL-2;OT;OT: Low
+2_ABK7;6;bekanntgeben;NL-2;OT;OT: Medium
+2_ABK7;7;Kategorien;NL-2;OT;OT: Medium
+2_ABK7;1;Person;NL-2;Cloze;
+2_ABK7;2;persönlicher;NL-2;Cloze;
+2_ABK7;3;nur;NL-2;Cloze;
+2_ABK7;4;zur;NL-2;Cloze;
+2_ABK7;5;wurden;NL-2;Cloze;
+2_ABK7;6;-;NL-2;Cloze;
+2_ABK7;7;-;NL-2;Cloze;
+2_ABK7;8;mit;NL-2;Cloze;
+2_ABK7;9;diese;NL-2;Cloze;
+2_ABK7;10;Prinzip;NL-2;Cloze;
+2_ABK7;11;die;NL-2;Cloze;
+2_ABK7;12;zudem;NL-2;Cloze;
+2_ABK7;13;Personen;NL-2;Cloze;
+2_ABK7;14;-;NL-2;Cloze;
+2_ABK7;15;Empfänger;NL-2;Cloze;
+2_ABK7;16;-;NL-2;Cloze;
+2_ABK7;17;verwendet;NL-2;Cloze;
+2_ABK7;18;von;NL-2;Cloze;
+2_ABK7;19;-;NL-2;Cloze;
+2_ABK7;20;-;NL-2;Cloze;
+2_ABK7;21;mit;NL-2;Cloze;
+2_ABK7;1;2;SUS-NL;;
+2_ABK7;2;4;SUS-NL;;
+2_ABK7;3;2;SUS-NL;;
+2_ABK7;4;3;SUS-NL;;
+2_ABK7;5;4;SUS-NL;;
+2_ABK7;6;2;SUS-NL;;
+2_ABK7;7;3;SUS-NL;;
+2_ABK7;8;3;SUS-NL;;
+2_ABK7;9;2;SUS-NL;;
+2_ABK7;1;5;Distraction task;;
+2_ABK7;1;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK7;2;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK7;3;Verantwortliche;CL-2;OT;OT: Medium
+2_ABK7;4;jeweilige;CL-2;OT;OT: Medium
+2_ABK7;5;Sammeln;CL-2;OT;OT: Low
+2_ABK7;6;unverzüglich;CL-2;OT;OT: Medium
+2_ABK7;7;Informationen;CL-2;OT;OT: Medium
+2_ABK7;8;Informationen;CL-2;OT;OT: Medium
+2_ABK7;9;Kategorien;CL-2;OT;OT: Medium
+2_ABK7;1;-;CL-2;Cloze;
+2_ABK7;2;-;CL-2;Cloze;
+2_ABK7;3;-;CL-2;Cloze;
+2_ABK7;4;-;CL-2;Cloze;
+2_ABK7;5;-;CL-2;Cloze;
+2_ABK7;6;-;CL-2;Cloze;
+2_ABK7;7;-;CL-2;Cloze;
+2_ABK7;8;Person;CL-2;Cloze;
+2_ABK7;9;dem;CL-2;Cloze;
+2_ABK7;10;muss;CL-2;Cloze;
+2_ABK7;11;gesammelte;CL-2;Cloze;
+2_ABK7;12;Daten;CL-2;Cloze;
+2_ABK7;13;müssen;CL-2;Cloze;
+2_ABK7;14;beinhalten;CL-2;Cloze;
+2_ABK7;15;über;CL-2;Cloze;
+2_ABK7;16;informieren;CL-2;Cloze;
+2_ABK7;17;-;CL-2;Cloze;
+2_ABK7;18;-;CL-2;Cloze;
+2_ABK7;19;Person;CL-2;Cloze;
+2_ABK7;20;Datengesetz;CL-2;Cloze;
+2_ABK7;21;Information;CL-2;Cloze;
+2_ABK7;22;persönlicher;CL-2;Cloze;
+2_ABK7;23;persönlichen;CL-2;Cloze;
+2_ABK7;24;von;CL-2;Cloze;
+2_ABK7;25;-;CL-2;Cloze;
+2_ABK7;26;Person;CL-2;Cloze;
+2_ABK7;27;der;CL-2;Cloze;
+2_ABK7;1;2;SUS-CL;;
+2_ABK7;2;3;SUS-CL;;
+2_ABK7;3;3;SUS-CL;;
+2_ABK7;4;1;SUS-CL;;
+2_ABK7;5;3;SUS-CL;;
+2_ABK7;6;3;SUS-CL;;
+2_ABK7;7;3;SUS-CL;;
+2_ABK7;8;3;SUS-CL;;
+2_ABK7;9;2;SUS-CL;;
+2_ABK7;1;3;Regular use of CL;;
+3_ABK7;1;Wissen und Willen;NL-3;OT;OT: High
+3_ABK7;2;handelt;NL-3;OT;OT: Medium
+3_ABK7;3;möglich;NL-3;OT;OT: Medium
+3_ABK7;4;Folge;NL-3;OT;OT: High
+3_ABK7;5;Verhaltens;NL-3;OT;OT: High
+3_ABK7;6;Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK7;7;bedenkt;NL-3;OT;OT: Medium
+3_ABK7;8;Rücksicht;NL-3;OT;OT: Medium
+3_ABK7;1;konkret;NL-3;Cloze;
+3_ABK7;2;vorsätzlich;NL-3;Cloze;
+3_ABK7;3;Vergehen;NL-3;Cloze;
+3_ABK7;4;Verbrechen;NL-3;Cloze;
+3_ABK7;5;Tat;NL-3;Cloze;
+3_ABK7;6;begeht;NL-3;Cloze;
+3_ABK7;7;die;NL-3;Cloze;
+3_ABK7;8;möglich;NL-3;Cloze;
+3_ABK7;9;nimmt;NL-3;Cloze;
+3_ABK7;10;Vergehen;NL-3;Cloze;
+3_ABK7;11;Handeln;NL-3;Cloze;
+3_ABK7;12;bedenkt;NL-3;Cloze;
+3_ABK7;13;nimmt;NL-3;Cloze;
+3_ABK7;14;Absicht;NL-3;Cloze;
+3_ABK7;15;nicht;NL-3;Cloze;
+3_ABK7;16;unter;NL-3;Cloze;
+3_ABK7;17;seinen;NL-3;Cloze;
+3_ABK7;1;1;SUS-NL;;
+3_ABK7;2;4;SUS-NL;;
+3_ABK7;3;4;SUS-NL;;
+3_ABK7;4;3;SUS-NL;;
+3_ABK7;5;3;SUS-NL;;
+3_ABK7;6;1;SUS-NL;;
+3_ABK7;7;5;SUS-NL;;
+3_ABK7;8;1;SUS-NL;;
+3_ABK7;9;3;SUS-NL;;
+3_ABK7;1;5;Distraction task;;
+3_ABK7;1;bewusst;CL-3;OT;OT: High
+3_ABK7;2;explizit;CL-3;OT;OT: Medium
+3_ABK7;3;bewusst;CL-3;OT;OT: High
+3_ABK7;4;explizit;CL-3;OT;OT: Medium
+3_ABK7;5;ausführt;CL-3;OT;OT: Medium
+3_ABK7;6;erfüllen will;CL-3;OT;OT: Medium
+3_ABK7;7;Tat;CL-3;OT;OT: Medium
+3_ABK7;8;Verbrechen;CL-3;OT;OT: Medium
+3_ABK7;9;Vergehen;CL-3;OT;OT: Medium
+3_ABK7;10;glaubt;CL-3;OT;OT: High
+3_ABK7;11;akzeptiert;CL-3;OT;OT: Medium
+3_ABK7;12;unvorsichtig;CL-3;OT;OT: High
+3_ABK7;13;verabsäumt;CL-3;OT;OT: High
+3_ABK7;14;Konsequenzen;CL-3;OT;OT: Medium
+3_ABK7;15;einzuschätzen;CL-3;OT;OT: Medium
+3_ABK7;16;ignoriert;CL-3;OT;OT: Medium
+3_ABK7;17;Tat;CL-3;OT;OT: Medium
+3_ABK7;18;Tat;CL-3;OT;OT: Medium
+3_ABK7;19;Situation;CL-3;OT;OT: Medium
+3_ABK7;20;Sorgfalt;CL-3;OT;OT: High
+3_ABK7;21;zugetraut werden kann;CL-3;OT;OT: High
+3_ABK7;1;Verbrechen;CL-3;Cloze;
+3_ABK7;2;dies;CL-3;Cloze;
+3_ABK7;3;kann;CL-3;Cloze;
+3_ABK7;4;werden;CL-3;Cloze;
+3_ABK7;5;Vergehen;CL-3;Cloze;
+3_ABK7;6;dies;CL-3;Cloze;
+3_ABK7;7;kann;CL-3;Cloze;
+3_ABK7;8;werden;CL-3;Cloze;
+3_ABK7;9;angeht;CL-3;Cloze;
+3_ABK7;10;möchte;CL-3;Cloze;
+3_ABK7;11;bewusst;CL-3;Cloze;
+3_ABK7;12;Verbrechen;CL-3;Cloze;
+3_ABK7;13;sich;CL-3;Cloze;
+3_ABK7;14;es;CL-3;Cloze;
+3_ABK7;15;handelt;CL-3;Cloze;
+3_ABK7;16;um;CL-3;Cloze;
+3_ABK7;17;Person;CL-3;Cloze;
+3_ABK7;18;möglich;CL-3;Cloze;
+3_ABK7;19;dieser;CL-3;Cloze;
+3_ABK7;20;diese;CL-3;Cloze;
+3_ABK7;21;fahrlässig;CL-3;Cloze;
+3_ABK7;22;alleine;CL-3;Cloze;
+3_ABK7;23;akzeptiert;CL-3;Cloze;
+3_ABK7;24;handelt;CL-3;Cloze;
+3_ABK7;25;Tat;CL-3;Cloze;
+3_ABK7;26;ist;CL-3;Cloze;
+3_ABK7;27;mit;CL-3;Cloze;
+3_ABK7;28;Tat;CL-3;Cloze;
+3_ABK7;29;ist;CL-3;Cloze;
+3_ABK7;30;mit;CL-3;Cloze;
+3_ABK7;31;Person;CL-3;Cloze;
+3_ABK7;32;mit;CL-3;Cloze;
+3_ABK7;33;einer;CL-3;Cloze;
+3_ABK7;34;dann;CL-3;Cloze;
+3_ABK7;35;Tat;CL-3;Cloze;
+3_ABK7;1;1;SUS-CL;;
+3_ABK7;2;5;SUS-CL;;
+3_ABK7;3;2;SUS-CL;;
+3_ABK7;4;3;SUS-CL;;
+3_ABK7;5;4;SUS-CL;;
+3_ABK7;6;1;SUS-CL;;
+3_ABK7;7;5;SUS-CL;;
+3_ABK7;8;2;SUS-CL;;
+3_ABK7;9;2;SUS-CL;;
+3_ABK7;1;4;Regular use of CL;;
+2_BAK6;1;Verantwortliche;CL-2;OT;OT: High
+2_BAK6;2;personenbezogene;CL-2;OT;OT: Medium
+2_BAK6;3;zur Verfügung stellen;CL-2;OT;OT: Medium
+2_BAK6;4;Kategorien;CL-2;OT;OT: High
+2_BAK6;1;und;CL-2;Cloze;
+2_BAK6;2;Daten;CL-2;Cloze;
+2_BAK6;3;betroffene;CL-2;Cloze;
+2_BAK6;4;dieser;CL-2;Cloze;
+2_BAK6;5;die;CL-2;Cloze;
+2_BAK6;6;von;CL-2;Cloze;
+2_BAK6;7;muss;CL-2;Cloze;
+2_BAK6;8;Person;CL-2;Cloze;
+2_BAK6;9;dem;CL-2;Cloze;
+2_BAK6;10;muss;CL-2;Cloze;
+2_BAK6;11;folgenden;CL-2;Cloze;
+2_BAK6;12;Identität;CL-2;Cloze;
+2_BAK6;13;beinhalten;CL-2;Cloze;
+2_BAK6;14;-;CL-2;Cloze;
+2_BAK6;15;-;CL-2;Cloze;
+2_BAK6;16;-;CL-2;Cloze;
+2_BAK6;17;Informationen;CL-2;Cloze;
+2_BAK6;18;Teilen;CL-2;Cloze;
+2_BAK6;19;Person;CL-2;Cloze;
+2_BAK6;20;Datenschutz;CL-2;Cloze;
+2_BAK6;21;Informationen;CL-2;Cloze;
+2_BAK6;22;personenbezogenen;CL-2;Cloze;
+2_BAK6;23;personenbezogenen;CL-2;Cloze;
+2_BAK6;24;von;CL-2;Cloze;
+2_BAK6;25;dann;CL-2;Cloze;
+2_BAK6;26;Person;CL-2;Cloze;
+2_BAK6;27;der;CL-2;Cloze;
+2_BAK6;1;1;SUS-CL;;
+2_BAK6;2;5;SUS-CL;;
+2_BAK6;3;2;SUS-CL;;
+2_BAK6;4;3;SUS-CL;;
+2_BAK6;5;2;SUS-CL;;
+2_BAK6;6;2;SUS-CL;;
+2_BAK6;7;5;SUS-CL;;
+2_BAK6;8;3;SUS-CL;;
+2_BAK6;9;2;SUS-CL;;
+2_BAK6;1;5;Distraction task;;
+2_BAK6;1;Verantwortliche;NL-2;OT;OT: High
+2_BAK6;2;angemessen;NL-2;OT;OT: Medium
+2_BAK6;1;Person;NL-2;Cloze;
+2_BAK6;2;von;NL-2;Cloze;
+2_BAK6;3;auch;NL-2;Cloze;
+2_BAK6;4;von;NL-2;Cloze;
+2_BAK6;5;werden;NL-2;Cloze;
+2_BAK6;6;Er;NL-2;Cloze;
+2_BAK6;7;nach;NL-2;Cloze;
+2_BAK6;8;mit;NL-2;Cloze;
+2_BAK6;9;sie;NL-2;Cloze;
+2_BAK6;10;Datenschutzgesetz;NL-2;Cloze;
+2_BAK6;11;damit;NL-2;Cloze;
+2_BAK6;12;er;NL-2;Cloze;
+2_BAK6;13;Identität;NL-2;Cloze;
+2_BAK6;14;Verantwortlichen;NL-2;Cloze;
+2_BAK6;15;Empfänger;NL-2;Cloze;
+2_BAK6;16;Empfängerinnen;NL-2;Cloze;
+2_BAK6;17;zugestellt;NL-2;Cloze;
+2_BAK6;18;von;NL-2;Cloze;
+2_BAK6;19;dann;NL-2;Cloze;
+2_BAK6;20;die;NL-2;Cloze;
+2_BAK6;21;mit;NL-2;Cloze;
+2_BAK6;1;5;SUS-NL;;
+2_BAK6;2;1;SUS-NL;;
+2_BAK6;3;5;SUS-NL;;
+2_BAK6;4;1;SUS-NL;;
+2_BAK6;5;1;SUS-NL;;
+2_BAK6;6;5;SUS-NL;;
+2_BAK6;7;1;SUS-NL;;
+2_BAK6;8;5;SUS-NL;;
+2_BAK6;9;1;SUS-NL;;
+2_BAK6;1;5;Regular use of CL;;
+2_BAK8;1;einer Person nicht von der Person selbst sammelt;CL-2;OT;OT: High
+2_BAK8;2;die Identität;CL-2;OT;OT: Medium
+2_BAK8;3;den Empfänger;CL-2;OT;OT: Medium
+2_BAK8;4;die Kategorien an Empfängern;CL-2;OT;OT: Medium
+2_BAK8;5;einer Person nicht von der Person selbt;CL-2;OT;OT: High
+2_BAK8;1;und;CL-2;Cloze;
+2_BAK8;2;Daten;CL-2;Cloze;
+2_BAK8;3;betroffene;CL-2;Cloze;
+2_BAK8;4;der;CL-2;Cloze;
+2_BAK8;5;personenbezogene;CL-2;Cloze;
+2_BAK8;6;von;CL-2;Cloze;
+2_BAK8;7;muss;CL-2;Cloze;
+2_BAK8;8;Person;CL-2;Cloze;
+2_BAK8;9;dem;CL-2;Cloze;
+2_BAK8;10;muss;CL-2;Cloze;
+2_BAK8;11;folgenden;CL-2;Cloze;
+2_BAK8;12;Identität;CL-2;Cloze;
+2_BAK8;13;legen;CL-2;Cloze;
+2_BAK8;14;offen;CL-2;Cloze;
+2_BAK8;15;der;CL-2;Cloze;
+2_BAK8;16;sie;CL-2;Cloze;
+2_BAK8;17;Empfängern;CL-2;Cloze;
+2_BAK8;18;Teilen;CL-2;Cloze;
+2_BAK8;19;Person;CL-2;Cloze;
+2_BAK8;20;Gesetz;CL-2;Cloze;
+2_BAK8;21;Informationen;CL-2;Cloze;
+2_BAK8;22;personenbezogenen;CL-2;Cloze;
+2_BAK8;23;von;CL-2;Cloze;
+2_BAK8;24;dann;CL-2;Cloze;
+2_BAK8;25;Person;CL-2;Cloze;
+2_BAK8;26;von;CL-2;Cloze;
+2_BAK8;1;2;SUS-CL;;
+2_BAK8;2;5;SUS-CL;;
+2_BAK8;3;4;SUS-CL;;
+2_BAK8;4;4;SUS-CL;;
+2_BAK8;5;4;SUS-CL;;
+2_BAK8;6;2;SUS-CL;;
+2_BAK8;7;5;SUS-CL;;
+2_BAK8;8;3;SUS-CL;;
+2_BAK8;9;1;SUS-CL;;
+2_BAK8;1;7;Distraction task;;
+2_BAK8;1;Person;NL-2;Cloze;
+2_BAK8;2;von;NL-2;Cloze;
+2_BAK8;3;auch;NL-2;Cloze;
+2_BAK8;4;bei;NL-2;Cloze;
+2_BAK8;5;werden;NL-2;Cloze;
+2_BAK8;6;Er;NL-2;Cloze;
+2_BAK8;7;alle;NL-2;Cloze;
+2_BAK8;8;mit;NL-2;Cloze;
+2_BAK8;9;diese;NL-2;Cloze;
+2_BAK8;10;Gesetz;NL-2;Cloze;
+2_BAK8;11;die;NL-2;Cloze;
+2_BAK8;12;Er;NL-2;Cloze;
+2_BAK8;13;Identität;NL-2;Cloze;
+2_BAK8;14;Verantwortlichen;NL-2;Cloze;
+2_BAK8;15;Kontakten;NL-2;Cloze;
+2_BAK8;16;Kontakten;NL-2;Cloze;
+2_BAK8;17;gesucht;NL-2;Cloze;
+2_BAK8;18;von;NL-2;Cloze;
+2_BAK8;19;so;NL-2;Cloze;
+2_BAK8;20;die;NL-2;Cloze;
+2_BAK8;21;mit;NL-2;Cloze;
+2_BAK8;1;4;SUS-NL;;
+2_BAK8;2;2;SUS-NL;;
+2_BAK8;3;4;SUS-NL;;
+2_BAK8;4;2;SUS-NL;;
+2_BAK8;5;2;SUS-NL;;
+2_BAK8;6;4;SUS-NL;;
+2_BAK8;7;1;SUS-NL;;
+2_BAK8;8;3;SUS-NL;;
+2_BAK8;9;1;SUS-NL;;
+2_BAK8;1;3;Regular use of CL;;
+1_ABK8;1;minderjährige ausländische Kind;NL-1;OT;OT: Low
+1_ABK8;2;schweizerischen Vaters;NL-1;OT;OT: Low
+1_ABK8;1;von;NL-1;Cloze;
+1_ABK8;2;Eltern;NL-1;Cloze;
+1_ABK8;3;dessen;NL-1;Cloze;
+1_ABK8;4;Bürgerin;NL-1;Cloze;
+1_ABK8;5;einer;NL-1;Cloze;
+1_ABK8;6;dem;NL-1;Cloze;
+1_ABK8;7;minderjährige;NL-1;Cloze;
+1_ABK8;8;Bürgers;NL-1;Cloze;
+1_ABK8;9;nicht;NL-1;Cloze;
+1_ABK8;10;die;NL-1;Cloze;
+1_ABK8;11;-;NL-1;Cloze;
+1_ABK8;12;-;NL-1;Cloze;
+1_ABK8;13;Geburt;NL-1;Cloze;
+1_ABK8;14;Kind;NL-1;Cloze;
+1_ABK8;15;das;NL-1;Cloze;
+1_ABK8;16;Kinder;NL-1;Cloze;
+1_ABK8;17;das;NL-1;Cloze;
+1_ABK8;1;2;SUS-NL;;
+1_ABK8;2;4;SUS-NL;;
+1_ABK8;3;2;SUS-NL;;
+1_ABK8;4;2;SUS-NL;;
+1_ABK8;5;3;SUS-NL;;
+1_ABK8;6;2;SUS-NL;;
+1_ABK8;7;4;SUS-NL;;
+1_ABK8;8;3;SUS-NL;;
+1_ABK8;9;3;SUS-NL;;
+1_ABK8;1;7;Distraction task;;
+1_ABK8;1;verheiratet;CL-1;Cloze;
+1_ABK8;2;Schweizer;CL-1;Cloze;
+1_ABK8;3;Kind;CL-1;Cloze;
+1_ABK8;4;Kinder;CL-1;Cloze;
+1_ABK8;5;Mutter;CL-1;Cloze;
+1_ABK8;6;das;CL-1;Cloze;
+1_ABK8;7;Mutter;CL-1;Cloze;
+1_ABK8;8;dem;CL-1;Cloze;
+1_ABK8;9;ist;CL-1;Cloze;
+1_ABK8;10;Kind;CL-1;Cloze;
+1_ABK8;11;und;CL-1;Cloze;
+1_ABK8;12;Kindes;CL-1;Cloze;
+1_ABK8;13;verheiratet;CL-1;Cloze;
+1_ABK8;14;vom;CL-1;Cloze;
+1_ABK8;15;ist;CL-1;Cloze;
+1_ABK8;16;minderjährige;CL-1;Cloze;
+1_ABK8;17;ein;CL-1;Cloze;
+1_ABK8;18;das;CL-1;Cloze;
+1_ABK8;1;5;SUS-CL;;
+1_ABK8;2;1;SUS-CL;;
+1_ABK8;3;5;SUS-CL;;
+1_ABK8;4;1;SUS-CL;;
+1_ABK8;5;1;SUS-CL;;
+1_ABK8;6;5;SUS-CL;;
+1_ABK8;7;1;SUS-CL;;
+1_ABK8;8;4;SUS-CL;;
+1_ABK8;9;1;SUS-CL;;
+1_ABK8;1;5;Regular use of CL;;
+3_ABK5;1;nicht ausdrücklich anders;NL-3;OT;OT: Medium
+3_ABK5;2;so ist nur strafbar;NL-3;OT;OT: High
+3_ABK5;3;wer die Tat mit Wissen und Willen ausführt;NL-3;OT;OT: High
+3_ABK5;4;Verwiklichung der Tat für möglich hält;NL-3;OT;OT: High
+3_ABK5;5;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK5;6;nicht Rücksicht nimmt;NL-3;OT;OT: Medium
+3_ABK5;7;die Vorsicht nicht beachtet;NL-3;OT;OT: Low
+3_ABK5;8;nach seinen persönlichen Verhältnissen verpflichtet;NL-3;OT;OT: Low
+3_ABK5;1;weiter;NL-3;Cloze;
+3_ABK5;2;derjenige;NL-3;Cloze;
+3_ABK5;3;Vergehen;NL-3;Cloze;
+3_ABK5;4;Verbrechen;NL-3;Cloze;
+3_ABK5;5;Straftat;NL-3;Cloze;
+3_ABK5;6;begeht;NL-3;Cloze;
+3_ABK5;7;die;NL-3;Cloze;
+3_ABK5;8;realistisch;NL-3;Cloze;
+3_ABK5;9;nimmt;NL-3;Cloze;
+3_ABK5;10;Vergehen;NL-3;Cloze;
+3_ABK5;11;Handelns;NL-3;Cloze;
+3_ABK5;12;berücksichtigt;NL-3;Cloze;
+3_ABK5;13;nimmt;NL-3;Cloze;
+3_ABK5;14;wenn;NL-3;Cloze;
+3_ABK5;15;nicht;NL-3;Cloze;
+3_ABK5;16;unter;NL-3;Cloze;
+3_ABK5;17;seinen;NL-3;Cloze;
+3_ABK5;1;1;SUS-NL;;
+3_ABK5;2;5;SUS-NL;;
+3_ABK5;3;2;SUS-NL;;
+3_ABK5;4;3;SUS-NL;;
+3_ABK5;5;3;SUS-NL;;
+3_ABK5;6;2;SUS-NL;;
+3_ABK5;7;4;SUS-NL;;
+3_ABK5;8;2;SUS-NL;;
+3_ABK5;9;1;SUS-NL;;
+3_ABK5;1;5;Distraction task;;
+3_ABK5;1;bewusst;CL-3;OT;OT: Medium
+3_ABK5;2;explizit erlaubt;CL-3;OT;OT: Low
+3_ABK5;3;strafrechtlich verfolgt;CL-3;OT;OT: Medium
+3_ABK5;4;bewusst;CL-3;OT;OT: Medium
+3_ABK5;5;erfüllen will;CL-3;OT;OT: High
+3_ABK5;6;Tat ein Verbrechen ist;CL-3;OT;OT: Medium
+3_ABK5;7;Möglichkeit der Tat akzeptiert;CL-3;OT;OT: Medium
+3_ABK5;8;einzuschätzen;CL-3;OT;OT: High
+3_ABK5;9;ignoriert;CL-3;OT;OT: High
+3_ABK5;10;der Situation entsprechende Sorgfalt ausübt;CL-3;OT;OT: Medium
+3_ABK5;1;Verbrechen;CL-3;Cloze;
+3_ABK5;2;es;CL-3;Cloze;
+3_ABK5;3;kann;CL-3;Cloze;
+3_ABK5;4;werden;CL-3;Cloze;
+3_ABK5;5;Verbrechen;CL-3;Cloze;
+3_ABK5;6;ist;CL-3;Cloze;
+3_ABK5;7;kann;CL-3;Cloze;
+3_ABK5;8;werden;CL-3;Cloze;
+3_ABK5;9;begeht;CL-3;Cloze;
+3_ABK5;10;will;CL-3;Cloze;
+3_ABK5;11;bewusst;CL-3;Cloze;
+3_ABK5;12;Verbrechen;CL-3;Cloze;
+3_ABK5;13;-;CL-3;Cloze;
+3_ABK5;14;es;CL-3;Cloze;
+3_ABK5;15;handelt;CL-3;Cloze;
+3_ABK5;16;um;CL-3;Cloze;
+3_ABK5;17;Person;CL-3;Cloze;
+3_ABK5;18;möglich;CL-3;Cloze;
+3_ABK5;19;der;CL-3;Cloze;
+3_ABK5;20;die;CL-3;Cloze;
+3_ABK5;21;fahrlässig;CL-3;Cloze;
+3_ABK5;22;sich;CL-3;Cloze;
+3_ABK5;23;versteht;CL-3;Cloze;
+3_ABK5;24;handelt;CL-3;Cloze;
+3_ABK5;25;Person;CL-3;Cloze;
+3_ABK5;26;ist;CL-3;Cloze;
+3_ABK5;27;wegen;CL-3;Cloze;
+3_ABK5;28;Tat;CL-3;Cloze;
+3_ABK5;29;ist;CL-3;Cloze;
+3_ABK5;30;durch;CL-3;Cloze;
+3_ABK5;31;Person;CL-3;Cloze;
+3_ABK5;32;entsprechenden;CL-3;Cloze;
+3_ABK5;33;der;CL-3;Cloze;
+3_ABK5;34;-;CL-3;Cloze;
+3_ABK5;35;Person;CL-3;Cloze;
+3_ABK5;1;4;SUS-CL;;
+3_ABK5;2;3;SUS-CL;;
+3_ABK5;3;3;SUS-CL;;
+3_ABK5;4;1;SUS-CL;;
+3_ABK5;5;3;SUS-CL;;
+3_ABK5;6;3;SUS-CL;;
+3_ABK5;7;2;SUS-CL;;
+3_ABK5;8;3;SUS-CL;;
+3_ABK5;9;1;SUS-CL;;
+3_ABK5;1;4;Regular use of CL;;
+3_ABK8;1;vorsätzlich;NL-3;OT;OT: Low
+3_ABK8;2;Verbrechen oder Vergehen;NL-3;OT;OT: Medium
+3_ABK8;3;Umständen;NL-3;OT;OT: Medium
+3_ABK8;4;persönlichen Verhältnissen;NL-3;OT;OT: Medium
+3_ABK8;1;ausdrücklich;NL-3;Cloze;
+3_ABK8;2;fahrlässig;NL-3;Cloze;
+3_ABK8;3;Vergehen;NL-3;Cloze;
+3_ABK8;4;Verbrechen;NL-3;Cloze;
+3_ABK8;5;Tat;NL-3;Cloze;
+3_ABK8;6;begeht;NL-3;Cloze;
+3_ABK8;7;die;NL-3;Cloze;
+3_ABK8;8;möglich;NL-3;Cloze;
+3_ABK8;9;nimmt;NL-3;Cloze;
+3_ABK8;10;Vergehen;NL-3;Cloze;
+3_ABK8;11;-;NL-3;Cloze;
+3_ABK8;12;vorsieht;NL-3;Cloze;
+3_ABK8;13;nimmt;NL-3;Cloze;
+3_ABK8;14;wenn;NL-3;Cloze;
+3_ABK8;15;nicht;NL-3;Cloze;
+3_ABK8;16;gemäss;NL-3;Cloze;
+3_ABK8;17;Abschätzung;NL-3;Cloze;
+3_ABK8;1;4;SUS-NL;;
+3_ABK8;2;2;SUS-NL;;
+3_ABK8;3;3;SUS-NL;;
+3_ABK8;4;2;SUS-NL;;
+3_ABK8;5;4;SUS-NL;;
+3_ABK8;6;2;SUS-NL;;
+3_ABK8;7;4;SUS-NL;;
+3_ABK8;8;2;SUS-NL;;
+3_ABK8;9;3;SUS-NL;;
+3_ABK8;1;8;Distraction task;;
+3_ABK8;1;Verbrechen;CL-3;OT;OT: Medium
+3_ABK8;2;Vergehen;CL-3;OT;OT: Medium
+3_ABK8;3;Tat;CL-3;OT;OT: Medium
+3_ABK8;4;bewusstes Verbrechen;CL-3;OT;OT: Low
+3_ABK8;5;bewusstes Vergehen;CL-3;OT;OT: Low
+3_ABK8;6;unvorsichtig;CL-3;OT;OT: Low
+3_ABK8;7;Situation entsprechende Sorgfalt;CL-3;OT;OT: Medium
+3_ABK8;1;Verbrechen;CL-3;Cloze;
+3_ABK8;2;dies;CL-3;Cloze;
+3_ABK8;3;kann;CL-3;Cloze;
+3_ABK8;4;werden;CL-3;Cloze;
+3_ABK8;5;Vergehen;CL-3;Cloze;
+3_ABK8;6;dies;CL-3;Cloze;
+3_ABK8;7;kann;CL-3;Cloze;
+3_ABK8;8;werden;CL-3;Cloze;
+3_ABK8;9;erkennt;CL-3;Cloze;
+3_ABK8;10;will;CL-3;Cloze;
+3_ABK8;11;bewusst;CL-3;Cloze;
+3_ABK8;12;Verbrechen;CL-3;Cloze;
+3_ABK8;13;sich;CL-3;Cloze;
+3_ABK8;14;es;CL-3;Cloze;
+3_ABK8;15;handelt;CL-3;Cloze;
+3_ABK8;16;um;CL-3;Cloze;
+3_ABK8;17;Person;CL-3;Cloze;
+3_ABK8;18;möglich;CL-3;Cloze;
+3_ABK8;19;der;CL-3;Cloze;
+3_ABK8;20;die;CL-3;Cloze;
+3_ABK8;21;bewusst;CL-3;Cloze;
+3_ABK8;22;-;CL-3;Cloze;
+3_ABK8;23;-;CL-3;Cloze;
+3_ABK8;24;handelt;CL-3;Cloze;
+3_ABK8;25;Tat;CL-3;Cloze;
+3_ABK8;26;ist;CL-3;Cloze;
+3_ABK8;27;-;CL-3;Cloze;
+3_ABK8;28;Tat;CL-3;Cloze;
+3_ABK8;29;-;CL-3;Cloze;
+3_ABK8;30;-;CL-3;Cloze;
+3_ABK8;31;Person;CL-3;Cloze;
+3_ABK8;32;angemessene;CL-3;Cloze;
+3_ABK8;33;der;CL-3;Cloze;
+3_ABK8;34;so;CL-3;Cloze;
+3_ABK8;35;Sorgfalt;CL-3;Cloze;
+3_ABK8;1;3;SUS-CL;;
+3_ABK8;2;5;SUS-CL;;
+3_ABK8;3;1;SUS-CL;;
+3_ABK8;4;4;SUS-CL;;
+3_ABK8;5;4;SUS-CL;;
+3_ABK8;6;2;SUS-CL;;
+3_ABK8;7;4;SUS-CL;;
+3_ABK8;8;2;SUS-CL;;
+3_ABK8;9;4;SUS-CL;;
+3_ABK8;1;2;Regular use of CL;;
+3_BAK7;1;Verbrechen;CL-3;OT;OT: Medium
+3_BAK7;2;Vergehen;CL-3;OT;OT: Medium
+3_BAK7;3;bewusst;CL-3;OT;OT: Medium
+3_BAK7;4;Verbrechen;CL-3;OT;OT: Medium
+3_BAK7;5;Vergehen;CL-3;OT;OT: Medium
+3_BAK7;6;nachlässig;CL-3;OT;OT: Medium
+3_BAK7;7;Verbrechen;CL-3;OT;OT: Medium
+3_BAK7;8;Verbrechen;CL-3;OT;OT: Medium
+3_BAK7;9;Vergehen;CL-3;OT;OT: Medium
+3_BAK7;10;Vergehen;CL-3;OT;OT: Medium
+3_BAK7;11;entsprechende Sorgfalt;CL-3;OT;OT: Low
+3_BAK7;1;Verbrechen;CL-3;Cloze;
+3_BAK7;2;dies;CL-3;Cloze;
+3_BAK7;3;kann;CL-3;Cloze;
+3_BAK7;4;werden;CL-3;Cloze;
+3_BAK7;5;Vergehen;CL-3;Cloze;
+3_BAK7;6;dies;CL-3;Cloze;
+3_BAK7;7;kann;CL-3;Cloze;
+3_BAK7;8;werden;CL-3;Cloze;
+3_BAK7;9;begeht;CL-3;Cloze;
+3_BAK7;10;will;CL-3;Cloze;
+3_BAK7;11;bewusst;CL-3;Cloze;
+3_BAK7;12;Verbrechen;CL-3;Cloze;
+3_BAK7;13;sich;CL-3;Cloze;
+3_BAK7;14;es;CL-3;Cloze;
+3_BAK7;15;handelt;CL-3;Cloze;
+3_BAK7;16;um;CL-3;Cloze;
+3_BAK7;17;Person;CL-3;Cloze;
+3_BAK7;18;möglich;CL-3;Cloze;
+3_BAK7;19;der;CL-3;Cloze;
+3_BAK7;20;die;CL-3;Cloze;
+3_BAK7;21;bewusst;CL-3;Cloze;
+3_BAK7;22;-;CL-3;Cloze;
+3_BAK7;23;vernachlässigt;CL-3;Cloze;
+3_BAK7;24;handelt;CL-3;Cloze;
+3_BAK7;25;Tat;CL-3;Cloze;
+3_BAK7;26;ist;CL-3;Cloze;
+3_BAK7;27;aus;CL-3;Cloze;
+3_BAK7;28;Tat;CL-3;Cloze;
+3_BAK7;29;ist;CL-3;Cloze;
+3_BAK7;30;aus;CL-3;Cloze;
+3_BAK7;31;Person;CL-3;Cloze;
+3_BAK7;32;angemessnen;CL-3;Cloze;
+3_BAK7;33;der;CL-3;Cloze;
+3_BAK7;34;dann;CL-3;Cloze;
+3_BAK7;35;Sorgfalt;CL-3;Cloze;
+3_BAK7;1;4;SUS-CL;;
+3_BAK7;2;2;SUS-CL;;
+3_BAK7;3;4;SUS-CL;;
+3_BAK7;4;3;SUS-CL;;
+3_BAK7;5;2;SUS-CL;;
+3_BAK7;6;4;SUS-CL;;
+3_BAK7;7;1;SUS-CL;;
+3_BAK7;8;4;SUS-CL;;
+3_BAK7;9;3;SUS-CL;;
+3_BAK7;1;7;Distraction task;;
+3_BAK7;1;Vorsätzlich;NL-3;OT;OT: Medium
+3_BAK7;2;Vorsätzlich;NL-3;OT;OT: Medium
+3_BAK7;3;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_BAK7;1;ausdrücklich;NL-3;Cloze;
+3_BAK7;2;strafbar;NL-3;Cloze;
+3_BAK7;3;Vergehen;NL-3;Cloze;
+3_BAK7;4;Verbrechen;NL-3;Cloze;
+3_BAK7;5;Tat;NL-3;Cloze;
+3_BAK7;6;begeht;NL-3;Cloze;
+3_BAK7;7;die;NL-3;Cloze;
+3_BAK7;8;möglich;NL-3;Cloze;
+3_BAK7;9;nimmt;NL-3;Cloze;
+3_BAK7;10;Vergehen;NL-3;Cloze;
+3_BAK7;11;Handelns;NL-3;Cloze;
+3_BAK7;12;wahrnimmt;NL-3;Cloze;
+3_BAK7;13;nimmt;NL-3;Cloze;
+3_BAK7;14;wenn;NL-3;Cloze;
+3_BAK7;15;nicht;NL-3;Cloze;
+3_BAK7;16;gemäss;NL-3;Cloze;
+3_BAK7;17;den;NL-3;Cloze;
+3_BAK7;1;2;SUS-NL;;
+3_BAK7;2;5;SUS-NL;;
+3_BAK7;3;2;SUS-NL;;
+3_BAK7;4;3;SUS-NL;;
+3_BAK7;5;3;SUS-NL;;
+3_BAK7;6;2;SUS-NL;;
+3_BAK7;7;4;SUS-NL;;
+3_BAK7;8;2;SUS-NL;;
+3_BAK7;9;3;SUS-NL;;
+3_BAK7;1;2;Regular use of CL;;
+3_ABK6;1;nur;NL-3;OT;OT: Low
+3_ABK6;2;vorsätzlich;NL-3;OT;OT: Medium
+3_ABK6;3;möglich hält;NL-3;OT;OT: Low
+3_ABK6;4;nicht beachtet;NL-3;OT;OT: High
+3_ABK6;1;ausdrücklich;NL-3;Cloze;
+3_ABK6;2;strafbar;NL-3;Cloze;
+3_ABK6;3;Vergehen;NL-3;Cloze;
+3_ABK6;4;Verbrechen;NL-3;Cloze;
+3_ABK6;5;Tat;NL-3;Cloze;
+3_ABK6;6;begeht;NL-3;Cloze;
+3_ABK6;7;bereits;NL-3;Cloze;
+3_ABK6;8;möglich;NL-3;Cloze;
+3_ABK6;9;nimmt;NL-3;Cloze;
+3_ABK6;10;Vergehen;NL-3;Cloze;
+3_ABK6;11;Handelns;NL-3;Cloze;
+3_ABK6;12;bereut;NL-3;Cloze;
+3_ABK6;13;nimmt;NL-3;Cloze;
+3_ABK6;14;wenn;NL-3;Cloze;
+3_ABK6;15;nicht;NL-3;Cloze;
+3_ABK6;16;nach;NL-3;Cloze;
+3_ABK6;17;den;NL-3;Cloze;
+3_ABK6;1;3;SUS-NL;;
+3_ABK6;2;4;SUS-NL;;
+3_ABK6;3;2;SUS-NL;;
+3_ABK6;4;1;SUS-NL;;
+3_ABK6;5;2;SUS-NL;;
+3_ABK6;6;4;SUS-NL;;
+3_ABK6;7;2;SUS-NL;;
+3_ABK6;8;4;SUS-NL;;
+3_ABK6;9;1;SUS-NL;;
+3_ABK6;1;7;Distraction task;;
+3_ABK6;1;glaubt;CL-3;OT;OT: Medium
+3_ABK6;2;unvorsichtig;CL-3;OT;OT: Low
+3_ABK6;3;verabsäumt;CL-3;OT;OT: Medium
+3_ABK6;4;Situation entsprechende;CL-3;OT;OT: High
+3_ABK6;1;Verbrechen;CL-3;Cloze;
+3_ABK6;2;dies;CL-3;Cloze;
+3_ABK6;3;kann;CL-3;Cloze;
+3_ABK6;4;werden;CL-3;Cloze;
+3_ABK6;5;Verbrechen;CL-3;Cloze;
+3_ABK6;6;dies;CL-3;Cloze;
+3_ABK6;7;kann;CL-3;Cloze;
+3_ABK6;8;werden;CL-3;Cloze;
+3_ABK6;9;begeht;CL-3;Cloze;
+3_ABK6;10;will;CL-3;Cloze;
+3_ABK6;11;bewusst;CL-3;Cloze;
+3_ABK6;12;Verbrechen;CL-3;Cloze;
+3_ABK6;13;sich;CL-3;Cloze;
+3_ABK6;14;es;CL-3;Cloze;
+3_ABK6;15;handelt;CL-3;Cloze;
+3_ABK6;16;um;CL-3;Cloze;
+3_ABK6;17;Person;CL-3;Cloze;
+3_ABK6;18;strafbar;CL-3;Cloze;
+3_ABK6;19;einer;CL-3;Cloze;
+3_ABK6;20;diese;CL-3;Cloze;
+3_ABK6;21;strafbar;CL-3;Cloze;
+3_ABK6;22;-;CL-3;Cloze;
+3_ABK6;23;-;CL-3;Cloze;
+3_ABK6;24;handelt;CL-3;Cloze;
+3_ABK6;25;Tat;CL-3;Cloze;
+3_ABK6;26;-;CL-3;Cloze;
+3_ABK6;27;-;CL-3;Cloze;
+3_ABK6;28;Tat;CL-3;Cloze;
+3_ABK6;29;-;CL-3;Cloze;
+3_ABK6;30;-;CL-3;Cloze;
+3_ABK6;31;-;CL-3;Cloze;
+3_ABK6;32;-;CL-3;Cloze;
+3_ABK6;33;-;CL-3;Cloze;
+3_ABK6;34;-;CL-3;Cloze;
+3_ABK6;35;-;CL-3;Cloze;
+3_ABK6;1;2;SUS-CL;;
+3_ABK6;2;4;SUS-CL;;
+3_ABK6;3;2;SUS-CL;;
+3_ABK6;4;1;SUS-CL;;
+3_ABK6;5;4;SUS-CL;;
+3_ABK6;6;4;SUS-CL;;
+3_ABK6;7;3;SUS-CL;;
+3_ABK6;8;4;SUS-CL;;
+3_ABK6;9;1;SUS-CL;;
+3_ABK6;1;4;Regular use of CL;;
+3_BAK5;1;Verbrechen;CL-3;OT;OT: Medium
+3_BAK5;2;Gesetz;CL-3;OT;OT: Low
+3_BAK5;3;Vergehen;CL-3;OT;OT: High
+3_BAK5;4;Gesetz;CL-3;OT;OT: Low
+3_BAK5;5;Tat;CL-3;OT;OT: High
+3_BAK5;6;Tat;CL-3;OT;OT: High
+3_BAK5;7;Tat;CL-3;OT;OT: High
+3_BAK5;8;Vergehen;CL-3;OT;OT: High
+3_BAK5;9;bewusstes Vergehen;CL-3;OT;OT: High
+3_BAK5;10;Tat;CL-3;OT;OT: High
+3_BAK5;11;Tat;CL-3;OT;OT: High
+3_BAK5;12;akzeptiert;CL-3;OT;OT: High
+3_BAK5;13;unvorsichtig;CL-3;OT;OT: Medium
+3_BAK5;14;Konsequenzen des Verhaltens;CL-3;OT;OT: Medium
+3_BAK5;15;Verbrechen;CL-3;OT;OT: Medium
+3_BAK5;16;Verbrechen;CL-3;OT;OT: Medium
+3_BAK5;17;Vergehen;CL-3;OT;OT: High
+3_BAK5;18;Vergehen;CL-3;OT;OT: High
+3_BAK5;19;Sorgfalt;CL-3;OT;OT: High
+3_BAK5;1;Verbrechen;CL-3;Cloze;
+3_BAK5;2;das Verbrechen;CL-3;Cloze;
+3_BAK5;3;wird;CL-3;Cloze;
+3_BAK5;4;-;CL-3;Cloze;
+3_BAK5;5;Vergehen;CL-3;Cloze;
+3_BAK5;6;das Vergehen;CL-3;Cloze;
+3_BAK5;7;wird;CL-3;Cloze;
+3_BAK5;8;-;CL-3;Cloze;
+3_BAK5;9;ausübt;CL-3;Cloze;
+3_BAK5;10;-;CL-3;Cloze;
+3_BAK5;11;nachlässig;CL-3;Cloze;
+3_BAK5;12;Verbrechen;CL-3;Cloze;
+3_BAK5;13;sich;CL-3;Cloze;
+3_BAK5;14;es;CL-3;Cloze;
+3_BAK5;15;handelt;CL-3;Cloze;
+3_BAK5;16;um;CL-3;Cloze;
+3_BAK5;17;Person;CL-3;Cloze;
+3_BAK5;18;strafbar;CL-3;Cloze;
+3_BAK5;19;der Konsequenzen der;CL-3;Cloze;
+3_BAK5;20;diese;CL-3;Cloze;
+3_BAK5;21;bewusst;CL-3;Cloze;
+3_BAK5;22;willentlich;CL-3;Cloze;
+3_BAK5;23;akzeptiert;CL-3;Cloze;
+3_BAK5;24;handelt;CL-3;Cloze;
+3_BAK5;25;Tat;CL-3;Cloze;
+3_BAK5;26;handelt;CL-3;Cloze;
+3_BAK5;27;unter;CL-3;Cloze;
+3_BAK5;28;Tat;CL-3;Cloze;
+3_BAK5;29;ist;CL-3;Cloze;
+3_BAK5;30;unter;CL-3;Cloze;
+3_BAK5;31;Person;CL-3;Cloze;
+3_BAK5;32;entsprechende;CL-3;Cloze;
+3_BAK5;33;der;CL-3;Cloze;
+3_BAK5;34;-;CL-3;Cloze;
+3_BAK5;35;Gesetzlage;CL-3;Cloze;
+3_BAK5;1;2;SUS-CL;;
+3_BAK5;2;1;SUS-CL;;
+3_BAK5;3;2;SUS-CL;;
+3_BAK5;4;2;SUS-CL;;
+3_BAK5;5;4;SUS-CL;;
+3_BAK5;6;2;SUS-CL;;
+3_BAK5;7;5;SUS-CL;;
+3_BAK5;8;2;SUS-CL;;
+3_BAK5;9;3;SUS-CL;;
+3_BAK5;1;5;Distraction task;;
+3_BAK5;1;Gesetz;NL-3;OT;OT: Low
+3_BAK5;2;ausdrücklich;NL-3;OT;OT: High
+3_BAK5;3;Vergehen;NL-3;OT;OT: High
+3_BAK5;4;Wissen;NL-3;OT;OT: High
+3_BAK5;5;Willen;NL-3;OT;OT: High
+3_BAK5;6;Verwiklichung der Tat;NL-3;OT;OT: High
+3_BAK5;7;möglich hält und in Kauf nimmt;NL-3;OT;OT: High
+3_BAK5;8;Vergehen;NL-3;OT;OT: High
+3_BAK5;9;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK5;10;nicht Rücksicht;NL-3;OT;OT: Low
+3_BAK5;11;Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK5;12;Vorsicht;NL-3;OT;OT: High
+3_BAK5;13;beachtet;NL-3;OT;OT: Low
+3_BAK5;14;Umständen;NL-3;OT;OT: High
+3_BAK5;15;persönlichen Verhältnissen;NL-3;OT;OT: Low
+3_BAK5;16;verpflichtet;NL-3;OT;OT: High
+3_BAK5;1;ausdrücklich;NL-3;Cloze;
+3_BAK5;2;strafbar;NL-3;Cloze;
+3_BAK5;3;ein Vergehen;NL-3;Cloze;
+3_BAK5;4;Verbrechen;NL-3;Cloze;
+3_BAK5;5;Tat;NL-3;Cloze;
+3_BAK5;6;ausübt;NL-3;Cloze;
+3_BAK5;7;die;NL-3;Cloze;
+3_BAK5;8;möglich;NL-3;Cloze;
+3_BAK5;9;nimmt;NL-3;Cloze;
+3_BAK5;10;Vergehen;NL-3;Cloze;
+3_BAK5;11;Begehens;NL-3;Cloze;
+3_BAK5;12;nachkommt;NL-3;Cloze;
+3_BAK5;13;nimmt;NL-3;Cloze;
+3_BAK5;14;wenn;NL-3;Cloze;
+3_BAK5;15;-;NL-3;Cloze;
+3_BAK5;16;-;NL-3;Cloze;
+3_BAK5;17;seinen;NL-3;Cloze;
+3_BAK5;1;1;SUS-NL;;
+3_BAK5;2;2;SUS-NL;;
+3_BAK5;3;1;SUS-NL;;
+3_BAK5;4;5;SUS-NL;;
+3_BAK5;5;2;SUS-NL;;
+3_BAK5;6;1;SUS-NL;;
+3_BAK5;7;5;SUS-NL;;
+3_BAK5;8;1;SUS-NL;;
+3_BAK5;9;3;SUS-NL;;
+3_BAK5;1;1;Regular use of CL;;
+3_ABK20;1;Umständen;NL-3;OT;OT: High
+3_ABK20;2;persönlichen Verhältnissen;NL-3;OT;OT: High
+3_ABK20;1;ausdrücklich;NL-3;Cloze;
+3_ABK20;2;schuldig;NL-3;Cloze;
+3_ABK20;3;Vergehen;NL-3;Cloze;
+3_ABK20;4;Verbrechen;NL-3;Cloze;
+3_ABK20;5;Tat;NL-3;Cloze;
+3_ABK20;6;-;NL-3;Cloze;
+3_ABK20;7;-;NL-3;Cloze;
+3_ABK20;8;möglich;NL-3;Cloze;
+3_ABK20;9;nimmt;NL-3;Cloze;
+3_ABK20;10;Vergehen;NL-3;Cloze;
+3_ABK20;11;Handelns;NL-3;Cloze;
+3_ABK20;12;-;NL-3;Cloze;
+3_ABK20;13;nimmt;NL-3;Cloze;
+3_ABK20;14;-;NL-3;Cloze;
+3_ABK20;15;-;NL-3;Cloze;
+3_ABK20;16;-;NL-3;Cloze;
+3_ABK20;17;-;NL-3;Cloze;
+3_ABK20;1;3;SUS-NL;;
+3_ABK20;2;5;SUS-NL;;
+3_ABK20;3;2;SUS-NL;;
+3_ABK20;4;1;SUS-NL;;
+3_ABK20;5;3;SUS-NL;;
+3_ABK20;6;4;SUS-NL;;
+3_ABK20;7;4;SUS-NL;;
+3_ABK20;8;1;SUS-NL;;
+3_ABK20;9;2;SUS-NL;;
+3_ABK20;1;5;Distraction task;;
+3_ABK20;1;Verbrechen;CL-3;Cloze;
+3_ABK20;2;dies;CL-3;Cloze;
+3_ABK20;3;kann;CL-3;Cloze;
+3_ABK20;4;werden;CL-3;Cloze;
+3_ABK20;5;Verbrechen;CL-3;Cloze;
+3_ABK20;6;dies;CL-3;Cloze;
+3_ABK20;7;kann;CL-3;Cloze;
+3_ABK20;8;werden;CL-3;Cloze;
+3_ABK20;9;-;CL-3;Cloze;
+3_ABK20;10;-;CL-3;Cloze;
+3_ABK20;11;bewusst;CL-3;Cloze;
+3_ABK20;12;Verbrechen;CL-3;Cloze;
+3_ABK20;13;sich;CL-3;Cloze;
+3_ABK20;14;es;CL-3;Cloze;
+3_ABK20;15;handelt;CL-3;Cloze;
+3_ABK20;16;um;CL-3;Cloze;
+3_ABK20;17;Person;CL-3;Cloze;
+3_ABK20;18;machbar;CL-3;Cloze;
+3_ABK20;19;dieser;CL-3;Cloze;
+3_ABK20;20;diese;CL-3;Cloze;
+3_ABK20;21;-;CL-3;Cloze;
+3_ABK20;22;-;CL-3;Cloze;
+3_ABK20;23;vernachlässigt;CL-3;Cloze;
+3_ABK20;24;handelt;CL-3;Cloze;
+3_ABK20;25;Tat;CL-3;Cloze;
+3_ABK20;26;gibt;CL-3;Cloze;
+3_ABK20;27;wegen;CL-3;Cloze;
+3_ABK20;28;Tat;CL-3;Cloze;
+3_ABK20;29;-;CL-3;Cloze;
+3_ABK20;30;wegen;CL-3;Cloze;
+3_ABK20;31;Person;CL-3;Cloze;
+3_ABK20;32;erforderlichen;CL-3;Cloze;
+3_ABK20;33;der;CL-3;Cloze;
+3_ABK20;34;dann;CL-3;Cloze;
+3_ABK20;35;Sorgfalt;CL-3;Cloze;
+3_ABK20;1;5;SUS-CL;;
+3_ABK20;2;1;SUS-CL;;
+3_ABK20;3;5;SUS-CL;;
+3_ABK20;4;1;SUS-CL;;
+3_ABK20;5;1;SUS-CL;;
+3_ABK20;6;5;SUS-CL;;
+3_ABK20;7;1;SUS-CL;;
+3_ABK20;8;4;SUS-CL;;
+3_ABK20;9;1;SUS-CL;;
+3_ABK20;1;4;Regular use of CL;;
+3_ABK13;1;die Tat;NL-3;OT;OT: High
+3_ABK13;1;spezifisch;NL-3;Cloze;
+3_ABK13;2;strafbar;NL-3;Cloze;
+3_ABK13;3;Vergehen;NL-3;Cloze;
+3_ABK13;4;Verbrechen;NL-3;Cloze;
+3_ABK13;5;Tat;NL-3;Cloze;
+3_ABK13;6;begeht;NL-3;Cloze;
+3_ABK13;7;die Tat;NL-3;Cloze;
+3_ABK13;8;möglich;NL-3;Cloze;
+3_ABK13;9;nimmt;NL-3;Cloze;
+3_ABK13;10;Vergehen;NL-3;Cloze;
+3_ABK13;11;-;NL-3;Cloze;
+3_ABK13;12;-;NL-3;Cloze;
+3_ABK13;13;nimmt;NL-3;Cloze;
+3_ABK13;14;-;NL-3;Cloze;
+3_ABK13;15;-;NL-3;Cloze;
+3_ABK13;16;unter;NL-3;Cloze;
+3_ABK13;17;den;NL-3;Cloze;
+3_ABK13;1;4;SUS-NL;;
+3_ABK13;2;2;SUS-NL;;
+3_ABK13;3;2;SUS-NL;;
+3_ABK13;4;2;SUS-NL;;
+3_ABK13;5;1;SUS-NL;;
+3_ABK13;6;1;SUS-NL;;
+3_ABK13;7;2;SUS-NL;;
+3_ABK13;8;3;SUS-NL;;
+3_ABK13;9;1;SUS-NL;;
+3_ABK13;1;7;Distraction task;;
+3_ABK13;1;Verbrechen;CL-3;Cloze;
+3_ABK13;2;dies;CL-3;Cloze;
+3_ABK13;3;kann;CL-3;Cloze;
+3_ABK13;4;werden;CL-3;Cloze;
+3_ABK13;5;Vergehen;CL-3;Cloze;
+3_ABK13;6;dies;CL-3;Cloze;
+3_ABK13;7;kann;CL-3;Cloze;
+3_ABK13;8;werden;CL-3;Cloze;
+3_ABK13;9;begeht;CL-3;Cloze;
+3_ABK13;10;will;CL-3;Cloze;
+3_ABK13;11;bewusst;CL-3;Cloze;
+3_ABK13;12;Verbrechen;CL-3;Cloze;
+3_ABK13;13;-;CL-3;Cloze;
+3_ABK13;14;-;CL-3;Cloze;
+3_ABK13;15;-;CL-3;Cloze;
+3_ABK13;16;um;CL-3;Cloze;
+3_ABK13;17;Person;CL-3;Cloze;
+3_ABK13;18;möglich;CL-3;Cloze;
+3_ABK13;19;der;CL-3;Cloze;
+3_ABK13;20;diese;CL-3;Cloze;
+3_ABK13;21;bewusst;CL-3;Cloze;
+3_ABK13;22;-;CL-3;Cloze;
+3_ABK13;23;-;CL-3;Cloze;
+3_ABK13;24;handelt;CL-3;Cloze;
+3_ABK13;25;Tat;CL-3;Cloze;
+3_ABK13;26;ist;CL-3;Cloze;
+3_ABK13;27;aus;CL-3;Cloze;
+3_ABK13;28;Tat;CL-3;Cloze;
+3_ABK13;29;ist;CL-3;Cloze;
+3_ABK13;30;aus;CL-3;Cloze;
+3_ABK13;31;Person;CL-3;Cloze;
+3_ABK13;32;angemessenen;CL-3;Cloze;
+3_ABK13;33;der;CL-3;Cloze;
+3_ABK13;34;-;CL-3;Cloze;
+3_ABK13;35;-;CL-3;Cloze;
+3_ABK13;1;5;SUS-CL;;
+3_ABK13;2;1;SUS-CL;;
+3_ABK13;3;4;SUS-CL;;
+3_ABK13;4;1;SUS-CL;;
+3_ABK13;5;1;SUS-CL;;
+3_ABK13;6;3;SUS-CL;;
+3_ABK13;7;1;SUS-CL;;
+3_ABK13;8;4;SUS-CL;;
+3_ABK13;9;1;SUS-CL;;
+3_ABK13;1;4;Regular use of CL;;
+2_BAK14;1;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;2;personenbezogene;CL-2;OT;OT: Low
+2_BAK14;3;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;4;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;5;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;6;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;7;Verantwortliche;CL-2;OT;OT: Medium
+2_BAK14;8;Verantwortlichen;CL-2;OT;OT: Medium
+2_BAK14;9;Kategorien;CL-2;OT;OT: High
+2_BAK14;10;Teilen;CL-2;OT;OT: Medium
+2_BAK14;11;transparente Nutzung;CL-2;OT;OT: Medium
+2_BAK14;12;Teilen;CL-2;OT;OT: Medium
+2_BAK14;13;Kategorien;CL-2;OT;OT: High
+2_BAK14;1;und;CL-2;Cloze;
+2_BAK14;2;Informationen;CL-2;Cloze;
+2_BAK14;3;betroffene;CL-2;Cloze;
+2_BAK14;4;personenbezogener;CL-2;Cloze;
+2_BAK14;5;personenbezogene;CL-2;Cloze;
+2_BAK14;6;bezüglich;CL-2;Cloze;
+2_BAK14;7;muss;CL-2;Cloze;
+2_BAK14;8;Person;CL-2;Cloze;
+2_BAK14;9;dem;CL-2;Cloze;
+2_BAK14;10;muss;CL-2;Cloze;
+2_BAK14;11;bekommenen;CL-2;Cloze;
+2_BAK14;12;Personalien;CL-2;Cloze;
+2_BAK14;13;müssen;CL-2;Cloze;
+2_BAK14;14;aufzeigen;CL-2;Cloze;
+2_BAK14;15;der;CL-2;Cloze;
+2_BAK14;16;sie;CL-2;Cloze;
+2_BAK14;17;-;CL-2;Cloze;
+2_BAK14;18;Teilen;CL-2;Cloze;
+2_BAK14;19;-;CL-2;Cloze;
+2_BAK14;20;Privatschutz;CL-2;Cloze;
+2_BAK14;21;Information;CL-2;Cloze;
+2_BAK14;22;Personen;CL-2;Cloze;
+2_BAK14;23;personenbezogenen;CL-2;Cloze;
+2_BAK14;24;von;CL-2;Cloze;
+2_BAK14;25;so;CL-2;Cloze;
+2_BAK14;26;Information;CL-2;Cloze;
+2_BAK14;27;-;CL-2;Cloze;
+2_BAK14;1;4;SUS-CL;;
+2_BAK14;2;4;SUS-CL;;
+2_BAK14;3;2;SUS-CL;;
+2_BAK14;4;1;SUS-CL;;
+2_BAK14;5;2;SUS-CL;;
+2_BAK14;6;2;SUS-CL;;
+2_BAK14;7;3;SUS-CL;;
+2_BAK14;8;3;SUS-CL;;
+2_BAK14;9;1;SUS-CL;;
+2_BAK14;1;7;Distraction task;;
+2_BAK14;1;angemessenen;NL-2;OT;OT: High
+2_BAK14;2;beschafft;NL-2;OT;OT: Medium
+2_BAK14;3;die erforderlich sind;NL-2;OT;OT: High
+2_BAK14;4;Identität und die Kontaktdaten;NL-2;OT;OT: High
+2_BAK14;5;Kategorien;NL-2;OT;OT: Medium
+2_BAK14;1;Person;NL-2;Cloze;
+2_BAK14;2;der;NL-2;Cloze;
+2_BAK14;3;-;NL-2;Cloze;
+2_BAK14;4;-;NL-2;Cloze;
+2_BAK14;5;werden;NL-2;Cloze;
+2_BAK14;6;-;NL-2;Cloze;
+2_BAK14;7;-;NL-2;Cloze;
+2_BAK14;8;-;NL-2;Cloze;
+2_BAK14;9;-;NL-2;Cloze;
+2_BAK14;10;Recht;NL-2;Cloze;
+2_BAK14;11;-;NL-2;Cloze;
+2_BAK14;12;-;NL-2;Cloze;
+2_BAK14;13;Identität;NL-2;Cloze;
+2_BAK14;14;Verantwortlichen;NL-2;Cloze;
+2_BAK14;15;-;NL-2;Cloze;
+2_BAK14;16;-;NL-2;Cloze;
+2_BAK14;17;-;NL-2;Cloze;
+2_BAK14;18;-;NL-2;Cloze;
+2_BAK14;19;-;NL-2;Cloze;
+2_BAK14;20;die;NL-2;Cloze;
+2_BAK14;21;-;NL-2;Cloze;
+2_BAK14;1;3;SUS-NL;;
+2_BAK14;2;5;SUS-NL;;
+2_BAK14;3;2;SUS-NL;;
+2_BAK14;4;3;SUS-NL;;
+2_BAK14;5;2;SUS-NL;;
+2_BAK14;6;2;SUS-NL;;
+2_BAK14;7;3;SUS-NL;;
+2_BAK14;8;3;SUS-NL;;
+2_BAK14;9;1;SUS-NL;;
+2_BAK14;1;4;Regular use of CL;;
+2_ABK12;1;angemessen;NL-2;OT;OT: Medium
+2_ABK12;2;erforderlich;NL-2;OT;OT: Medium
+2_ABK12;3;transparente;NL-2;OT;OT: Low
+2_ABK12;1;Person;NL-2;Cloze;
+2_ABK12;2;ihrer;NL-2;Cloze;
+2_ABK12;3;auch;NL-2;Cloze;
+2_ABK12;4;von;NL-2;Cloze;
+2_ABK12;5;wurden;NL-2;Cloze;
+2_ABK12;6;Verantwortlicher;NL-2;Cloze;
+2_ABK12;7;nach;NL-2;Cloze;
+2_ABK12;8;mit;NL-2;Cloze;
+2_ABK12;9;sie;NL-2;Cloze;
+2_ABK12;10;Gesetz;NL-2;Cloze;
+2_ABK12;11;die;NL-2;Cloze;
+2_ABK12;12;der Verantwortliche;NL-2;Cloze;
+2_ABK12;13;Informationen;NL-2;Cloze;
+2_ABK12;14;Verantwortlicher;NL-2;Cloze;
+2_ABK12;15;Empfänger;NL-2;Cloze;
+2_ABK12;16;Empfängerinnen;NL-2;Cloze;
+2_ABK12;17;benutzt;NL-2;Cloze;
+2_ABK12;18;von;NL-2;Cloze;
+2_ABK12;19;so;NL-2;Cloze;
+2_ABK12;20;die;NL-2;Cloze;
+2_ABK12;21;mit;NL-2;Cloze;
+2_ABK12;1;3;SUS-NL;;
+2_ABK12;2;4;SUS-NL;;
+2_ABK12;3;2;SUS-NL;;
+2_ABK12;4;3;SUS-NL;;
+2_ABK12;5;2;SUS-NL;;
+2_ABK12;6;2;SUS-NL;;
+2_ABK12;7;4;SUS-NL;;
+2_ABK12;8;1;SUS-NL;;
+2_ABK12;9;3;SUS-NL;;
+2_ABK12;1;5;Distraction task;;
+2_ABK12;1;personenbezogene;CL-2;OT;OT: Medium
+2_ABK12;2;unverzüglich;CL-2;OT;OT: Low
+2_ABK12;3;Kategorien;CL-2;OT;OT: Low
+2_ABK12;4;transparente;CL-2;OT;OT: Medium
+2_ABK12;1;und;CL-2;Cloze;
+2_ABK12;2;Daten;CL-2;Cloze;
+2_ABK12;3;betroffene;CL-2;Cloze;
+2_ABK12;4;der;CL-2;Cloze;
+2_ABK12;5;die;CL-2;Cloze;
+2_ABK12;6;von;CL-2;Cloze;
+2_ABK12;7;muss;CL-2;Cloze;
+2_ABK12;8;Person;CL-2;Cloze;
+2_ABK12;9;dem;CL-2;Cloze;
+2_ABK12;10;muss;CL-2;Cloze;
+2_ABK12;11;gesammelten;CL-2;Cloze;
+2_ABK12;12;Identität;CL-2;Cloze;
+2_ABK12;13;müssen;CL-2;Cloze;
+2_ABK12;14;erklären;CL-2;Cloze;
+2_ABK12;15;der;CL-2;Cloze;
+2_ABK12;16;sie;CL-2;Cloze;
+2_ABK12;17;Informationen;CL-2;Cloze;
+2_ABK12;18;Teilen;CL-2;Cloze;
+2_ABK12;19;Person;CL-2;Cloze;
+2_ABK12;20;Datenschutzgesetz;CL-2;Cloze;
+2_ABK12;21;Informationen;CL-2;Cloze;
+2_ABK12;22;der;CL-2;Cloze;
+2_ABK12;23;gesammelten;CL-2;Cloze;
+2_ABK12;24;von;CL-2;Cloze;
+2_ABK12;25;dann;CL-2;Cloze;
+2_ABK12;26;Person;CL-2;Cloze;
+2_ABK12;27;der;CL-2;Cloze;
+2_ABK12;1;2;SUS-CL;;
+2_ABK12;2;4;SUS-CL;;
+2_ABK12;3;2;SUS-CL;;
+2_ABK12;4;3;SUS-CL;;
+2_ABK12;5;3;SUS-CL;;
+2_ABK12;6;1;SUS-CL;;
+2_ABK12;7;4;SUS-CL;;
+2_ABK12;8;2;SUS-CL;;
+2_ABK12;9;3;SUS-CL;;
+2_ABK12;1;3;Regular use of CL;;
+2_BAK12;1;Die Informationen müssen die Identität des Verantwortlichen beinhalten;CL-2;OT;OT: Low
+2_BAK12;2;den Empfänger der mitgeteilten Daten;CL-2;OT;OT: Low
+2_BAK12;3;Kategorien;CL-2;OT;OT: High
+2_BAK12;4;Teilen der Informationen;CL-2;OT;OT: Medium
+2_BAK12;5;Teilen der Informationen;CL-2;OT;OT: Medium
+2_BAK12;6;über die Kategorien;CL-2;OT;OT: High
+2_BAK12;1;und;CL-2;Cloze;
+2_BAK12;2;Daten;CL-2;Cloze;
+2_BAK12;3;befragte;CL-2;Cloze;
+2_BAK12;4;der;CL-2;Cloze;
+2_BAK12;5;persönliche;CL-2;Cloze;
+2_BAK12;6;-;CL-2;Cloze;
+2_BAK12;7;muss;CL-2;Cloze;
+2_BAK12;8;-;CL-2;Cloze;
+2_BAK12;9;dem;CL-2;Cloze;
+2_BAK12;10;hat;CL-2;Cloze;
+2_BAK12;11;-;CL-2;Cloze;
+2_BAK12;12;Angaben;CL-2;Cloze;
+2_BAK12;13;beinhalten;CL-2;Cloze;
+2_BAK12;14;-;CL-2;Cloze;
+2_BAK12;15;-;CL-2;Cloze;
+2_BAK12;16;-;CL-2;Cloze;
+2_BAK12;17;-;CL-2;Cloze;
+2_BAK12;18;Teilen;CL-2;Cloze;
+2_BAK12;19;-;CL-2;Cloze;
+2_BAK12;20;-;CL-2;Cloze;
+2_BAK12;21;Daten;CL-2;Cloze;
+2_BAK12;22;der;CL-2;Cloze;
+2_BAK12;23;-;CL-2;Cloze;
+2_BAK12;24;von;CL-2;Cloze;
+2_BAK12;25;so;CL-2;Cloze;
+2_BAK12;26;-;CL-2;Cloze;
+2_BAK12;27;-;CL-2;Cloze;
+2_BAK12;1;2;SUS-CL;;
+2_BAK12;2;4;SUS-CL;;
+2_BAK12;3;1;SUS-CL;;
+2_BAK12;4;2;SUS-CL;;
+2_BAK12;5;3;SUS-CL;;
+2_BAK12;6;2;SUS-CL;;
+2_BAK12;7;4;SUS-CL;;
+2_BAK12;8;2;SUS-CL;;
+2_BAK12;9;3;SUS-CL;;
+2_BAK12;1;7;Distraction task;;
+2_BAK12;1;damit sie ihre Rechte nach diesem Gesetz geltend machen kann;NL-2;OT;OT: Low
+2_BAK12;2;Werden die Daten nicht bei der betroffenen Person beschafft;NL-2;OT;OT: Medium
+2_BAK12;1;Person;NL-2;Cloze;
+2_BAK12;2;der;NL-2;Cloze;
+2_BAK12;3;auch;NL-2;Cloze;
+2_BAK12;4;von;NL-2;Cloze;
+2_BAK12;5;werden;NL-2;Cloze;
+2_BAK12;6;Der Verantwortliche;NL-2;Cloze;
+2_BAK12;7;-;NL-2;Cloze;
+2_BAK12;8;mit;NL-2;Cloze;
+2_BAK12;9;sie;NL-2;Cloze;
+2_BAK12;10;-;NL-2;Cloze;
+2_BAK12;11;-;NL-2;Cloze;
+2_BAK12;12;Er;NL-2;Cloze;
+2_BAK12;13;Identität;NL-2;Cloze;
+2_BAK12;14;Empfängers;NL-2;Cloze;
+2_BAK12;15;Empänger;NL-2;Cloze;
+2_BAK12;16;Empfängerinnen;NL-2;Cloze;
+2_BAK12;17;-;NL-2;Cloze;
+2_BAK12;18;von;NL-2;Cloze;
+2_BAK12;19;so;NL-2;Cloze;
+2_BAK12;20;die;NL-2;Cloze;
+2_BAK12;21;mit;NL-2;Cloze;
+2_BAK12;1;3;SUS-NL;;
+2_BAK12;2;2;SUS-NL;;
+2_BAK12;3;3;SUS-NL;;
+2_BAK12;4;2;SUS-NL;;
+2_BAK12;5;2;SUS-NL;;
+2_BAK12;6;3;SUS-NL;;
+2_BAK12;7;3;SUS-NL;;
+2_BAK12;8;2;SUS-NL;;
+2_BAK12;9;3;SUS-NL;;
+2_BAK12;1;3;Regular use of CL;;
+3_BAK21;1;dies nicht explizit;CL-3;OT;OT: Medium
+3_BAK21;2;erlaubt;CL-3;OT;OT: High
+3_BAK21;3;bewusstes;CL-3;OT;OT: High
+3_BAK21;4;bewusstes;CL-3;OT;OT: High
+3_BAK21;5;eine Tat möglich;CL-3;OT;OT: High
+3_BAK21;6;Möglichkeit der Tat akzeptiert;CL-3;OT;OT: Medium
+3_BAK21;7;verabsäumt;CL-3;OT;OT: High
+3_BAK21;8;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK21;9;Nachlässigkeit;CL-3;OT;OT: Medium
+3_BAK21;10;Verletzung der Sorgfalt;CL-3;OT;OT: High
+3_BAK21;1;Verbrechen;CL-3;Cloze;
+3_BAK21;2;es;CL-3;Cloze;
+3_BAK21;3;wird;CL-3;Cloze;
+3_BAK21;4;werden;CL-3;Cloze;
+3_BAK21;5;Vergehen;CL-3;Cloze;
+3_BAK21;6;es;CL-3;Cloze;
+3_BAK21;7;wird;CL-3;Cloze;
+3_BAK21;8;werden;CL-3;Cloze;
+3_BAK21;9;begeht;CL-3;Cloze;
+3_BAK21;10;wird;CL-3;Cloze;
+3_BAK21;11;vorsätzlich;CL-3;Cloze;
+3_BAK21;12;Vergehen;CL-3;Cloze;
+3_BAK21;13;sich;CL-3;Cloze;
+3_BAK21;14;die Tat;CL-3;Cloze;
+3_BAK21;15;handelt;CL-3;Cloze;
+3_BAK21;16;um;CL-3;Cloze;
+3_BAK21;17;Person;CL-3;Cloze;
+3_BAK21;18;ein Vergehen;CL-3;Cloze;
+3_BAK21;19;der;CL-3;Cloze;
+3_BAK21;20;die;CL-3;Cloze;
+3_BAK21;21;bewusst;CL-3;Cloze;
+3_BAK21;22;-;CL-3;Cloze;
+3_BAK21;23;akzeptiert;CL-3;Cloze;
+3_BAK21;24;handelt;CL-3;Cloze;
+3_BAK21;25;Tat;CL-3;Cloze;
+3_BAK21;26;ist;CL-3;Cloze;
+3_BAK21;27;aus;CL-3;Cloze;
+3_BAK21;28;Tat;CL-3;Cloze;
+3_BAK21;29;ist;CL-3;Cloze;
+3_BAK21;30;aus;CL-3;Cloze;
+3_BAK21;31;Person;CL-3;Cloze;
+3_BAK21;32;angemessene;CL-3;Cloze;
+3_BAK21;33;der;CL-3;Cloze;
+3_BAK21;34;dann;CL-3;Cloze;
+3_BAK21;35;Sorgfalt;CL-3;Cloze;
+3_BAK21;1;3;SUS-CL;;
+3_BAK21;2;4;SUS-CL;;
+3_BAK21;3;1;SUS-CL;;
+3_BAK21;4;4;SUS-CL;;
+3_BAK21;5;5;SUS-CL;;
+3_BAK21;6;1;SUS-CL;;
+3_BAK21;7;5;SUS-CL;;
+3_BAK21;8;1;SUS-CL;;
+3_BAK21;9;1;SUS-CL;;
+3_BAK21;1;6;Distraction task;;
+3_BAK21;1;Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_BAK21;2;Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_BAK21;1;ausdrücklich;NL-3;Cloze;
+3_BAK21;2;schuldig;NL-3;Cloze;
+3_BAK21;3;Vergehen;NL-3;Cloze;
+3_BAK21;4;Verbrechen;NL-3;Cloze;
+3_BAK21;5;Tat;NL-3;Cloze;
+3_BAK21;6;begeht;NL-3;Cloze;
+3_BAK21;7;bei;NL-3;Cloze;
+3_BAK21;8;-;NL-3;Cloze;
+3_BAK21;9;nimmt;NL-3;Cloze;
+3_BAK21;10;Vergehen;NL-3;Cloze;
+3_BAK21;11;Handeln;NL-3;Cloze;
+3_BAK21;12;beachtet;NL-3;Cloze;
+3_BAK21;13;nimmt;NL-3;Cloze;
+3_BAK21;14;wenn;NL-3;Cloze;
+3_BAK21;15;nicht;NL-3;Cloze;
+3_BAK21;16;nach;NL-3;Cloze;
+3_BAK21;17;der;NL-3;Cloze;
+3_BAK21;1;5;SUS-NL;;
+3_BAK21;2;2;SUS-NL;;
+3_BAK21;3;5;SUS-NL;;
+3_BAK21;4;1;SUS-NL;;
+3_BAK21;5;2;SUS-NL;;
+3_BAK21;6;5;SUS-NL;;
+3_BAK21;7;5;SUS-NL;;
+3_BAK21;8;1;SUS-NL;;
+3_BAK21;9;1;SUS-NL;;
+3_BAK21;1;1;Regular use of CL;;
+3_ABK23;1;Verwirklichung der Tat für möglich hält;NL-3;OT;OT: Low
+3_ABK23;2;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK23;3;Vorsicht;NL-3;OT;OT: Low
+3_ABK23;4;persönlichen Verhältnissen;NL-3;OT;OT: High
+3_ABK23;1;ausdrücklich;NL-3;Cloze;
+3_ABK23;2;Straftat;NL-3;Cloze;
+3_ABK23;3;Vergehen;NL-3;Cloze;
+3_ABK23;4;Verbrechen;NL-3;Cloze;
+3_ABK23;5;Tat;NL-3;Cloze;
+3_ABK23;6;begeht;NL-3;Cloze;
+3_ABK23;7;die;NL-3;Cloze;
+3_ABK23;8;möglich;NL-3;Cloze;
+3_ABK23;9;nimmt;NL-3;Cloze;
+3_ABK23;10;Vergehen;NL-3;Cloze;
+3_ABK23;11;Handelns;NL-3;Cloze;
+3_ABK23;12;-;NL-3;Cloze;
+3_ABK23;13;nimmt;NL-3;Cloze;
+3_ABK23;14;wenn;NL-3;Cloze;
+3_ABK23;15;nicht;NL-3;Cloze;
+3_ABK23;16;gemäss;NL-3;Cloze;
+3_ABK23;17;seinen;NL-3;Cloze;
+3_ABK23;1;1;SUS-NL;;
+3_ABK23;2;2;SUS-NL;;
+3_ABK23;3;3;SUS-NL;;
+3_ABK23;4;2;SUS-NL;;
+3_ABK23;5;1;SUS-NL;;
+3_ABK23;6;4;SUS-NL;;
+3_ABK23;7;3;SUS-NL;;
+3_ABK23;8;4;SUS-NL;;
+3_ABK23;9;4;SUS-NL;;
+3_ABK23;1;5;Distraction task;;
+3_ABK23;1;Verbrechen;CL-3;OT;OT: Low
+3_ABK23;2;Vergehen;CL-3;OT;OT: Low
+3_ABK23;3;Verbrechen;CL-3;OT;OT: Low
+3_ABK23;4;Verbrechen;CL-3;OT;OT: Low
+3_ABK23;5;Vergehen;CL-3;OT;OT: Low
+3_ABK23;6;Vergehen;CL-3;OT;OT: Low
+3_ABK23;1;Verbrechen;CL-3;Cloze;
+3_ABK23;2;dieses;CL-3;Cloze;
+3_ABK23;3;wird;CL-3;Cloze;
+3_ABK23;4;-;CL-3;Cloze;
+3_ABK23;5;Verbrechen;CL-3;Cloze;
+3_ABK23;6;dieses;CL-3;Cloze;
+3_ABK23;7;wird;CL-3;Cloze;
+3_ABK23;8;-;CL-3;Cloze;
+3_ABK23;9;begeht;CL-3;Cloze;
+3_ABK23;10;-;CL-3;Cloze;
+3_ABK23;11;vorsätzlich;CL-3;Cloze;
+3_ABK23;12;Verbrechen;CL-3;Cloze;
+3_ABK23;13;sich;CL-3;Cloze;
+3_ABK23;14;es;CL-3;Cloze;
+3_ABK23;15;handelt;CL-3;Cloze;
+3_ABK23;16;um;CL-3;Cloze;
+3_ABK23;17;Person;CL-3;Cloze;
+3_ABK23;18;möglich;CL-3;Cloze;
+3_ABK23;19;besteht;CL-3;Cloze;
+3_ABK23;20;die;CL-3;Cloze;
+3_ABK23;21;bewusst;CL-3;Cloze;
+3_ABK23;22;-;CL-3;Cloze;
+3_ABK23;23;-;CL-3;Cloze;
+3_ABK23;24;-;CL-3;Cloze;
+3_ABK23;25;Tat;CL-3;Cloze;
+3_ABK23;26;ist;CL-3;Cloze;
+3_ABK23;27;mit;CL-3;Cloze;
+3_ABK23;28;Tat;CL-3;Cloze;
+3_ABK23;29;ist;CL-3;Cloze;
+3_ABK23;30;mit;CL-3;Cloze;
+3_ABK23;31;Person;CL-3;Cloze;
+3_ABK23;32;geschuldete;CL-3;Cloze;
+3_ABK23;33;-;CL-3;Cloze;
+3_ABK23;34;-;CL-3;Cloze;
+3_ABK23;35;Sorgfalt;CL-3;Cloze;
+3_ABK23;1;2;SUS-CL;;
+3_ABK23;2;1;SUS-CL;;
+3_ABK23;3;4;SUS-CL;;
+3_ABK23;4;2;SUS-CL;;
+3_ABK23;5;2;SUS-CL;;
+3_ABK23;6;3;SUS-CL;;
+3_ABK23;7;4;SUS-CL;;
+3_ABK23;8;4;SUS-CL;;
+3_ABK23;9;5;SUS-CL;;
+3_ABK23;1;2;Regular use of CL;;
+3_BAK17;1;Person;CL-3;OT;OT: Low
+3_BAK17;2;Verbrechen;CL-3;OT;OT: Low
+3_BAK17;3;Person;CL-3;OT;OT: Low
+3_BAK17;4;Vergehen;CL-3;OT;OT: Low
+3_BAK17;5;Person;CL-3;OT;OT: Low
+3_BAK17;6;Person;CL-3;OT;OT: Low
+3_BAK17;7;Person;CL-3;OT;OT: Low
+3_BAK17;8;Verbrechen;CL-3;OT;OT: Low
+3_BAK17;9;Vergehen;CL-3;OT;OT: Low
+3_BAK17;10;Person;CL-3;OT;OT: Low
+3_BAK17;11;Person;CL-3;OT;OT: Low
+3_BAK17;12;unvorsichtig;CL-3;OT;OT: Low
+3_BAK17;13;Person;CL-3;OT;OT: Low
+3_BAK17;14;Person;CL-3;OT;OT: Low
+3_BAK17;15;Verbrechen;CL-3;OT;OT: Low
+3_BAK17;16;Verbrechen;CL-3;OT;OT: Low
+3_BAK17;17;Vergehen;CL-3;OT;OT: Low
+3_BAK17;18;Vergehen;CL-3;OT;OT: Low
+3_BAK17;19;Person;CL-3;OT;OT: Low
+3_BAK17;20;Sorgfalt;CL-3;OT;OT: Low
+3_BAK17;21;Person;CL-3;OT;OT: Low
+3_BAK17;22;Sorgfalt;CL-3;OT;OT: Low
+3_BAK17;1;Verbrechen;CL-3;Cloze;
+3_BAK17;2;dies;CL-3;Cloze;
+3_BAK17;3;kann;CL-3;Cloze;
+3_BAK17;4;werden;CL-3;Cloze;
+3_BAK17;5;Vergehen;CL-3;Cloze;
+3_BAK17;6;dies;CL-3;Cloze;
+3_BAK17;7;kann;CL-3;Cloze;
+3_BAK17;8;werden;CL-3;Cloze;
+3_BAK17;9;für möglich hält;CL-3;Cloze;
+3_BAK17;10;will;CL-3;Cloze;
+3_BAK17;11;bewusst;CL-3;Cloze;
+3_BAK17;12;Verbrechen;CL-3;Cloze;
+3_BAK17;13;sich;CL-3;Cloze;
+3_BAK17;14;es;CL-3;Cloze;
+3_BAK17;15;handelt;CL-3;Cloze;
+3_BAK17;16;um;CL-3;Cloze;
+3_BAK17;17;Person;CL-3;Cloze;
+3_BAK17;18;möglich;CL-3;Cloze;
+3_BAK17;19;der;CL-3;Cloze;
+3_BAK17;20;die;CL-3;Cloze;
+3_BAK17;21;unsorgfältig;CL-3;Cloze;
+3_BAK17;22;willentlich;CL-3;Cloze;
+3_BAK17;23;vernachlässigt;CL-3;Cloze;
+3_BAK17;24;handelt;CL-3;Cloze;
+3_BAK17;25;Tat;CL-3;Cloze;
+3_BAK17;26;ist;CL-3;Cloze;
+3_BAK17;27;aus;CL-3;Cloze;
+3_BAK17;28;Tat;CL-3;Cloze;
+3_BAK17;29;ist;CL-3;Cloze;
+3_BAK17;30;aus;CL-3;Cloze;
+3_BAK17;31;Person;CL-3;Cloze;
+3_BAK17;32;notwendige;CL-3;Cloze;
+3_BAK17;33;dieser;CL-3;Cloze;
+3_BAK17;34;so;CL-3;Cloze;
+3_BAK17;35;Sorgfalt;CL-3;Cloze;
+3_BAK17;1;2;SUS-CL;;
+3_BAK17;2;5;SUS-CL;;
+3_BAK17;3;2;SUS-CL;;
+3_BAK17;4;3;SUS-CL;;
+3_BAK17;5;3;SUS-CL;;
+3_BAK17;6;2;SUS-CL;;
+3_BAK17;7;5;SUS-CL;;
+3_BAK17;8;3;SUS-CL;;
+3_BAK17;9;3;SUS-CL;;
+3_BAK17;1;5;Distraction task;;
+3_BAK17;1;Verbrechen;NL-3;OT;OT: Low
+3_BAK17;2;Vergehen;NL-3;OT;OT: Low
+3_BAK17;3;Verbrechen;NL-3;OT;OT: Low
+3_BAK17;4;Vergehen;NL-3;OT;OT: Low
+3_BAK17;5;für möglich hält;NL-3;OT;OT: Medium
+3_BAK17;6;in Kauf nimmt;NL-3;OT;OT: Medium
+3_BAK17;7;Verbrechen;NL-3;OT;OT: Low
+3_BAK17;8;Vergehen;NL-3;OT;OT: Low
+3_BAK17;9;Umständen;NL-3;OT;OT: Medium
+3_BAK17;10;persönlichen Verhältnissen;NL-3;OT;OT: Medium
+3_BAK17;1;explizit;NL-3;Cloze;
+3_BAK17;2;strafbar;NL-3;Cloze;
+3_BAK17;3;Vergehen;NL-3;Cloze;
+3_BAK17;4;Verbrechen;NL-3;Cloze;
+3_BAK17;5;Tat;NL-3;Cloze;
+3_BAK17;6;begeht;NL-3;Cloze;
+3_BAK17;7;die;NL-3;Cloze;
+3_BAK17;8;möglich;NL-3;Cloze;
+3_BAK17;9;nimmt;NL-3;Cloze;
+3_BAK17;10;Vergehen;NL-3;Cloze;
+3_BAK17;11;Handelns;NL-3;Cloze;
+3_BAK17;12;beachtet;NL-3;Cloze;
+3_BAK17;13;nimmt;NL-3;Cloze;
+3_BAK17;14;wenn;NL-3;Cloze;
+3_BAK17;15;nicht;NL-3;Cloze;
+3_BAK17;16;nach;NL-3;Cloze;
+3_BAK17;17;seinen;NL-3;Cloze;
+3_BAK17;1;5;SUS-NL;;
+3_BAK17;2;2;SUS-NL;;
+3_BAK17;3;4;SUS-NL;;
+3_BAK17;4;2;SUS-NL;;
+3_BAK17;5;2;SUS-NL;;
+3_BAK17;6;3;SUS-NL;;
+3_BAK17;7;2;SUS-NL;;
+3_BAK17;8;4;SUS-NL;;
+3_BAK17;9;3;SUS-NL;;
+3_BAK17;1;5;Regular use of CL;;
+3_BAK12;1;akzeptiert;CL-3;OT;OT: Medium
+3_BAK12;2;Konsequenzen des Verhaltens;CL-3;OT;OT: Medium
+3_BAK12;3;entsprechende Sorgfalt;CL-3;OT;OT: Medium
+3_BAK12;4;der Person zugetraut werden kann;CL-3;OT;OT: High
+3_BAK12;1;Verbrechen;CL-3;Cloze;
+3_BAK12;2;dies;CL-3;Cloze;
+3_BAK12;3;kann;CL-3;Cloze;
+3_BAK12;4;werden;CL-3;Cloze;
+3_BAK12;5;Vergehen;CL-3;Cloze;
+3_BAK12;6;kann;CL-3;Cloze;
+3_BAK12;7;dies;CL-3;Cloze;
+3_BAK12;8;werden;CL-3;Cloze;
+3_BAK12;9;begeht;CL-3;Cloze;
+3_BAK12;10;will;CL-3;Cloze;
+3_BAK12;11;bewusst;CL-3;Cloze;
+3_BAK12;12;Verbrechen;CL-3;Cloze;
+3_BAK12;13;sich;CL-3;Cloze;
+3_BAK12;14;es;CL-3;Cloze;
+3_BAK12;15;handelt;CL-3;Cloze;
+3_BAK12;16;um;CL-3;Cloze;
+3_BAK12;17;Person;CL-3;Cloze;
+3_BAK12;18;möglich;CL-3;Cloze;
+3_BAK12;19;der;CL-3;Cloze;
+3_BAK12;20;die;CL-3;Cloze;
+3_BAK12;21;nachlässig;CL-3;Cloze;
+3_BAK12;22;verabsäumt;CL-3;Cloze;
+3_BAK12;23;riskiert;CL-3;Cloze;
+3_BAK12;24;handelt;CL-3;Cloze;
+3_BAK12;25;Tat;CL-3;Cloze;
+3_BAK12;26;ist;CL-3;Cloze;
+3_BAK12;27;aus;CL-3;Cloze;
+3_BAK12;28;Tat;CL-3;Cloze;
+3_BAK12;29;ist;CL-3;Cloze;
+3_BAK12;30;aus;CL-3;Cloze;
+3_BAK12;31;Person;CL-3;Cloze;
+3_BAK12;32;angemessene;CL-3;Cloze;
+3_BAK12;33;der;CL-3;Cloze;
+3_BAK12;34;-;CL-3;Cloze;
+3_BAK12;35;Sorgfalt;CL-3;Cloze;
+3_BAK12;1;1;SUS-CL;;
+3_BAK12;2;1;SUS-CL;;
+3_BAK12;3;4;SUS-CL;;
+3_BAK12;4;1;SUS-CL;;
+3_BAK12;5;1;SUS-CL;;
+3_BAK12;6;4;SUS-CL;;
+3_BAK12;7;1;SUS-CL;;
+3_BAK12;8;4;SUS-CL;;
+3_BAK12;9;1;SUS-CL;;
+3_BAK12;1;5;Distraction task;;
+3_BAK12;1;Willen;NL-3;OT;OT: Medium
+3_BAK12;2;pflichtwidriger;NL-3;OT;OT: Medium
+3_BAK12;3;Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK12;4;Rücksicht;NL-3;OT;OT: Medium
+3_BAK12;5;Unvorsichtigkeit;NL-3;OT;OT: High
+3_BAK12;1;ausdrücklich;NL-3;Cloze;
+3_BAK12;2;strafbar;NL-3;Cloze;
+3_BAK12;3;Vergehen;NL-3;Cloze;
+3_BAK12;4;Verbrechen;NL-3;Cloze;
+3_BAK12;5;Tat;NL-3;Cloze;
+3_BAK12;6;begeht;NL-3;Cloze;
+3_BAK12;7;die;NL-3;Cloze;
+3_BAK12;8;möglich;NL-3;Cloze;
+3_BAK12;9;nimmt;NL-3;Cloze;
+3_BAK12;10;Vergehen;NL-3;Cloze;
+3_BAK12;11;Handelns;NL-3;Cloze;
+3_BAK12;12;beachtet;NL-3;Cloze;
+3_BAK12;13;nimmt;NL-3;Cloze;
+3_BAK12;14;-;NL-3;Cloze;
+3_BAK12;15;nicht;NL-3;Cloze;
+3_BAK12;16;-;NL-3;Cloze;
+3_BAK12;17;-;NL-3;Cloze;
+3_BAK12;1;1;SUS-NL;;
+3_BAK12;2;4;SUS-NL;;
+3_BAK12;3;1;SUS-NL;;
+3_BAK12;4;3;SUS-NL;;
+3_BAK12;5;2;SUS-NL;;
+3_BAK12;6;2;SUS-NL;;
+3_BAK12;7;3;SUS-NL;;
+3_BAK12;8;2;SUS-NL;;
+3_BAK12;9;3;SUS-NL;;
+3_BAK12;1;3;Regular use of CL;;
+2_ABK13;1;informiert;NL-2;OT;OT: Low
+2_ABK13;2;angemessen;NL-2;OT;OT: High
+2_ABK13;3;erforderlich;NL-2;OT;OT: Medium
+2_ABK13;4;transparente;NL-2;OT;OT: Medium
+2_ABK13;5;gegebenenfalls;NL-2;OT;OT: Low
+2_ABK13;6;Kategorien;NL-2;OT;OT: High
+2_ABK13;1;Person;NL-2;Cloze;
+2_ABK13;2;-;NL-2;Cloze;
+2_ABK13;3;auch;NL-2;Cloze;
+2_ABK13;4;bei;NL-2;Cloze;
+2_ABK13;5;werden;NL-2;Cloze;
+2_ABK13;6;Verantwortliche;NL-2;Cloze;
+2_ABK13;7;bei;NL-2;Cloze;
+2_ABK13;8;mit;NL-2;Cloze;
+2_ABK13;9;der Betroffene;NL-2;Cloze;
+2_ABK13;10;Recht;NL-2;Cloze;
+2_ABK13;11;eine;NL-2;Cloze;
+2_ABK13;12;Verantwortliche;NL-2;Cloze;
+2_ABK13;13;-;NL-2;Cloze;
+2_ABK13;14;Betroffenen;NL-2;Cloze;
+2_ABK13;15;Empfänger;NL-2;Cloze;
+2_ABK13;16;Empfängerinnen;NL-2;Cloze;
+2_ABK13;17;mitgeteilt;NL-2;Cloze;
+2_ABK13;18;von;NL-2;Cloze;
+2_ABK13;19;-;NL-2;Cloze;
+2_ABK13;20;betroffen;NL-2;Cloze;
+2_ABK13;21;mit;NL-2;Cloze;
+2_ABK13;1;4;SUS-NL;;
+2_ABK13;2;2;SUS-NL;;
+2_ABK13;3;3;SUS-NL;;
+2_ABK13;4;1;SUS-NL;;
+2_ABK13;5;4;SUS-NL;;
+2_ABK13;6;4;SUS-NL;;
+2_ABK13;7;2;SUS-NL;;
+2_ABK13;8;3;SUS-NL;;
+2_ABK13;9;2;SUS-NL;;
+2_ABK13;1;8;Distraction task;;
+2_ABK13;1;Daten;CL-2;OT;OT: Medium
+2_ABK13;2;Identität;CL-2;OT;OT: Low
+2_ABK13;3;Kategorien;CL-2;OT;OT: Low
+2_ABK13;1;und;CL-2;Cloze;
+2_ABK13;2;sind;CL-2;Cloze;
+2_ABK13;3;betroffene;CL-2;Cloze;
+2_ABK13;4;dieser;CL-2;Cloze;
+2_ABK13;5;die;CL-2;Cloze;
+2_ABK13;6;von;CL-2;Cloze;
+2_ABK13;7;muss;CL-2;Cloze;
+2_ABK13;8;Person;CL-2;Cloze;
+2_ABK13;9;dem;CL-2;Cloze;
+2_ABK13;10;muss;CL-2;Cloze;
+2_ABK13;11;-;CL-2;Cloze;
+2_ABK13;12;Identität;CL-2;Cloze;
+2_ABK13;13;über;CL-2;Cloze;
+2_ABK13;14;beinhalten;CL-2;Cloze;
+2_ABK13;15;der;CL-2;Cloze;
+2_ABK13;16;Empfänger;CL-2;Cloze;
+2_ABK13;17;Information;CL-2;Cloze;
+2_ABK13;18;Einsehen;CL-2;Cloze;
+2_ABK13;19;Betroffenen;CL-2;Cloze;
+2_ABK13;20;Datenschutzgesetz;CL-2;Cloze;
+2_ABK13;21;Information;CL-2;Cloze;
+2_ABK13;22;der;CL-2;Cloze;
+2_ABK13;23;betroffenen;CL-2;Cloze;
+2_ABK13;24;von;CL-2;Cloze;
+2_ABK13;25;so;CL-2;Cloze;
+2_ABK13;26;Daten;CL-2;Cloze;
+2_ABK13;27;der;CL-2;Cloze;
+2_ABK13;1;4;SUS-CL;;
+2_ABK13;2;2;SUS-CL;;
+2_ABK13;3;4;SUS-CL;;
+2_ABK13;4;2;SUS-CL;;
+2_ABK13;5;3;SUS-CL;;
+2_ABK13;6;4;SUS-CL;;
+2_ABK13;7;2;SUS-CL;;
+2_ABK13;8;3;SUS-CL;;
+2_ABK13;9;2;SUS-CL;;
+2_ABK13;1;3;Regular use of CL;;
+3_BAK13;1;verabsäumt;CL-3;OT;OT: High
+3_BAK13;2;nachlässig;CL-3;OT;OT: Low
+3_BAK13;3;Nachlässigkeit;CL-3;OT;OT: Low
+3_BAK13;4;Nachlässigkeit;CL-3;OT;OT: Low
+3_BAK13;1;Verbrechen;CL-3;Cloze;
+3_BAK13;2;-;CL-3;Cloze;
+3_BAK13;3;wird;CL-3;Cloze;
+3_BAK13;4;-;CL-3;Cloze;
+3_BAK13;5;Verbrechen;CL-3;Cloze;
+3_BAK13;6;dies;CL-3;Cloze;
+3_BAK13;7;wird;CL-3;Cloze;
+3_BAK13;8;-;CL-3;Cloze;
+3_BAK13;9;begeht;CL-3;Cloze;
+3_BAK13;10;wollte;CL-3;Cloze;
+3_BAK13;11;-;CL-3;Cloze;
+3_BAK13;12;Verbrechen;CL-3;Cloze;
+3_BAK13;13;sich;CL-3;Cloze;
+3_BAK13;14;es;CL-3;Cloze;
+3_BAK13;15;handelt;CL-3;Cloze;
+3_BAK13;16;um;CL-3;Cloze;
+3_BAK13;17;Person;CL-3;Cloze;
+3_BAK13;18;unerlaubt;CL-3;Cloze;
+3_BAK13;19;hat;CL-3;Cloze;
+3_BAK13;20;diese;CL-3;Cloze;
+3_BAK13;21;bewusst;CL-3;Cloze;
+3_BAK13;22;-;CL-3;Cloze;
+3_BAK13;23;-;CL-3;Cloze;
+3_BAK13;24;agiert;CL-3;Cloze;
+3_BAK13;25;Tatsache;CL-3;Cloze;
+3_BAK13;26;ist;CL-3;Cloze;
+3_BAK13;27;mit;CL-3;Cloze;
+3_BAK13;28;Tatsache;CL-3;Cloze;
+3_BAK13;29;ist;CL-3;Cloze;
+3_BAK13;30;mit;CL-3;Cloze;
+3_BAK13;31;Person;CL-3;Cloze;
+3_BAK13;32;nötige;CL-3;Cloze;
+3_BAK13;33;einer;CL-3;Cloze;
+3_BAK13;34;dann;CL-3;Cloze;
+3_BAK13;35;Rechtsvorlagen;CL-3;Cloze;
+3_BAK13;1;3;SUS-CL;;
+3_BAK13;2;4;SUS-CL;;
+3_BAK13;3;1;SUS-CL;;
+3_BAK13;4;4;SUS-CL;;
+3_BAK13;5;3;SUS-CL;;
+3_BAK13;6;1;SUS-CL;;
+3_BAK13;7;3;SUS-CL;;
+3_BAK13;8;1;SUS-CL;;
+3_BAK13;9;5;SUS-CL;;
+3_BAK13;1;5;Distraction task;;
+3_BAK13;1;Vergehen;NL-3;OT;OT: Medium
+3_BAK13;2;Vorsätzlich;NL-3;OT;OT: Low
+3_BAK13;3;Verwirklichung der Tat;NL-3;OT;OT: High
+3_BAK13;4;Vergehen;NL-3;OT;OT: Medium
+3_BAK13;1;-;NL-3;Cloze;
+3_BAK13;2;strafbar;NL-3;Cloze;
+3_BAK13;3;Vorgehen;NL-3;Cloze;
+3_BAK13;4;Verbrechen;NL-3;Cloze;
+3_BAK13;5;Gesetzen;NL-3;Cloze;
+3_BAK13;6;verletzt;NL-3;Cloze;
+3_BAK13;7;aus;NL-3;Cloze;
+3_BAK13;8;gesetzeswidrig;NL-3;Cloze;
+3_BAK13;9;nimmt;NL-3;Cloze;
+3_BAK13;10;Vergehen;NL-3;Cloze;
+3_BAK13;11;agieren;NL-3;Cloze;
+3_BAK13;12;handelt;NL-3;Cloze;
+3_BAK13;13;nimmt;NL-3;Cloze;
+3_BAK13;14;mittels;NL-3;Cloze;
+3_BAK13;15;nicht;NL-3;Cloze;
+3_BAK13;16;nach;NL-3;Cloze;
+3_BAK13;17;der;NL-3;Cloze;
+3_BAK13;1;3;SUS-NL;;
+3_BAK13;2;3;SUS-NL;;
+3_BAK13;3;2;SUS-NL;;
+3_BAK13;4;3;SUS-NL;;
+3_BAK13;5;2;SUS-NL;;
+3_BAK13;6;3;SUS-NL;;
+3_BAK13;7;3;SUS-NL;;
+3_BAK13;8;3;SUS-NL;;
+3_BAK13;9;2;SUS-NL;;
+3_BAK13;1;3;Regular use of CL;;
+2_BAK13;1;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;2;Daten;CL-2;OT;OT: Medium
+2_BAK13;3;Daten;CL-2;OT;OT: Medium
+2_BAK13;4;Daten;CL-2;OT;OT: Medium
+2_BAK13;5;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;6;Daten;CL-2;OT;OT: Medium
+2_BAK13;7;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;8;Daten;CL-2;OT;OT: Medium
+2_BAK13;9;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;10;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;11;Daten;CL-2;OT;OT: Medium
+2_BAK13;12;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;13;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;14;Daten;CL-2;OT;OT: Medium
+2_BAK13;15;Daten;CL-2;OT;OT: Medium
+2_BAK13;16;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;17;Daten;CL-2;OT;OT: Medium
+2_BAK13;18;Verantwortliche;CL-2;OT;OT: Low
+2_BAK13;19;Daten;CL-2;OT;OT: Medium
+2_BAK13;1;und;CL-2;Cloze;
+2_BAK13;2;-;CL-2;Cloze;
+2_BAK13;3;betroffene;CL-2;Cloze;
+2_BAK13;4;der;CL-2;Cloze;
+2_BAK13;5;die;CL-2;Cloze;
+2_BAK13;6;-;CL-2;Cloze;
+2_BAK13;7;muss;CL-2;Cloze;
+2_BAK13;8;Person;CL-2;Cloze;
+2_BAK13;9;dem;CL-2;Cloze;
+2_BAK13;10;muss;CL-2;Cloze;
+2_BAK13;11;gesammelten;CL-2;Cloze;
+2_BAK13;12;Daten;CL-2;Cloze;
+2_BAK13;13;über;CL-2;Cloze;
+2_BAK13;14;-;CL-2;Cloze;
+2_BAK13;15;umgehend;CL-2;Cloze;
+2_BAK13;16;sie;CL-2;Cloze;
+2_BAK13;17;-;CL-2;Cloze;
+2_BAK13;18;Sammeln;CL-2;Cloze;
+2_BAK13;19;Person;CL-2;Cloze;
+2_BAK13;20;Datenschutzgesetz;CL-2;Cloze;
+2_BAK13;21;Daten;CL-2;Cloze;
+2_BAK13;22;der;CL-2;Cloze;
+2_BAK13;23;gesammelten;CL-2;Cloze;
+2_BAK13;24;von;CL-2;Cloze;
+2_BAK13;25;-;CL-2;Cloze;
+2_BAK13;26;Person;CL-2;Cloze;
+2_BAK13;27;der;CL-2;Cloze;
+2_BAK13;1;2;SUS-CL;;
+2_BAK13;2;4;SUS-CL;;
+2_BAK13;3;2;SUS-CL;;
+2_BAK13;4;5;SUS-CL;;
+2_BAK13;5;4;SUS-CL;;
+2_BAK13;6;1;SUS-CL;;
+2_BAK13;7;4;SUS-CL;;
+2_BAK13;8;2;SUS-CL;;
+2_BAK13;9;3;SUS-CL;;
+2_BAK13;1;5;Distraction task;;
+2_BAK13;1;Verantwortliche;NL-2;OT;OT: Low
+2_BAK13;2;Verantwortlichen;NL-2;OT;OT: Low
+2_BAK13;3;Empfängerinnen und Empfänger;NL-2;OT;OT: High
+2_BAK13;4;Empfängerinnen und Empfängern;NL-2;OT;OT: High
+2_BAK13;1;Person;NL-2;Cloze;
+2_BAK13;2;der;NL-2;Cloze;
+2_BAK13;3;auch;NL-2;Cloze;
+2_BAK13;4;von;NL-2;Cloze;
+2_BAK13;5;wurden;NL-2;Cloze;
+2_BAK13;6;Man;NL-2;Cloze;
+2_BAK13;7;-;NL-2;Cloze;
+2_BAK13;8;mit;NL-2;Cloze;
+2_BAK13;9;sie;NL-2;Cloze;
+2_BAK13;10;-;NL-2;Cloze;
+2_BAK13;11;damit;NL-2;Cloze;
+2_BAK13;12;Man;NL-2;Cloze;
+2_BAK13;13;-;NL-2;Cloze;
+2_BAK13;14;-;NL-2;Cloze;
+2_BAK13;15;Empfänger;NL-2;Cloze;
+2_BAK13;16;Empfängerinnen;NL-2;Cloze;
+2_BAK13;17;gesammelt;NL-2;Cloze;
+2_BAK13;18;von;NL-2;Cloze;
+2_BAK13;19;-;NL-2;Cloze;
+2_BAK13;20;die;NL-2;Cloze;
+2_BAK13;21;-;NL-2;Cloze;
+2_BAK13;1;2;SUS-NL;;
+2_BAK13;2;4;SUS-NL;;
+2_BAK13;3;2;SUS-NL;;
+2_BAK13;4;4;SUS-NL;;
+2_BAK13;5;2;SUS-NL;;
+2_BAK13;6;3;SUS-NL;;
+2_BAK13;7;4;SUS-NL;;
+2_BAK13;8;2;SUS-NL;;
+2_BAK13;9;3;SUS-NL;;
+2_BAK13;1;4;Regular use of CL;;
+1_ABK12;1;Eltern;NL-1;OT;OT: High
+1_ABK12;2;Vater;NL-1;OT;OT: Low
+1_ABK12;3;Mutter;NL-1;OT;OT: Low
+1_ABK12;4;Vater;NL-1;OT;OT: Low
+1_ABK12;5;ausländische;NL-1;OT;OT: Medium
+1_ABK12;6;schweizerischen;NL-1;OT;OT: Medium
+1_ABK12;7;Vaters;NL-1;OT;OT: Low
+1_ABK12;8;Mutter;NL-1;OT;OT: Low
+1_ABK12;9;Begründung des Kindesverhältnisses;NL-1;OT;OT: Medium
+1_ABK12;10;Vater;NL-1;OT;OT: Low
+1_ABK12;1;von;NL-1;Cloze;
+1_ABK12;2;Eltern;NL-1;Cloze;
+1_ABK12;3;dessen;NL-1;Cloze;
+1_ABK12;4;Bürgerin;NL-1;Cloze;
+1_ABK12;5;einer;NL-1;Cloze;
+1_ABK12;6;dem;NL-1;Cloze;
+1_ABK12;7;minderjährige;NL-1;Cloze;
+1_ABK12;8;Vaters;NL-1;Cloze;
+1_ABK12;9;-;NL-1;Cloze;
+1_ABK12;10;die;NL-1;Cloze;
+1_ABK12;11;Vater;NL-1;Cloze;
+1_ABK12;12;wenn;NL-1;Cloze;
+1_ABK12;13;Bürgerschaft;NL-1;Cloze;
+1_ABK12;14;Kind;NL-1;Cloze;
+1_ABK12;15;das;NL-1;Cloze;
+1_ABK12;16;Kinder;NL-1;Cloze;
+1_ABK12;17;das;NL-1;Cloze;
+1_ABK12;1;4;SUS-NL;;
+1_ABK12;2;1;SUS-NL;;
+1_ABK12;3;2;SUS-NL;;
+1_ABK12;4;2;SUS-NL;;
+1_ABK12;5;3;SUS-NL;;
+1_ABK12;6;2;SUS-NL;;
+1_ABK12;7;1;SUS-NL;;
+1_ABK12;8;3;SUS-NL;;
+1_ABK12;9;3;SUS-NL;;
+1_ABK12;1;5;Distraction task;;
+1_ABK12;1;Eltern;CL-1;OT;OT: High
+1_ABK12;2;Vater;CL-1;OT;OT: Low
+1_ABK12;3;Schweizer;CL-1;OT;OT: High
+1_ABK12;4;Eltern;CL-1;OT;OT: High
+1_ABK12;5;Mutter;CL-1;OT;OT: Low
+1_ABK12;6;Schweizerin;CL-1;OT;OT: High
+1_ABK12;7;Schweizer;CL-1;OT;OT: High
+1_ABK12;8;Schweizer;CL-1;OT;OT: High
+1_ABK12;9;verheiratet;CL-1;OT;OT: Low
+1_ABK12;10;Abstammung;CL-1;OT;OT: Medium
+1_ABK12;11;Schweizer;CL-1;OT;OT: High
+1_ABK12;12;Schweizer;CL-1;OT;OT: High
+1_ABK12;13;Schweizer;CL-1;OT;OT: High
+1_ABK12;1;verheiratet;CL-1;Cloze;
+1_ABK12;2;Schweizer;CL-1;Cloze;
+1_ABK12;3;Kind;CL-1;Cloze;
+1_ABK12;4;Kindes;CL-1;Cloze;
+1_ABK12;5;Mutter;CL-1;Cloze;
+1_ABK12;6;das;CL-1;Cloze;
+1_ABK12;7;Mutter;CL-1;Cloze;
+1_ABK12;8;dem;CL-1;Cloze;
+1_ABK12;9;ist;CL-1;Cloze;
+1_ABK12;10;Kind;CL-1;Cloze;
+1_ABK12;11;und;CL-1;Cloze;
+1_ABK12;12;Kindes;CL-1;Cloze;
+1_ABK12;13;verheiratet;CL-1;Cloze;
+1_ABK12;14;vom;CL-1;Cloze;
+1_ABK12;15;ist;CL-1;Cloze;
+1_ABK12;16;minderjährige;CL-1;Cloze;
+1_ABK12;17;ein;CL-1;Cloze;
+1_ABK12;18;das;CL-1;Cloze;
+1_ABK12;1;5;SUS-CL;;
+1_ABK12;2;1;SUS-CL;;
+1_ABK12;3;5;SUS-CL;;
+1_ABK12;4;1;SUS-CL;;
+1_ABK12;5;5;SUS-CL;;
+1_ABK12;6;4;SUS-CL;;
+1_ABK12;7;2;SUS-CL;;
+1_ABK12;8;4;SUS-CL;;
+1_ABK12;9;2;SUS-CL;;
+1_ABK12;1;5;Regular use of CL;;
+1_BAK13;1;Schweizer;CL-1;OT;OT: Low
+1_BAK13;2;minderjährig;CL-1;OT;OT: Medium
+1_BAK13;3;ausländisch;CL-1;OT;OT: Low
+1_BAK13;4;Abstammung;CL-1;OT;OT: Low
+1_BAK13;5;minderjährige;CL-1;OT;OT: Medium
+1_BAK13;1;verheiratet;CL-1;Cloze;
+1_BAK13;2;Schweizer;CL-1;Cloze;
+1_BAK13;3;Kind;CL-1;Cloze;
+1_BAK13;4;Kindes;CL-1;Cloze;
+1_BAK13;5;Mutter;CL-1;Cloze;
+1_BAK13;6;das;CL-1;Cloze;
+1_BAK13;7;Mutter;CL-1;Cloze;
+1_BAK13;8;verheiratet;CL-1;Cloze;
+1_BAK13;9;ist;CL-1;Cloze;
+1_BAK13;10;Kind;CL-1;Cloze;
+1_BAK13;11;und;CL-1;Cloze;
+1_BAK13;12;Kindes;CL-1;Cloze;
+1_BAK13;13;verheiratet;CL-1;Cloze;
+1_BAK13;14;vom;CL-1;Cloze;
+1_BAK13;15;ist;CL-1;Cloze;
+1_BAK13;16;minderjährige;CL-1;Cloze;
+1_BAK13;17;ein;CL-1;Cloze;
+1_BAK13;18;das;CL-1;Cloze;
+1_BAK13;1;4;SUS-CL;;
+1_BAK13;2;4;SUS-CL;;
+1_BAK13;3;2;SUS-CL;;
+1_BAK13;4;2;SUS-CL;;
+1_BAK13;5;3;SUS-CL;;
+1_BAK13;6;2;SUS-CL;;
+1_BAK13;7;3;SUS-CL;;
+1_BAK13;8;3;SUS-CL;;
+1_BAK13;9;3;SUS-CL;;
+1_BAK13;1;9;Distraction task;;
+1_BAK13;1;die Begründung des Kindesverhältnisses zum Vater;NL-1;OT;OT: Medium
+1_BAK13;2;wie wenn der Erwerb mit der Geburt erfolgt wäre;NL-1;OT;OT: Medium
+1_BAK13;1;von;NL-1;Cloze;
+1_BAK13;2;Eltern;NL-1;Cloze;
+1_BAK13;3;dessen;NL-1;Cloze;
+1_BAK13;4;Bürgerin;NL-1;Cloze;
+1_BAK13;5;eine;NL-1;Cloze;
+1_BAK13;6;dem;NL-1;Cloze;
+1_BAK13;7;minderjährige;NL-1;Cloze;
+1_BAK13;8;Vaters;NL-1;Cloze;
+1_BAK13;9;nicht;NL-1;Cloze;
+1_BAK13;10;die Begründung des Kindesverhältnisses zum Vater;NL-1;Cloze;
+1_BAK13;11;Vater;NL-1;Cloze;
+1_BAK13;12;-;NL-1;Cloze;
+1_BAK13;13;Mutter;NL-1;Cloze;
+1_BAK13;14;Kind;NL-1;Cloze;
+1_BAK13;15;das;NL-1;Cloze;
+1_BAK13;16;Kinder;NL-1;Cloze;
+1_BAK13;17;diese;NL-1;Cloze;
+1_BAK13;1;4;SUS-NL;;
+1_BAK13;2;2;SUS-NL;;
+1_BAK13;3;4;SUS-NL;;
+1_BAK13;4;3;SUS-NL;;
+1_BAK13;5;3;SUS-NL;;
+1_BAK13;6;4;SUS-NL;;
+1_BAK13;7;3;SUS-NL;;
+1_BAK13;8;4;SUS-NL;;
+1_BAK13;9;3;SUS-NL;;
+1_BAK13;1;4;Regular use of CL;;
+1_BAK12;1;Schweizer;CL-1;OT;OT: Low
+1_BAK12;2;Schweizer;CL-1;OT;OT: Low
+1_BAK12;3;Schweizerin;CL-1;OT;OT: Low
+1_BAK12;4;Schweizer;CL-1;OT;OT: Low
+1_BAK12;5;Schweizer;CL-1;OT;OT: Low
+1_BAK12;6;Schweiter;CL-1;OT;OT: Low
+1_BAK12;7;Schweizer;CL-1;OT;OT: Low
+1_BAK12;8;die Abstammung vom Vater bestätigt ist;CL-1;OT;OT: High
+1_BAK12;9;Schweizer;CL-1;OT;OT: Low
+1_BAK12;10;Schweizer;CL-1;OT;OT: Low
+1_BAK12;11;Schweizer;CL-1;OT;OT: Low
+1_BAK12;1;verheiratet;CL-1;Cloze;
+1_BAK12;2;Schweizer;CL-1;Cloze;
+1_BAK12;3;Kind;CL-1;Cloze;
+1_BAK12;4;Kindes;CL-1;Cloze;
+1_BAK12;5;Mutter;CL-1;Cloze;
+1_BAK12;6;das;CL-1;Cloze;
+1_BAK12;7;Mutter;CL-1;Cloze;
+1_BAK12;8;dem;CL-1;Cloze;
+1_BAK12;9;ist;CL-1;Cloze;
+1_BAK12;10;Kind;CL-1;Cloze;
+1_BAK12;11;und;CL-1;Cloze;
+1_BAK12;12;Kindes;CL-1;Cloze;
+1_BAK12;13;verheiratet;CL-1;Cloze;
+1_BAK12;14;vom;CL-1;Cloze;
+1_BAK12;15;ist;CL-1;Cloze;
+1_BAK12;16;minderjährige;CL-1;Cloze;
+1_BAK12;17;ein;CL-1;Cloze;
+1_BAK12;18;das;CL-1;Cloze;
+1_BAK12;1;1;SUS-CL;;
+1_BAK12;2;4;SUS-CL;;
+1_BAK12;3;1;SUS-CL;;
+1_BAK12;4;4;SUS-CL;;
+1_BAK12;5;2;SUS-CL;;
+1_BAK12;6;2;SUS-CL;;
+1_BAK12;7;5;SUS-CL;;
+1_BAK12;8;1;SUS-CL;;
+1_BAK12;9;3;SUS-CL;;
+1_BAK12;1;5;Distraction task;;
+1_BAK12;1;schweizerischen;NL-1;OT;OT: Low
+1_BAK12;2;Begründung des Kindesverhältnisses;NL-1;OT;OT: High
+1_BAK12;1;von;NL-1;Cloze;
+1_BAK12;2;Eltern;NL-1;Cloze;
+1_BAK12;3;dessen;NL-1;Cloze;
+1_BAK12;4;Bürgerin;NL-1;Cloze;
+1_BAK12;5;einer;NL-1;Cloze;
+1_BAK12;6;dem;NL-1;Cloze;
+1_BAK12;7;minderjährige;NL-1;Cloze;
+1_BAK12;8;Vaters;NL-1;Cloze;
+1_BAK12;9;nicht;NL-1;Cloze;
+1_BAK12;10;die;NL-1;Cloze;
+1_BAK12;11;Kind;NL-1;Cloze;
+1_BAK12;12;wenn;NL-1;Cloze;
+1_BAK12;13;Geburt;NL-1;Cloze;
+1_BAK12;14;Kind;NL-1;Cloze;
+1_BAK12;15;das;NL-1;Cloze;
+1_BAK12;16;Kinder;NL-1;Cloze;
+1_BAK12;17;das;NL-1;Cloze;
+1_BAK12;1;4;SUS-NL;;
+1_BAK12;2;3;SUS-NL;;
+1_BAK12;3;3;SUS-NL;;
+1_BAK12;4;1;SUS-NL;;
+1_BAK12;5;2;SUS-NL;;
+1_BAK12;6;3;SUS-NL;;
+1_BAK12;7;2;SUS-NL;;
+1_BAK12;8;3;SUS-NL;;
+1_BAK12;9;2;SUS-NL;;
+1_BAK12;1;1;Regular use of CL;;
+1_ABK14;1;Begründung des Kindesverhältnisses;NL-1;OT;OT: Low
+1_ABK14;1;von;NL-1;Cloze;
+1_ABK14;2;Eltern;NL-1;Cloze;
+1_ABK14;3;dessen;NL-1;Cloze;
+1_ABK14;4;Bürgerin;NL-1;Cloze;
+1_ABK14;5;der;NL-1;Cloze;
+1_ABK14;6;dem;NL-1;Cloze;
+1_ABK14;7;minderjährige;NL-1;Cloze;
+1_ABK14;8;Vater;NL-1;Cloze;
+1_ABK14;9;des Kindes;NL-1;Cloze;
+1_ABK14;10;die;NL-1;Cloze;
+1_ABK14;11;Vater;NL-1;Cloze;
+1_ABK14;12;-;NL-1;Cloze;
+1_ABK14;13;Geburt;NL-1;Cloze;
+1_ABK14;14;Kind;NL-1;Cloze;
+1_ABK14;15;das;NL-1;Cloze;
+1_ABK14;16;Kinder;NL-1;Cloze;
+1_ABK14;17;das;NL-1;Cloze;
+1_ABK14;1;2;SUS-NL;;
+1_ABK14;2;5;SUS-NL;;
+1_ABK14;3;2;SUS-NL;;
+1_ABK14;4;2;SUS-NL;;
+1_ABK14;5;2;SUS-NL;;
+1_ABK14;6;2;SUS-NL;;
+1_ABK14;7;4;SUS-NL;;
+1_ABK14;8;1;SUS-NL;;
+1_ABK14;9;3;SUS-NL;;
+1_ABK14;1;5;Distraction task;;
+1_ABK14;1;verheiratet;CL-1;Cloze;
+1_ABK14;2;Schweizer;CL-1;Cloze;
+1_ABK14;3;Kind;CL-1;Cloze;
+1_ABK14;4;Kindes;CL-1;Cloze;
+1_ABK14;5;Mutter;CL-1;Cloze;
+1_ABK14;6;das;CL-1;Cloze;
+1_ABK14;7;Mutter;CL-1;Cloze;
+1_ABK14;8;Schweizer;CL-1;Cloze;
+1_ABK14;9;ist;CL-1;Cloze;
+1_ABK14;10;Kind;CL-1;Cloze;
+1_ABK14;11;-;CL-1;Cloze;
+1_ABK14;12;Kindes;CL-1;Cloze;
+1_ABK14;13;verheiratet;CL-1;Cloze;
+1_ABK14;14;vom;CL-1;Cloze;
+1_ABK14;15;ist;CL-1;Cloze;
+1_ABK14;16;-;CL-1;Cloze;
+1_ABK14;17;ein;CL-1;Cloze;
+1_ABK14;18;das;CL-1;Cloze;
+1_ABK14;1;5;SUS-CL;;
+1_ABK14;2;1;SUS-CL;;
+1_ABK14;3;5;SUS-CL;;
+1_ABK14;4;1;SUS-CL;;
+1_ABK14;5;1;SUS-CL;;
+1_ABK14;6;5;SUS-CL;;
+1_ABK14;7;1;SUS-CL;;
+1_ABK14;8;5;SUS-CL;;
+1_ABK14;9;1;SUS-CL;;
+1_ABK14;1;5;Regular use of CL;;
+3_ABK12;1;Vorsätzlich handelt bereits, wer die Verwirklichung der Tat für möglich hält und in Kauf nimmt;NL-3;OT;OT: High
+3_ABK12;2;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: High
+3_ABK12;1;-;NL-3;Cloze;
+3_ABK12;2;schuldig;NL-3;Cloze;
+3_ABK12;3;Vergehen;NL-3;Cloze;
+3_ABK12;4;Verbrechen;NL-3;Cloze;
+3_ABK12;5;Tat;NL-3;Cloze;
+3_ABK12;6;begeht;NL-3;Cloze;
+3_ABK12;7;-;NL-3;Cloze;
+3_ABK12;8;-;NL-3;Cloze;
+3_ABK12;9;-;NL-3;Cloze;
+3_ABK12;10;Vergehen;NL-3;Cloze;
+3_ABK12;11;Handeln;NL-3;Cloze;
+3_ABK12;12;versteht;NL-3;Cloze;
+3_ABK12;13;-;NL-3;Cloze;
+3_ABK12;14;-;NL-3;Cloze;
+3_ABK12;15;-;NL-3;Cloze;
+3_ABK12;16;-;NL-3;Cloze;
+3_ABK12;1;2;SUS-NL;;
+3_ABK12;2;4;SUS-NL;;
+3_ABK12;3;1;SUS-NL;;
+3_ABK12;4;3;SUS-NL;;
+3_ABK12;5;4;SUS-NL;;
+3_ABK12;6;1;SUS-NL;;
+3_ABK12;7;5;SUS-NL;;
+3_ABK12;8;2;SUS-NL;;
+3_ABK12;9;4;SUS-NL;;
+3_ABK12;1;6;Distraction task;;
+3_ABK12;1;bewusst;CL-3;OT;OT: High
+3_ABK12;2;strafrechtlich verfolgt werden;CL-3;OT;OT: High
+3_ABK12;3;bewusst;CL-3;OT;OT: High
+3_ABK12;4;dies nicht expliziz erlaubt;CL-3;OT;OT: Low
+3_ABK12;5;unvorsichtig;CL-3;OT;OT: High
+3_ABK12;6;verabsäumt;CL-3;OT;OT: High
+3_ABK12;7;der Situation entsprechende Sorgfalt;CL-3;OT;OT: Medium
+3_ABK12;1;Verbrechen;CL-3;Cloze;
+3_ABK12;2;das;CL-3;Cloze;
+3_ABK12;3;ist;CL-3;Cloze;
+3_ABK12;4;-;CL-3;Cloze;
+3_ABK12;5;Vergehen;CL-3;Cloze;
+3_ABK12;6;das;CL-3;Cloze;
+3_ABK12;7;ist;CL-3;Cloze;
+3_ABK12;8;-;CL-3;Cloze;
+3_ABK12;9;-;CL-3;Cloze;
+3_ABK12;10;-;CL-3;Cloze;
+3_ABK12;11;-;CL-3;Cloze;
+3_ABK12;12;-;CL-3;Cloze;
+3_ABK12;13;-;CL-3;Cloze;
+3_ABK12;14;-;CL-3;Cloze;
+3_ABK12;15;-;CL-3;Cloze;
+3_ABK12;16;-;CL-3;Cloze;
+3_ABK12;17;-;CL-3;Cloze;
+3_ABK12;18;-;CL-3;Cloze;
+3_ABK12;19;-;CL-3;Cloze;
+3_ABK12;20;-;CL-3;Cloze;
+3_ABK12;21;-;CL-3;Cloze;
+3_ABK12;22;-;CL-3;Cloze;
+3_ABK12;23;-;CL-3;Cloze;
+3_ABK12;24;-;CL-3;Cloze;
+3_ABK12;25;-;CL-3;Cloze;
+3_ABK12;26;-;CL-3;Cloze;
+3_ABK12;27;-;CL-3;Cloze;
+3_ABK12;28;-;CL-3;Cloze;
+3_ABK12;29;-;CL-3;Cloze;
+3_ABK12;30;-;CL-3;Cloze;
+3_ABK12;31;-;CL-3;Cloze;
+3_ABK12;32;-;CL-3;Cloze;
+3_ABK12;33;-;CL-3;Cloze;
+3_ABK12;34;-;CL-3;Cloze;
+3_ABK12;35;-;CL-3;Cloze;
+3_ABK12;1;3;SUS-CL;;
+3_ABK12;2;1;SUS-CL;;
+3_ABK12;3;2;SUS-CL;;
+3_ABK12;4;1;SUS-CL;;
+3_ABK12;5;2;SUS-CL;;
+3_ABK12;6;5;SUS-CL;;
+3_ABK12;7;2;SUS-CL;;
+3_ABK12;8;2;SUS-CL;;
+3_ABK12;9;2;SUS-CL;;
+3_ABK12;1;4;Regular use of CL;;
+1_BAK14;1;Wenn ein Kind minderjährig und ausländisch ist;CL-1;OT;OT: Medium
+1_BAK14;2;und die Abstammung vom Vater bestätigt;CL-1;OT;OT: High
+1_BAK14;1;verheiratet;CL-1;Cloze;
+1_BAK14;2;Schweizer;CL-1;Cloze;
+1_BAK14;3;Kind;CL-1;Cloze;
+1_BAK14;4;Kindes;CL-1;Cloze;
+1_BAK14;5;Mutter;CL-1;Cloze;
+1_BAK14;6;das;CL-1;Cloze;
+1_BAK14;7;Mutter;CL-1;Cloze;
+1_BAK14;8;dessen;CL-1;Cloze;
+1_BAK14;9;ist;CL-1;Cloze;
+1_BAK14;10;Kind;CL-1;Cloze;
+1_BAK14;11;und;CL-1;Cloze;
+1_BAK14;12;Kindes;CL-1;Cloze;
+1_BAK14;13;verheiratet;CL-1;Cloze;
+1_BAK14;14;des;CL-1;Cloze;
+1_BAK14;15;ist;CL-1;Cloze;
+1_BAK14;16;minderjährige;CL-1;Cloze;
+1_BAK14;17;ein;CL-1;Cloze;
+1_BAK14;18;das;CL-1;Cloze;
+1_BAK14;1;3;SUS-CL;;
+1_BAK14;2;3;SUS-CL;;
+1_BAK14;3;2;SUS-CL;;
+1_BAK14;4;1;SUS-CL;;
+1_BAK14;5;4;SUS-CL;;
+1_BAK14;6;3;SUS-CL;;
+1_BAK14;7;3;SUS-CL;;
+1_BAK14;8;3;SUS-CL;;
+1_BAK14;9;1;SUS-CL;;
+1_BAK14;1;6;Distraction task;;
+1_BAK14;1;von;NL-1;Cloze;
+1_BAK14;2;Eltern;NL-1;Cloze;
+1_BAK14;3;der;NL-1;Cloze;
+1_BAK14;4;Bürgerin;NL-1;Cloze;
+1_BAK14;5;einer;NL-1;Cloze;
+1_BAK14;6;dem;NL-1;Cloze;
+1_BAK14;7;minderjährige;NL-1;Cloze;
+1_BAK14;8;Vater;NL-1;Cloze;
+1_BAK14;9;nicht;NL-1;Cloze;
+1_BAK14;10;die;NL-1;Cloze;
+1_BAK14;11;Ursprung;NL-1;Cloze;
+1_BAK14;12;wenn;NL-1;Cloze;
+1_BAK14;13;Geburt;NL-1;Cloze;
+1_BAK14;14;Kind;NL-1;Cloze;
+1_BAK14;15;das;NL-1;Cloze;
+1_BAK14;16;Kinder;NL-1;Cloze;
+1_BAK14;17;das;NL-1;Cloze;
+1_BAK14;1;4;SUS-NL;;
+1_BAK14;2;1;SUS-NL;;
+1_BAK14;3;3;SUS-NL;;
+1_BAK14;4;1;SUS-NL;;
+1_BAK14;5;1;SUS-NL;;
+1_BAK14;6;4;SUS-NL;;
+1_BAK14;7;1;SUS-NL;;
+1_BAK14;8;5;SUS-NL;;
+1_BAK14;9;1;SUS-NL;;
+1_BAK14;1;3;Regular use of CL;;
+1_ABK13;1;erwirbt durch die Begründung des Kindesverhältnisses zum Vater das Schweizer Bürgerrecht;NL-1;OT;OT: Medium
+1_ABK13;2;wie wenn der Erwerb mit der Geburt erfolgt wäre;NL-1;OT;OT: Medium
+1_ABK13;1;von;NL-1;Cloze;
+1_ABK13;2;Eltern;NL-1;Cloze;
+1_ABK13;3;dessen;NL-1;Cloze;
+1_ABK13;4;-;NL-1;Cloze;
+1_ABK13;5;einer;NL-1;Cloze;
+1_ABK13;6;dessen;NL-1;Cloze;
+1_ABK13;7;minderjährige;NL-1;Cloze;
+1_ABK13;8;Vaters;NL-1;Cloze;
+1_ABK13;9;nicht;NL-1;Cloze;
+1_ABK13;10;die;NL-1;Cloze;
+1_ABK13;11;Vater;NL-1;Cloze;
+1_ABK13;12;auch;NL-1;Cloze;
+1_ABK13;13;Geburt;NL-1;Cloze;
+1_ABK13;14;Kind;NL-1;Cloze;
+1_ABK13;15;das;NL-1;Cloze;
+1_ABK13;16;Kinder;NL-1;Cloze;
+1_ABK13;17;das;NL-1;Cloze;
+1_ABK13;1;2;SUS-NL;;
+1_ABK13;2;4;SUS-NL;;
+1_ABK13;3;1;SUS-NL;;
+1_ABK13;4;3;SUS-NL;;
+1_ABK13;5;3;SUS-NL;;
+1_ABK13;6;1;SUS-NL;;
+1_ABK13;7;5;SUS-NL;;
+1_ABK13;8;2;SUS-NL;;
+1_ABK13;9;4;SUS-NL;;
+1_ABK13;1;5;Distraction task;;
+1_ABK13;1;verheiratet;CL-1;Cloze;
+1_ABK13;2;Schweizer;CL-1;Cloze;
+1_ABK13;3;Kind;CL-1;Cloze;
+1_ABK13;4;Kindes;CL-1;Cloze;
+1_ABK13;5;Mutter;CL-1;Cloze;
+1_ABK13;6;das;CL-1;Cloze;
+1_ABK13;7;Mutter;CL-1;Cloze;
+1_ABK13;8;dem;CL-1;Cloze;
+1_ABK13;9;ist;CL-1;Cloze;
+1_ABK13;10;Kind;CL-1;Cloze;
+1_ABK13;11;und;CL-1;Cloze;
+1_ABK13;12;Kindes;CL-1;Cloze;
+1_ABK13;13;verheiratet;CL-1;Cloze;
+1_ABK13;14;vom;CL-1;Cloze;
+1_ABK13;15;ist;CL-1;Cloze;
+1_ABK13;16;minderjährige;CL-1;Cloze;
+1_ABK13;17;ein;CL-1;Cloze;
+1_ABK13;18;das;CL-1;Cloze;
+1_ABK13;1;4;SUS-CL;;
+1_ABK13;2;1;SUS-CL;;
+1_ABK13;3;5;SUS-CL;;
+1_ABK13;4;1;SUS-CL;;
+1_ABK13;5;2;SUS-CL;;
+1_ABK13;6;5;SUS-CL;;
+1_ABK13;7;1;SUS-CL;;
+1_ABK13;8;5;SUS-CL;;
+1_ABK13;9;1;SUS-CL;;
+1_ABK13;1;5;Regular use of CL;;
+3_ABK15;1;pflichtwidriger Unvorsichtigkeit;NL-3;OT;OT: Medium
+3_ABK15;2;nach den Umständen;NL-3;OT;OT: High
+3_ABK15;3;seinen persönlichen Verhältnissen;NL-3;OT;OT: High
+3_ABK15;1;ausdrücklich;NL-3;Cloze;
+3_ABK15;2;strafbar;NL-3;Cloze;
+3_ABK15;3;Vergehen;NL-3;Cloze;
+3_ABK15;4;Verbrechen;NL-3;Cloze;
+3_ABK15;5;Tat;NL-3;Cloze;
+3_ABK15;6;durchführt;NL-3;Cloze;
+3_ABK15;7;die;NL-3;Cloze;
+3_ABK15;8;möglich;NL-3;Cloze;
+3_ABK15;9;nimmt;NL-3;Cloze;
+3_ABK15;10;Vergehen;NL-3;Cloze;
+3_ABK15;11;Handelns;NL-3;Cloze;
+3_ABK15;12;beachtet;NL-3;Cloze;
+3_ABK15;13;nimmt;NL-3;Cloze;
+3_ABK15;14;wenn;NL-3;Cloze;
+3_ABK15;15;nicht;NL-3;Cloze;
+3_ABK15;16;unter;NL-3;Cloze;
+3_ABK15;17;seinen;NL-3;Cloze;
+3_ABK15;1;1;SUS-NL;;
+3_ABK15;2;4;SUS-NL;;
+3_ABK15;3;1;SUS-NL;;
+3_ABK15;4;4;SUS-NL;;
+3_ABK15;5;3;SUS-NL;;
+3_ABK15;6;2;SUS-NL;;
+3_ABK15;7;5;SUS-NL;;
+3_ABK15;8;1;SUS-NL;;
+3_ABK15;9;2;SUS-NL;;
+3_ABK15;1;6;Distraction task;;
+3_ABK15;1;verabsäumt;CL-3;OT;OT: Low
+3_ABK15;2;aus Nachlässigkeit;CL-3;OT;OT: Low
+3_ABK15;1;Vergehen;CL-3;Cloze;
+3_ABK15;2;dieses;CL-3;Cloze;
+3_ABK15;3;kann;CL-3;Cloze;
+3_ABK15;4;werden;CL-3;Cloze;
+3_ABK15;5;Vergehen;CL-3;Cloze;
+3_ABK15;6;dieses;CL-3;Cloze;
+3_ABK15;7;kann;CL-3;Cloze;
+3_ABK15;8;werden;CL-3;Cloze;
+3_ABK15;9;begeht;CL-3;Cloze;
+3_ABK15;10;wollte;CL-3;Cloze;
+3_ABK15;11;vorsätzlich;CL-3;Cloze;
+3_ABK15;12;Verbrechen;CL-3;Cloze;
+3_ABK15;13;sich;CL-3;Cloze;
+3_ABK15;14;es;CL-3;Cloze;
+3_ABK15;15;handelt;CL-3;Cloze;
+3_ABK15;16;um;CL-3;Cloze;
+3_ABK15;17;Person;CL-3;Cloze;
+3_ABK15;18;möglich;CL-3;Cloze;
+3_ABK15;19;der;CL-3;Cloze;
+3_ABK15;20;die;CL-3;Cloze;
+3_ABK15;21;bewusst;CL-3;Cloze;
+3_ABK15;22;-;CL-3;Cloze;
+3_ABK15;23;versäumt;CL-3;Cloze;
+3_ABK15;24;handelt;CL-3;Cloze;
+3_ABK15;25;Tat;CL-3;Cloze;
+3_ABK15;26;ist;CL-3;Cloze;
+3_ABK15;27;mit;CL-3;Cloze;
+3_ABK15;28;Tat;CL-3;Cloze;
+3_ABK15;29;ist;CL-3;Cloze;
+3_ABK15;30;mit;CL-3;Cloze;
+3_ABK15;31;Person;CL-3;Cloze;
+3_ABK15;32;angebrachte;CL-3;Cloze;
+3_ABK15;33;der;CL-3;Cloze;
+3_ABK15;34;dann;CL-3;Cloze;
+3_ABK15;35;Sorgfaltspflicht;CL-3;Cloze;
+3_ABK15;1;3;SUS-CL;;
+3_ABK15;2;2;SUS-CL;;
+3_ABK15;3;4;SUS-CL;;
+3_ABK15;4;1;SUS-CL;;
+3_ABK15;5;2;SUS-CL;;
+3_ABK15;6;3;SUS-CL;;
+3_ABK15;7;2;SUS-CL;;
+3_ABK15;8;4;SUS-CL;;
+3_ABK15;9;2;SUS-CL;;
